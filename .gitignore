@@ -1,0 +1,43 @@
+# ==============================================================================
+# Total War: Attila Modding - .gitignore
+# ==============================================================================
+
+# Binários pesados de compilação intermediária
+*.pack
+*.loc
+*.cuf
+*.rpfm_reserved
+*.pdb
+*.exe
+*.dll
+
+# Permite explicitamente documentações ou templates pequenos se existirem
+!docs/*.png
+!docs/*.jpg
+!docs/*.svg
+
+# Ambientes Python e caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Sistema Operacional e Editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+
+# Diretórios temporários de build e checkpoints locais brutos
+golden_master_backup/
+temp/
+logs/
+build/
+dist/
