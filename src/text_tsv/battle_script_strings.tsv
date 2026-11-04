@@ -1,0 +1,67 @@
+key	value	flag
+battle_script_strings_title_Rom.HB.TF_Intro_Date	text_rejected	1
+battle_script_strings_string_Rom.HB.TF_Battle_Lost_01	Nossas Águias! Estamos perdidos...	1
+battle_script_strings_string_Rom.HB.TF_Battle_Lost_02	Estamos perdidos! Maldito seja, Varo, seu covarde sem espinha!	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_09	Berserkers! Preparem-se!	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_08	Vão! Tirem os estandartes daqui! As legiões não falham!	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_07	Olhem para a retaguarda! Berserkers!	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_06	Reagrupem-se, homens! Estamos quase fora da floresta!	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_05	Varo! Covarde maldito! Avancem enquanto ele distrai o inimigo!	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_04	Você... você está por sua conta. Cavaleiros - comigo! Acelerado!	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_03	Suas ordens, General?	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_02	Continuem se movendo! Temos que passar! Onde está Armínio? Alguém encontre Armínio! Precisamos de seus auxiliares!	1
+battle_script_strings_string_Rom.HB.TF_Gameplay_01	Estamos sob ataque! Olhem pelas águias! Defendam-nas! Aguentem firme!	1
+battle_script_strings_title_Rom.HB.TF_Intro_02	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Outro_02	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Intro_03	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Outro_03	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Intro_01	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Outro_01	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Intro_06	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Intro_04	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Outro_04	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Intro_05	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Battle_Lost_02	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Battle_Lost_01	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_09	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_08	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_02	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_01	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_07	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_06	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_05	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_04	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_11	text_rejected	1
+battle_script_strings_title_Rom.Pro.Capua.Objective_10	text_rejected	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_08	O Cônsul Laenas deve sobreviver.	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_09	Aliados restantes	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_02	Mova o exército de Silano em direção à vila à frente.	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_01	Explore os pontos de interesse tático no campo de batalha.	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_06	Destrua as armas de cerco Samnitas.	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_07	Auxilie na defesa de Cápua.	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_04	Derrote os atacantes Samnitas	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_05	Mantenha os defensores da vila vivos.	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_10	Samnitas restantes	1
+battle_script_strings_string_Rom.Pro.Capua.Objective_11	Use as armas de cerco nas muralhas para repelir o ataque.	1
+battle_script_strings_string_Rom.HB.TF_Intro_Date	Três meses antes...	1
+battle_script_strings_string_Rom.HB.TF_Intro_03	O germânico irá traí-lo. Ele trairá Roma!	1
+battle_script_strings_string_Rom.HB.TF_Outro_03	Ninguém sabe. Menos ainda se importam.	1
+battle_script_strings_string_Rom.HB.TF_Intro_02	Você está caminhando para uma armadilha, Varo!	1
+battle_script_strings_string_Rom.HB.TF_Outro_02	E quanto a Varo?	1
+battle_script_strings_string_Rom.HB.TF_Intro_01	Varo... Ó! Quintílio Varo... devolva-me minhas legiões!	1
+battle_script_strings_string_Rom.HB.TF_Outro_01	Graças aos deuses conseguimos sair daquela floresta infernal! Que Nerio dê força àqueles que deixamos para trás.	1
+battle_script_strings_string_Rom.HB.TF_Intro_06	Mas minha lealdade é para com meu povo.	1
+battle_script_strings_string_Rom.HB.TF_Intro_05	Roma pode ter me criado, me treinado.	1
+battle_script_strings_string_Rom.HB.TF_Intro_04	Armínio? Um traidor? Creio que não.	1
+battle_script_strings_string_Rom.HB.TF_Outro_04	Armínio... Não!	1
+battle_script_strings_title_Rom.HB.TF_Battle_Won_01	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_05	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_04	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_07	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_06	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_01	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_03	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_02	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_09	text_rejected	1
+battle_script_strings_title_Rom.HB.TF_Gameplay_08	text_rejected	1
+battle_script_strings_string_Rom.HB.TF_Battle_Won_01	Estamos fora da floresta! As legiões estão preservadas!	1

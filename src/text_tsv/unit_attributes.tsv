@@ -1,0 +1,34 @@
+key	value	flag
+unit_attributes_bullet_text_cant_run	Não é possível correr||Esta unidade não pode correr e só se moverá em ritmo de caminhada.	1
+unit_attributes_bullet_text_scare_elephant	Assustar (elefantes)||Esta unidade dá uma penalidade de moral aos elefantes.	1
+unit_attributes_bullet_text_raider	Raider||Esta unidade pode incendiar edifícios, causar mais danos de fogo com tochas e capturar mais rápido do que outras unidades.	1
+unit_attributes_bullet_text_ignore_ground_move_mod	Ignorar terreno||As penalidades de velocidade causadas pelo terreno são ignoradas por esta unidade.	1
+unit_attributes_bullet_text_all_ranks_fire	Todos os Ranks Disparam||Todos os Ranks podem atirar se estiverem usando uma arma que permite apenas 1 Rank fazer isso.	1
+unit_attributes_bullet_text_campaign_stealth	Furtividade de campanha||Esta unidade pode se mover pelo mapa de campanha sem ser vista.	1
+unit_attributes_bullet_text_charge_reflector_vs_large	Defesa de Ataque Contra Grandes ||O ataque corpo a corpo e o dano desta unidade são aumentados contra inimigos Grandes que atacam.	1
+unit_attributes_bullet_text_boarding	Embarque||Uma ação de abalroamento resultará em embarque.	1
+unit_attributes_bullet_text_guerrilla_deploy	Implantação de Guerrilha||Esta unidade pode ser implantada fora da zona de implantação.	1
+unit_attributes_bullet_text_run_amok	Run Amok||Esta unidade pode enlouquecer se estiver sob pressão.	1
+unit_attributes_bullet_text_mounted_fire_move	Disparar durante o movimento||Esta unidade pode disparar quando montada e em movimento.	1
+unit_attributes_bullet_text_mighty_knockback	Poderoso Knockback||Esta unidade causa dano extra ao repelir os inimigos.	1
+unit_attributes_bullet_text_scare_all	Assustar (todos)||Esta unidade assusta todas as unidades inimigas.	1
+unit_attributes_bullet_text_charge_reflector	Expert Charge Defense ||O ataque corpo a corpo e o dano desta unidade são aumentados contra inimigos em investida.	1
+unit_attributes_bullet_text_impetuous	Impetuoso||Esta unidade ganha um bônus de moral extra quando está ansiosa.	1
+unit_attributes_bullet_text_berserk	Berserk||Esta unidade pode ficar furiosa durante a batalha. Isso os torna incontroláveis, eles atacarão automaticamente os inimigos próximos.	1
+unit_attributes_bullet_text_snipe	Snipe||Esta unidade permanece escondida enquanto dispara.	1
+unit_attributes_bullet_text_stalk	Stalk||Esta unidade pode se mover escondida em qualquer terreno.	1
+unit_attributes_bullet_text_formed_attack	Ataque em Formação||A unidade tentará permanecer em formação quando estiver em combate corpo a corpo.	1
+unit_attributes_bullet_text_resist_cold	Resistente ao frio||Esta unidade cansa menos rapidamente na neve.	1
+unit_attributes_bullet_text_disciplined	Disciplinado||Esta unidade não sofre penalidade de moral quando o general morre. Ele também pode se recuperar depois de rotear com mais frequência.	1
+unit_attributes_bullet_text_hide_forest	Esconder-se (floresta)||Esta unidade pode se esconder em florestas até que as unidades inimigas se aproximem demais.	1
+unit_attributes_bullet_text_fatigue_res	Resistente à fadiga||A fadiga tem menos efeito nesta unidade.	1
+unit_attributes_bullet_text_hide_grass	Esconder-se (grama)||Esta unidade pode se esconder na grama alta até que as unidades inimigas se aproximem demais.	1
+unit_attributes_bullet_text_resist_heat	Resistente ao calor||Esta unidade cansa menos rapidamente no deserto.	1
+unit_attributes_bullet_text_hide_building	Esconder-se (edifícios)||Esta unidade pode se esconder em edifícios até que as unidades inimigas se aproximem demais.	1
+unit_attributes_bullet_text_hide_scrub_and_forest	Esconder-se (mato e floresta)||Esta unidade pode se esconder em matagal e floresta até que as unidades inimigas se aproximem demais.	1
+unit_attributes_bullet_text_scare_horse	Assustar (cavalos)||Esta unidade dá uma penalidade de moral aos cavalos inimigos.	1
+unit_attributes_bullet_text_immune_cav_penalty	Imune a Lanças||Lanças não têm nenhum benefício extra contra esta unidade de cavalaria.	1
+unit_attributes_bullet_text_encourages	Encorajar||Esta unidade fornece um bônus de moral para aliados próximos.	1
+unit_attributes_bullet_text_climb_fast	Subir Rápido||Esta unidade pode escalar paredes duas vezes mais rápido que unidades normais.	1
+unit_attributes_bullet_text_mounted_fire_parthian	Tiro Parta||Esta unidade pode disparar para todos os lados e não apenas na frente de si mesma.	1
+unit_attributes_bullet_text_scare_immune	Imune ao Medo||Esta unidade é imune aos efeitos de medo de unidades assustadoras.	1

@@ -1,0 +1,1267 @@
+key	value	flag
+effects_description_att_effect_morale_against_nomads	Moral: %+n ao lutar contra facções nômades	1
+effects_description_att_effect_damage_against_nomads	Dano corpo a corpo: %+n ao lutar contra facções nômades	1
+effects_description_att_effect_attack_against_nomads	Ataque corpo a corpo: %+n ao lutar contra facções nômades	1
+effects_description_att_effect_force_navy_battle_support_ship_missile_damage	Dano de mísseis: %+n% para navios com mísseis	1
+effects_description_att_effect_imported_food	Alimentos Importados: %+n alimentos provenientes de rotas comerciais ativas	1
+effects_description_att_effect_agent_action_outcome_target_army_replenishment_increase_dummy	Taxa de reabastecimento: %+n%	1
+effects_description_att_effect_edict_eastern_enlightenment_sanitation	Saneamento: %+n	1
+effects_description_att_effect_force_navy_battle_unit_morale_blockade	Moral: %+n versus frotas de bloqueio	1
+effects_description_att_effect_force_unit_stat_missile_damage	Dano de mísseis: %+n%	1
+effects_description_att_effect_agent_action_outcome_local_province_recruitment_points	Capacidade de recrutamento: %+n	1
+effects_description_att_effect_force_army_campaign_military_morale_add_when_fortified	Integridade: %+n quando fortificado	1
+effects_description_att_effect_unit_training_morale_infantry	Treinamento de moral: %+n para recrutas de infantaria	1
+effects_description_att_effect_agent_action_outcome_target_gather_intelligence_dummy	Itens de informação descobertos: %+n	1
+effects_description_att_mission_issued_dummy	Missão emitida!	1
+effects_description_att_effect_agent_field_line_of_sight_mod	Linha de visão: %+n%	1
+effects_description_att_faction_trait_venedi_growth	Crescimento: %+n	1
+effects_description_att_effect_force_army_battle_unit_morale_during_ambushes	Moral: %+n durante emboscadas	1
+effects_description_att_effect_force_army_campaign_military_morale_add_when_settled	Integridade: %+n quando acampado	1
+effects_description_att_effect_general_religious_roman_unrest	Ordem pública: Até %+n bônus pela presença do paganismo romano	1
+effects_description_att_effect_general_local_mod_construction_costs	Custo de construção: %+n%	1
+effects_description_cha_effect_agent_action_sabotage_building_enable	Ativa: [[col:yellow]]Sabotar Edifício[[/col]]	1
+effects_description_cha_effect_religion_osmosis_islam	Osmose religiosa: %+n Islam	1
+effects_description_att_effect_religion_osmosis_arian	Osmose religiosa: %+n Cristianismo Ariano	1
+effects_description_att_effect_force_navy_campaign_recruitment_points	Capacidade de recrutamento da Marinha: %+n	1
+effects_description_att_effect_agent_action_enable_champion_hinder_character_assault	Habilita: [[col:yellow]]Assalto[[/col]]	1
+effects_description_att_effect_agent_action_buff_champion_hinder_settlement_sabotage_building_damage	Ação de sabotagem de construção: %+n% de dano causado	1
+effects_description_att_effect_edict_catholic_ecumenical_matters_corruption	Corrupção: %+n%	1
+effects_description_att_effect_edict_arian_docrines_arius_religious_conversion_mod	Édito das Doutrinas de Ário: %+n influência religiosa cristã ariana	1
+effects_description_att_effect_agent_action_buff_spy_hinder_army_ruin_provisions_fatigue_resistance	Ação das Provisões de Ruína: %+n% taxa de fadiga	1
+effects_description_att_effect_plague_outbreak_mod_besieger	Doença: dobra a chance de surto	1
+effects_description_att_effect_agent_recruitment_cost_mod_spy	Custo de recrutamento de agentes: %+n% para espiões	1
+effects_description_att_effect_unit_equipment_weapon_bronze	Forjamento de armas I: %+n% de dano corpo a corpo para todos os recrutas de unidades	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_fortification_eastern	Fornece uma pequena seleção de defesas implantáveis ​​quando atacado	1
+effects_description_att_effect_force_unit_stat_melee_attack	Ataque corpo a corpo: %+n	1
+effects_description_att_effect_enemy_force_morale_vs_himyar	Moral do inimigo: %+n ao lutar contra Himyar	1
+effects_description_att_effect_force_army_battle_cavalry_light_missile_firing_rate	Taxa de ataque de mísseis: %+n% para unidades de cavalaria leve	1
+effects_description_att_effect_force_army_campaign_experience_sassanid_azedan	Experiência de unidade %+n experiência para unidades azedan	1
+effects_description_att_effect_force_army_campaign_experience_base_artillery	Experiência da unidade: %+n para recrutas de unidades de cerco	1
+effects_description_att_effect_unit_equipment_cavalry_horse_bonus_ii	Criação de cavalos II: %+n% velocidade de batalha para recrutas de unidades de cavalaria	1
+effects_description_att_effect_edict_arian_docrines_arius_unit_morale_training_mod	Édito das Doutrinas de Ário: %+n treinamento de moral para todos os recrutas	1
+effects_description_att_effect_agent_action_buff_champion_hinder_settlement_sabotage_walls_breaches	Ação de Sabotagem de Paredes: %+n paredes violadas	1
+effects_description_att_effect_force_unit_stat_melee_damage	Dano corpo a corpo: %+n%	1
+effects_description_att_effect_force_army_campaign_stance_ambush_tooltip_hint_dummy	Selecione um exército e passe o mouse sobre o terreno para determinar a chance de sucesso da emboscada.	1
+effects_description_att_effect_force_campaign_military_morale_factor_politics	Integridade: %+n	1
+effects_description_att_effect_economy_corruption_mod	Corrupção: %+n% do valor atual	1
+effects_description_att_effect_edict_zoroastrian_pursuit_truth_corruption_mod	Édito da Busca da Verdade: %+n% corrupção	1
+effects_description_att_effect_general_religious_arian_unrest	Ordem pública: Até %+n bônus pela presença do Cristianismo Ariano	1
+effects_description_att_effect_faction_trait_roman_east_economic_powerhouse_2_trade_tarrifs	Tarifas comerciais: %+n%	1
+effects_description_att_effect_edict_graeco_roman_will_jupiter_military_research_mod	Édito da Vontade de Júpiter: %+n% taxa de pesquisa para desenvolvimentos militares	1
+effects_description_att_effect_agent_action_outcome_local_province_recruitment_cost	Custo de recrutamento: %+n%	1
+effects_description_cha_effect_economy_gdp_mod_all_adjacent_province	Riqueza: %+n% de todos os edifícios nas províncias adjacentes	1
+effects_description_att_effect_edict_celtic_power_taranis_religious_conversion_mod	Édito do Poder de Taranis: %+n influência religiosa pagã celta	1
+effects_description_att_faction_trait_sclaveni_dummy	Moral, Defesa Corpo a Corpo, Ataque Corpo a Corpo: %+n e Dano Corpo a Corpo: +20% ao lutar contra facções Nômades	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_fortification_barbarian	Fornece uma pequena seleção de defesas implantáveis ​​quando atacado	1
+effects_description_att_effect_religion_osmosis_other	Osmose religiosa: %+n Religiões Menores	1
+effects_description_att_effect_agent_action_buff_spy_passive_ability_infiltrate_detectibility	Ação de infiltração: %+n% de chance de ser detectado	1
+effects_description_att_effect_force_navy_battle_unit_morale_blockade_defence	Moral: %+n quando bloqueado	1
+effects_description_att_effect_force_unit_stat_morale	Moral: %+n	1
+effects_description_cha_effect_agent_action_exploit_corruption_enable	Permite: [[col:yellow]]Explorar corrupção[[/col]]	1
+effects_description_att_effect_force_army_campaign_stance_raiding_tooltip_hint_dummy	Invade regiões locais e rotas comerciais em busca de riqueza.	1
+effects_description_cha_effect_religion_osmosis_christianity	Osmose religiosa: %+n Cristianismo	1
+effects_description_att_effect_character_loyalty_mod	Lealdade: %+n	1
+effects_description_att_effect_province_faction_mercenary_xp_bonus	Experiência da unidade: %+n para mercenários de facções locais	1
+effects_description_att_effect_province_attribute_subterfuge	Segurança provincial: %+n contra espiões	1
+effects_description_att_effect_technology_research_cost_mod	Custo de manutenção da pesquisa: %+n%	1
+effects_description_att_effect_edict_catholic_ecumenical_matters_non_state_religious_conversion_mod	Edito de Assuntos Ecumênicos: %+n influência religiosa cristã não-latina	1
+effects_description_att_effect_edict_rome_west_bread_circuses_public_order	Ordem pública: %+n	1
+effects_description_att_effect_unit_equipment_shields_bronze	Criação de escudo I: %+n% eficácia do escudo para recrutas de unidades portadoras de escudo	1
+effects_description_att_effect_force_army_battle_cavalry_light_melee_attack	Ataque corpo a corpo: %+n para unidades de cavalaria leve	1
+effects_description_att_effect_edict_rome_east_rural_development_food	Produção de alimentos: %+n	1
+effects_description_att_effect_force_navy_battle_unit_morale_blockade_attack	Moral: %+n ao bloquear	1
+effects_description_att_effect_sanitation_buildings	Saneamento: %+n	1
+effects_description_num_wall_mounted_artillery_picks	Número de escolhas que um defensor pode fazer ao escolher a artilharia montada na parede antes da batalha. Usado como bônus de região.	1
+effects_description_att_effect_edict_germanic_might_tiw_religious_conversion	Influência religiosa: %+n paganismo germânico	1
+effects_description_bel_faction_trait_roman_expedition_3_integrity	Comitatus: %+n integridade de força.	1
+effects_description_att_effect_agent_action_buff_champion_hinder_character_assault_critical_chance	Ação de assalto: %+n% de chance de matar o alvo	1
+effects_description_att_effect_faction_trait_norse_geats_cold_blood_2_immune_snow_attrition	Imune ao desgaste da neve	1
+effects_description_att_effect_force_army_campaign_recruitment_cost_infantry	Custo de recrutamento: %+n% para unidades de infantaria	1
+effects_description_att_effect_suebi_dummy	%+n% manutenção por 10 turnos para qualquer exército que saqueie ou saqueie um assentamento.	1
+effects_description_att_effect_edict_zoroastrian_teachings_religious_tolerance_mod	Ensinamentos do édito de Zoroastro: %+n% penalidade de ordem pública pela presença de outras religiões	1
+effects_description_att_effect_force_army_battle_unit_morale_during_forest	Moral: %+n durante batalhas na floresta	1
+effects_description_att_effect_agent_action_success_chance	Chance de sucesso: %+n%	1
+effects_description_att_effect_politics_political_action_political_support_cost_mod	Custo da ação política: %+n% apoio político	1
+effects_description_att_faction_trait_antes_morale_grassland_desert_plains	Dano corpo a corpo: %+n ao lutar em pastagens ou planícies desérticas	1
+effects_description_bel_effect_technology_immune_seasickness	Imune ao enjôo	1
+effects_description_att_effect_character_loyalty_mod_faction	Lealdade: %+n	1
+effects_description_att_effect_force_navy_battle_hull_armour	Resistência do casco: %+n%	1
+effects_description_att_effect_agent_action_outcome_target_settlement_steal_corruption_money	Dinheiro de corrupção roubado: %+n%	1
+effects_description_att_effect_agent_action_outcome_target_army_charge_bonus	Bônus de cobrança: %+n%	1
+effects_description_att_effect_unit_equipment_shields_silver	Criação de escudo II: %+n% eficácia do escudo para recrutas de unidades portadoras de escudo	1
+effects_description_att_effect_general_catholic_religious_happiness	Ordem pública: Até %+n bônus pela presença do Cristianismo Latino	1
+effects_description_effect_building_construction_cost_mod_settlements	Custo de construção: %+n% para edifícios de assentamentos principais	1
+effects_description_att_effect_agent_action_outcome_target_army_missile_range	Alcance do míssil: %+n%	1
+effects_description_bel_effect_expeditionbuilding_growth_tech	Crescimento da Expedição: %+n	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_sudes	Implantáveis: %+n conjuntos de caltrops sudes	1
+effects_description_att_effect_force_navy_battle_support_ship_missile_range	Alcance de ataque de mísseis: %+n% para navios com mísseis	1
+effects_description_att_effect_edict_germanic_judgment_wodan_religious_happiness_mod	Julgamento do édito de Wodan: Até %+n bônus de ordem pública pela presença do paganismo germânico	1
+effects_description_att_effect_unit_equipment_weapon_silver	Forjamento de Armas II: %+n% de dano corpo a corpo para todos os recrutas de unidades	1
+effects_description_att_faction_trait_antes_attack_grassland_desert_plains	Moral: %+n ao lutar em pastagens ou planícies desérticas	1
+effects_description_cha_effect_war_weariness_score	Cansaço de guerra atual: [[col:yellow]]%n%[[/col]]	1
+effects_description_att_effect_agent_action_buff_spy_hinder_settlement_ruin_stores	Ação das Lojas de Ruínas: %+n produção de alimentos	1
+effects_description_att_effect_morale_against_judaism	Moral: %+n ao lutar contra facções judaicas	1
+effects_description_att_effect_enemy_force_morale_vs_lakhmids	Moral do inimigo: %+n ao lutar contra os Lakhmids	1
+effects_description_att_effect_tech_income_damaging_buildings	Renda: %+n para cada 10% de dano causado aos assentamentos durante uma batalha.	1
+effects_description_att_effect_edict_manichaeist_exaltation_elect_religious_happiness	Ordem pública: Até %+n bônus pela presença de Maniqueísmo	1
+effects_description_att_effect_force_army_battle_infantry_spears_melee_attack	Ataque corpo a corpo: %+n para unidades de infantaria com lança	1
+effects_description_att_faction_trait_antes_damage_grassland_desert_plains	Ataque corpo a corpo: %+n ao lutar em pastagens ou planícies desérticas	1
+effects_description_att_effect_economy_gdp_trade_sea	Riqueza: %n do comércio marítimo	1
+effects_description_att_effect_agent_action_buff_champion_hinder_army_sabotage_army_armour	Ação do Exército de Sabotagem: %+n% armadura	1
+effects_description_att_faction_trait_garamantes_conversion	%+n% tempo de conversão da cadeia de construção principal	1
+effects_description_att_effect_agent_action_enable_dignitary_assist_province_inspire_populace	Permite: [[col:yellow]]Inspirar população[[/col]]	1
+effects_description_att_effect_unit_equipment_cavalry_horse_bonus_iii	Criação de cavalos III: %+n% velocidade de batalha para recrutas de unidades de cavalaria	1
+effects_description_att_effect_force_navy_campaign_military_morale_add_when_escorting	Integridade: %+n ao acompanhar transportes	1
+effects_description_att_faction_trait_himyar_no_replenishment	Sabotadores do Deserto: Impede o reabastecimento estrangeiro em regiões onde os exércitos estão presentes.	1
+effects_description_cha_effect_general_religious_pagan_unrest	Ordem pública: Até %+n bônus pela presença do Paganismo	1
+effects_description_att_effect_agent_action_enable_spy_hinder_settlement_exploit_corruption	Permite: [[col:yellow]]Explorar corrupção[[/col]]	1
+effects_description_att_effect_force_navy_battle_assault_ship_melee_damage	Dano corpo a corpo: %+n% para navios corpo a corpo	1
+effects_description_att_effect_force_navy_battle_melee_attack_versus_raider_fleets	Ataque corpo a corpo: %+n contra frotas invasoras	1
+effects_description_att_faction_trait_tanukhids_muster_stance	Classificações crescentes: Postura de ataque fornece unidade da Milícia da Rebelião gratuita	1
+effects_description_att_effect_agent_action_enable_champion_hinder_settlement_raid_settlement	Ativa: [[col:yellow]]Assentamento de Raid[[/col]]	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_technologies	Integridade: %+n	1
+effects_description_att_effect_force_all_campaign_upkeep_costs_non_mercenary	Custo de manutenção: %+n% para unidades não mercenárias	1
+effects_description_att_effect_morale_vs_sassanids	Moral: %+n ao lutar contra os Sassânidas	1
+effects_description_att_effect_agent_action_enable_spy_hinder_character_assassinate	Ativa: [[col:yellow]]Assassinar[[/col]]	1
+effects_description_att_effect_force_navy_battle_assault_ship_melee_attack	Ataque corpo a corpo: %+n para navios corpo a corpo	1
+effects_description_att_effect_eos_food_from_attacking_settlements	Comida: %+n por atacar assentamentos inimigos	1
+effects_description_att_effect_faction_trait_barbarian_saxon_saxon_shore_1_income_for_settlement_damage	Renda: %+n para cada 10% de dano causado aos assentamentos durante uma batalha.	1
+effects_description_att_effect_general_attribute_mod_authority_naval	Autoridade: %+n ao liderar uma marinha	1
+effects_description_att_sands_tanukhid_extra_raiding	Reunião: Unidade da Milícia da Rebelião Livre recrutada a cada turno	1
+effects_description_att_effect_force_unit_stat_missile_range	Alcance de ataque de mísseis: %+n%	1
+effects_description_att_effect_force_army_battle_cavalry_heavy_melee_attack	Ataque corpo a corpo: %+n para unidades de cavalaria pesada	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_stakes	Implantáveis: %+n paredes de estaca	1
+effects_description_att_effect_building_road	Desenvolvimento de Estrada: %n	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_spikes	Implantáveis: %+n conjuntos de armadilhas de pico	1
+effects_description_att_effect_faction_trait_eastern_grand_school_1_sanitation_per_province_capital	Saneamento: %+n para cada capital de província detida	1
+effects_description_att_effect_faction_trait_barbarian_burgundian_1	Determinação gelada: %+n% reabastecimento de unidades	1
+effects_description_att_effect_faction_trait_barbarian_burgundian_2	Sustentação Dura: %+n alimentos para cada região com baixa fertilidade.	1
+effects_description_att_effect_faction_trait_norse_danes_seaborn_1_immune_seasickness	Imune ao enjôo	1
+effects_description_att_effect_edict_rome_west_auxiliary_recruitment_mercenary_cost	Custo de recrutamento: %+n% para unidades mercenárias	1
+effects_description_att_effect_edict_germanic_might_tiw_recruitment_points	Capacidade de recrutamento do exército: %+n	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_army_compromise_command_attributes	Comprometer a ação do comando: %+n atributos do general	1
+effects_description_att_effect_province_fertility_garamantia	Irrigação: %+n bônus de fertilidade em todas as províncias	1
+effects_description_att_faction_trait_lakhmids_sassanid_units	Pode recrutar unidades Sassânidas em assentamentos com edifícios militares Sassânidas	1
+effects_description_att_effect_force_recruitment_capacity_home_region	Capacidade de recrutamento: %+n na capital da facção	1
+effects_description_att_effect_melee_attack_against_orthodox	Ataque corpo a corpo: %+n ao lutar contra facções cristãs gregas	1
+effects_description_att_effect_force_army_battle_ranged_infantry_fatigue_resistance	Taxa de fadiga: %+n% para toda a infantaria de longo alcance.	1
+effects_description_att_effect_unit_training_charge_all_land	Cobrar bônus de treinamento: %+n% para todos os recrutas	1
+effects_description_att_effect_agent_action_outcome_target_army_attributes	Atributos do General: %+n	1
+effects_description_att_effect_edict_barbarian_resettlement_growth	Crescimento: %+n	1
+effects_description_att_effect_agent_action_enable_spy_hinder_settlement_ruin_stores	Ativa: [[col:yellow]]Lojas em ruínas[[/col]]	1
+effects_description_att_effect_force_army_battle_swords_melee_damage	Dano corpo a corpo: %+n% para unidades de espada	1
+effects_description_att_effect_faction_trait_migrators_great_migration_growth	Crescimento: %+n ao iniciar uma migração ou reassentamento	1
+effects_description_att_effect_faction_trait_migrators_vandals_pirate_raiders_2_income_from_raid_sack	Renda: %+n% de ataques e saques	1
+effects_description_att_effect_force_navy_campaign_experience_base_ships_all	Experiência da unidade: %+n para todos os recrutas do navio	1
+effects_description_att_effect_politics_political_action_personal_influence_cost_mod	Custo da ação política: %+n% influência pessoal	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_fortification_nomadic	Fornece uma pequena seleção de defesas implantáveis ​​quando atacado	1
+effects_description_cha_effect_pagan_relation_bonus	%+n relações diplomáticas com outras facções pagãs	1
+effects_description_att_effect_edict_germanic_judgment_wodan_civic_research	Taxa de pesquisa: %+n% para desenvolvimentos cívicos	1
+effects_description_att_effect_unit_equipment_cavalry_horse_bonus_i	Criação de cavalos I: %+n% velocidade de batalha para recrutas de unidades de cavalaria	1
+effects_description_att_effect_agent_action_buff_champion_hinder_army_harass_army_casualties	Ação do Exército de Assédio: %+n% baixas infligidas	1
+effects_description_att_effect_force_army_battle_swords_melee_attack	Ataque corpo a corpo: %+n para unidades de espada	1
+effects_description_att_effect_hordebuilding_growth_events_faction	Crescimento da Horda: %+n	1
+effects_description_att_effect_faction_trait_steppe_horses	Corcéis de Elite: %+n% de velocidade de batalha para recrutas de unidades de cavalaria	1
+effects_description_att_effect_general_ability_enable_power_oars_4	"Habilita a habilidade: [[col:yellow]]""Power to the Remos"" IV [[/col]]"	1
+effects_description_att_effect_faction_trait_norse_danes_seaborn_2_immune_sea_attrition	Imune ao atrito em alto mar	1
+effects_description_att_effect_general_ability_enable_power_oars_5	"Habilita a habilidade: [[col:yellow]]""Força para os Remos"" V [[/col]]"	1
+effects_description_att_effect_general_ability_enable_power_oars_2	"Habilita a habilidade: [[col:yellow]]""Power to the Remos"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_power_oars_3	"Habilita a habilidade: [[col:yellow]]""Power to the Remos"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_power_oars_1	"Habilita a habilidade: [[col:yellow]]""Força para os Remos"" I [[/col]]"	1
+effects_description_att_effect_edict_orthodox_divine_liturgy_unit_morale_training_mod	Édito da Divina Litugia: %+n treinamento de moral para todos os recrutas	1
+effects_description_att_effect_agent_recruitment_cap_champion	Quantidade máxima de Campeões ativos aumentada em %+n	1
+effects_description_att_effect_edict_eastern_mass_conscription_non_mercenary_cost_mod	Édito de recrutamento em massa: %+n% custo de recrutamento para unidades não mercenárias	1
+effects_description_att_effect_force_army_battle_infantry_heavy_missile_rate	Taxa de ataque de mísseis: %+n% para unidades de infantaria pesada	1
+effects_description_att_effect_force_army_battle_cavalry_fatigue_resistance	Taxa de fadiga: %+n% para todas as unidades de cavalaria.	1
+effects_description_att_effect_province_attribute_subterfuge_unseen	[NÃO EXIBIDO] Segurança provincial: %+n contra agentes do tipo espião	1
+effects_description_att_effect_general_religious_manichaean_unrest	Ordem pública: Até %+n bônus pela presença de Maniqueísmo	1
+effects_description_cha_effect_agent_action_spy_network_buff	Ação da Rede de Espionagem: %+n% de chance de localizar agentes inimigos	1
+effects_description_att_effect_unit_stat_army_all_shield_mod	Eficácia do escudo: %+n%	1
+effects_description_att_effect_force_army_battle_bow_unit_missile_firing_rate	Taxa de ataque de mísseis: %+n para unidades arqueiras	1
+effects_description_att_effect_force_all_campaign_military_morale_add_when_garrisoned	Integridade: %+n quando guarnecido	1
+effects_description_att_effect_force_army_campaign_local_happiness_repression	Ordem pública: %+n da presença militar	1
+effects_description_att_effect_technology_disable_legacy_1	"Desativa a tecnologia legada ""Arquitetura Moldada"""	1
+effects_description_att_effect_technology_disable_legacy_3	"Desativa a tecnologia legada ""Encanamento Melhorado"""	1
+effects_description_att_effect_technology_disable_legacy_2	"Desativa a tecnologia legada ""Filosofia Natural"""	1
+effects_description_att_effect_technology_disable_legacy_4	"Desativa a tecnologia legada ""Concrete"""	1
+effects_description_att_effect_force_army_battle_cavalry_melee_attack	Ataque corpo a corpo: %+n para unidades de cavalaria	1
+effects_description_att_effect_edict_celtic_power_taranis_recruitment_cost	Custos de recrutamento: %+n% para unidades terrestres	1
+effects_description_att_effect_force_navy_battle_unit_morale_when_escorting	Moral: %+n ao escoltar transportes	1
+effects_description_att_effect_force_army_campaign_attrition_swamp_immunity	Atrito: Imune ao atrito do pântano	1
+effects_description_att_effect_faction_trait_nomads_scourge_christian_fear	Moral do inimigo: %+n ao lutar contra facções cristãs	1
+effects_description_att_effect_agent_action_enable_spy_hinder_army_ruin_provisions	Ativa: [[col:yellow]]Provisões de Ruína[[/col]]	1
+effects_description_att_effect_agent_action_outcome_parent_army_ap	Faixa de movimentação da campanha: %+n%	1
+effects_description_bel_faction_trait_franks_cav_xp	Herança Alanic: %+n experiência para unidades de cavalaria no recrutamento.	1
+effects_description_att_effect_faction_trait_migrators_visigoths_blood_money_2_income_from_migrate	Renda: %+n% ao migrar pelo território romano	1
+effects_description_att_effect_edict_zoroastrian_teachings_growth_mod	Ensinamentos do édito de Zoroastro: %+n crescimento	1
+effects_description_att_effect_agent_action_outcome_target_settlement_squalor	Miséria: %+n	1
+effects_description_att_effect_force_army_battle_cavalry_melee_damage	Dano corpo a corpo: %+n% para unidades de cavalaria	1
+effects_description_att_effect_melee_defence_against_paganism	Defesa corpo a corpo: %+n ao lutar contra facções pagãs semíticas	1
+effects_description_att_effect_agent_attribute_subterfuge_mod	Astúcia: %+n	1
+effects_description_att_effect_force_unit_stat_armour	Armadura: %+n%	1
+effects_description_att_effect_force_army_battle_melee_defence_versus_romans	Defesa corpo a corpo: %+n contra romanos	1
+effects_description_att_effect_force_army_battle_cavalry_ranged_ammunition	Munição: %+n% para cavalaria de mísseis	1
+effects_description_att_effect_agent_action_buff_champion_hinder_character_oppress_critical_chance	Ação de oprimir: %+n% de chance de converter o alvo	1
+effects_description_att_effect_edict_arian_almsgiving_tax_rate_mod	Edito de esmola: %+n% taxa de imposto	1
+effects_description_att_effect_agent_action_buff_spy_hinder_settlement_ruin_stores_squalor	Ação das Lojas de Ruínas: %+n miséria	1
+effects_description_att_effect_edict_orthodox_progress_civic_research	Taxa de pesquisa: %+n% para desenvolvimentos cívicos	1
+effects_description_att_effect_force_army_battle_cavalry_light_missile_range	Alcance de ataque de mísseis: %+n% para unidades de cavalaria leve	1
+effects_description_att_effect_melee_defence_against_judeism	Defesa corpo a corpo: %+n ao lutar contra facções judaicas	1
+effects_description_att_effect_unit_equipment_armour_silver	Forja de armadura II: %+n% de armadura para todos os recrutas de unidades	1
+effects_description_att_effect_force_army_campaign_military_morale_add_own_territory	Integridade: %+n quando em território próprio ou aliado	1
+effects_description_att_effect_force_unit_stat_missile_firing_rate	Taxa de ataque de mísseis: %+n%	1
+effects_description_att_effect_force_army_campaign_recruitment_cost_ranged_infantry	Custo de recrutamento: %+n% para unidades de infantaria de longo alcance	1
+effects_description_att_effect_edict_rome_east_rural_development_growth_mod	Edital de Desenvolvimento Rural: %+n crescimento	1
+effects_description_att_effect_force_army_battle_unit_morale_siege_defence	Moral: %+n quando sitiado	1
+effects_description_att_effect_agent_defence_wound_chance_mod	Autodefesa do agente: %+n% chance de ferir agressores	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_guarded_navy	Integridade: %+n	1
+effects_description_att_effect_agent_action_enable_spy_hinder_settlement_hinder_development	Permite: [[col:yellow]]Desorientar força de trabalho[[/col]]	1
+effects_description_cha_effect_agent_enable_recruitment_imam	Permite o recrutamento de agentes: Imam	1
+effects_description_att_effect_force_navy_battle_artillery_ship_firing_rate	Taxa de ataque de mísseis: %+n% para navios de artilharia	1
+effects_description_att_slavs_add_last_stand_ability	Ativa a habilidade Last Stand para todas as unidades eslavas.	1
+effects_description_att_effect_character_child_chance_null	Não posso ter filhos	1
+effects_description_att_effect_agent_recruitment_xp_champion	Experiência de recrutamento de agentes: %+n para campeões	1
+effects_description_att_effect_force_army_battle_spears_melee_attack	Ataque corpo a corpo: %+n para unidades de lança	1
+effects_description_cha_effect_dummy_dane_transport_movement	As frotas de transporte ganham 200% de alcance de movimento após uma curva no mar.	1
+effects_description_att_effect_defence_against_nomads	Defesa corpo a corpo: %+n ao lutar contra facções nômades	1
+effects_description_att_effect_province_fertility_buildings	Irrigação: %+n bônus de fertilidade nesta província	1
+effects_description_att_effect_force_army_campaign_recruitment_cost_cavalry	Custo de recrutamento: %+n% para unidades de cavalaria	1
+effects_description_att_effect_force_army_battle_spears_melee_damage	Dano corpo a corpo: %+n% para unidades de lança	1
+effects_description_att_effect_force_army_battle_cavalry_missile_firing_rate	Taxa de ataque de mísseis: %+n% para unidades de cavalaria	1
+effects_description_att_effect_character_loyalty_mod_dummy	Lealdade: %+n	1
+effects_description_att_effect_force_all_campaign_loot_income	Renda de saque: %+n%	1
+effects_description_att_effect_force_all_campaign_experience_base_all	Experiência da unidade: %+n para todos os recrutas	1
+effects_description_bel_effect_force_all_campaign_experience_base_all	Experiência da unidade: %+n para todos os recrutas	1
+effects_description_att_effect_edict_orthodox_divine_liturgy_religious_conversion_mod	Édito da Divina Liturgia: %+n influência religiosa cristã grega	1
+effects_description_att_effect_edict_eastern_enlightenment_civic_research_mod	Edital de Busca do Progresso: %+n% taxa de pesquisa para desenvolvimentos cívicos	1
+effects_description_bel_effect_building_construction_cost_mod_agriculture_expedition	Custo de construção: %+n% para edifícios agrícolas	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_province_discourage_populace_public_order	Desencorajar ações da população: %+n ordem pública	1
+effects_description_att_effect_force_army_campaign_experience_base_cavalry	Experiência da unidade: %+n para recrutas de unidades de cavalaria	1
+effects_description_att_effect_province_provincial_mercenary_pool_replenishment_mod	Reabastecimento do pool de mercenários: %+n% para mercenários provinciais locais	1
+effects_description_bel_effect_building_construction_time_mod_settlements_expedition	Tempo de construção: %+n para edifícios de assentamentos principais	1
+effects_description_att_effect_force_unit_stat_morale_own_territory	Moral: %+n quando em território próprio ou aliado	1
+effects_description_att_effect_technology_research_points_mod	Taxa de pesquisa: %+n%	1
+effects_description_att_effect_force_army_battle_infantry_missile_firing_rate	Taxa de ataque de mísseis: %+n% para unidades de infantaria	1
+effects_description_bel_effect_expeditionbuilding_growth_core	Crescimento da expedição: %+n	1
+effects_description_att_effect_agent_action_buff_spy_hinder_character_extort_critical_chance	Ação de extorsão: %+n% chance de converter o alvo	1
+effects_description_att_effect_public_order_tax_rate	Ordem pública: %+n	1
+effects_description_att_effect_force_all_campaign_raid_income	Renda de invasão: %+n%	1
+effects_description_att_unseen_horde_recruitment_many	[UNSEEN] Permite o recrutamento dessas novas unidades!	1
+effects_description_att_effect_force_army_campaign_recruitment_points	Capacidade de recrutamento do exército: %+n	1
+effects_description_att_effect_force_army_campaign_experience_infantry_spear	Experiência da unidade: %+n para recrutas de infantaria lança	1
+effects_description_att_effect_economy_gdp_mod_culture_horde	Riqueza: %+n% de edifícios culturais	1
+effects_description_cha_faction_trait_asturias_raze_abandon	Pode arrasar e abandonar assentamentos	1
+effects_description_att_effect_agent_recruitment_cost_mod_spy_priest	Custo de recrutamento de agentes: %+n% para sacerdotes e espiões	1
+effects_description_att_effect_force_army_battle_melee_attack_versus_raider_armies	Ataque corpo a corpo: %+n contra exércitos invasores	1
+effects_description_att_effect_unit_training_morale_all_sea_hidden	[HIDDEN] Adicione este efeito com escopo provincial_to_sea_region para dar moral às unidades marítimas	1
+effects_description_att_effect_agent_action_buff_spy_assist_province_investigate_corruption_amount	Investigar ação de corrupção: %+n% corrupção	1
+effects_description_att_effect_force_army_battle_cavalry_heavy_missile_firing_rate	Taxa de ataque de mísseis: %+n para unidades de cavalaria pesada	1
+effects_description_att_effect_public_order_politics	Ordem pública: %+n	1
+effects_description_att_effect_politics_political_event_occurence_mod	Incidentes políticos: %+n% de chance de ocorrer	1
+effects_description_att_effect_force_army_campaign_attrition_swamp_resistance	Atrito: %+n% vítimas sofridas por atrito no pântano	1
+effects_description_att_slavs_add_passive_ability_wonder_3	Ativa a habilidade Espírito do Lobo para todas as unidades eslavas.	1
+effects_description_att_effect_edict_celtic_aegis_toutatis_unit_morale_training_mod	Edito da Égide de Toutatis: %+n treinamento de moral para todos os recrutas	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_spikes_single	Implantáveis: %+n conjunto de armadilhas de pico	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_stakes_single	Implantáveis: %+n parede de estaca	1
+effects_description_att_effect_unit_equipment_armour_bronze	Forja de armadura I: %+n% armadura para todos os recrutas de unidades	1
+effects_description_att_effect_agent_action_cost_mod	Custo de ação do agente: %+n%	1
+effects_description_att_effect_character_evade_enemies_mod	Chance de sucesso do agente hostil: %+n%	1
+effects_description_att_effect_technology_research_points_mod_civil	Taxa de pesquisa: %+n% para desenvolvimentos civis	1
+effects_description_att_force_15m_siege_equipment	[Oculto] Forçar muros de 15 m e equipamentos de cerco para a região.	1
+effects_description_att_effect_edict_eastern_mass_conscription_recruitment_points_mod	Edito de recrutamento em massa: %+n capacidade de recrutamento do exército	1
+effects_description_att_effect_unit_training_morale_melee_inf	Treinamento de moral: %+n para recrutas de infantaria corpo a corpo	1
+effects_description_att_effect_province_provincial_mercenary_xp_bonus	Experiência da unidade: %+n para mercenários provinciais locais	1
+effects_description_att_effect_agent_action_enable_champion_hinder_army_assault_unit	Ativa: [[col:yellow]]Assaltar Unidade[[/col]]	1
+effects_description_att_effect_faction_trait_migrators_ostrogoths_honorary_romans_2_roman_unit_recruitment	Pode recrutar unidades romanas em assentamentos com edifícios militares romanos	1
+effects_description_att_effect_edict_rome_west_auxiliary_recruitment_mercenary_replenishment	Taxa de reabastecimento do pool de mercenários: %+n%	1
+effects_description_att_effect_agent_action_outcome_target_army_replenishment_enable_foreign_territroy_dummy	Permite reabastecimento em território estrangeiro	1
+effects_description_att_effect_siege_engine_siege_machine_cost_mod	%+n%% custos de recrutamento de unidades de cerco	1
+effects_description_att_faction_imperium_diplomacy_penalty	Expansionismo: %+n para diplomacia com todas as facções	1
+effects_description_att_effect_agent_action_outcome_target_army_ap	Faixa de movimentação da campanha: %+n%	1
+effects_description_att_effect_agent_action_buff_champion_hinder_army_sabotage_army_damage	Ação do Exército de Sabotagem: %+n% de dano corpo a corpo e de mísseis	1
+effects_description_att_faction_trait_lakhmids_puppet_wealth	Paz Subsidiada: %+n riqueza por turno enquanto estiver em paz com os Sassânidas	1
+effects_description_att_effect_force_all_campaign_replenishment_rate	Reabastecimento: %+n%	1
+effects_description_att_pro_effect_force_all_campaign_upkeep	[OCULTO] Efeito para reduzir a manutenção de exércitos que não são jogadores no prólogo	1
+effects_description_att_effect_agent_failure_chance_critical	Chance de ser ferido após falha: %+n%	1
+effects_description_att_effect_force_army_campaign_upkeep_cost_melee_infantry	Custo de manutenção: %+n% para unidades de infantaria corpo a corpo	1
+effects_description_att_effect_force_all_campaign_stance_cannot_recruit_dummy	Recrutamento: [[col:red]]Desativado[[/col]]	1
+effects_description_att_effect_melee_defence_against_orthodox	Defesa corpo a corpo: %+n ao lutar contra facções cristãs gregas	1
+effects_description_att_effect_agent_action_buff_spy_hinder_character_deceive_critical_chance	Ação de enganar: %+n% de chance de parar o alvo	1
+effects_description_att_effect_edict_tengri_glory_ancestors_recruit_experience_mod	Edito da Glória dos Ancestrais: %+n experiência para todos os recrutas	1
+effects_description_att_effect_unit_training_morale_light_inf_global	Treinamento de moral: %+n para recrutas de infantaria leve	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_buildings	Integridade: %+n	1
+effects_description_att_effect_force_army_campaign_recruitment_cost_melee_infantry	Custo de recrutamento: %+n% para unidades de infantaria corpo a corpo	1
+effects_description_att_effect_plague_infectivity_mod	Doença: %+n% infecciosidade	1
+effects_description_att_effect_siege_engine_number_siege_tower_15m_medium	%n 15 milhões de torres de cerco médias por item de cerco	1
+effects_description_att_effect_siege_engine_enable_siege_tower_15m_medium	Construção de cerco: torre de cerco média de 15m	1
+effects_description_att_effect_faction_trait_roman_west_plurality_1_upkeep_per_foreign_unit	Custo de manutenção: %+n% por unidade não romana em uma força militar	1
+effects_description_att_effect_unit_training_attack_melee_inf	Treinamento de ataque corpo a corpo: %+n para recrutas de infantaria corpo a corpo	1
+effects_description_bel_faction_trait_vandals_2_breakers_success	Especialistas em Sabotagem: %+n% para a chance de sucesso de ações de sabotagem.	1
+effects_description_att_effect_unit_training_morale_elephant	Treinamento de moral: %+n para recrutas de elefantes	1
+effects_description_att_effect_character_gravitas_per_turn	Influência pessoal: %+n por turno	1
+effects_description_att_effect_edict_catholic_mission_civic_research	Taxa de pesquisa: %+n% para desenvolvimentos cívicos	1
+effects_description_bel_effect_building_construction_cost_mod_settlements_expedition	Custo de construção: %+n% para edifícios de assentamentos principais	1
+effects_description_att_effect_hordebuilding_growth_stance	Crescimento da Horda: %+n	1
+effects_description_att_effect_agent_action_outcome_target_army_fatigue_resistance	Taxa de fadiga: %+n%	1
+effects_description_bel_mission_payload_byzantine_diplomacy	Repercussões políticas: %+n para o Império Romano	1
+effects_description_att_effect_force_army_battle_infantry_heavy_melee_attack	Ataque corpo a corpo: %+n para unidades de infantaria pesada	1
+effects_description_att_effect_force_navy_battle_artillery_ship_missile_range	Alcance de ataque de mísseis: %+n% para navios de artilharia	1
+effects_description_att_effect_region_resource_gem_production	Produção de recursos: %n pedras preciosas	1
+effects_description_att_effect_faction_trait_nomads_huns_horsemen_1_conquest_growth	Conquista: %+n de crescimento devido à destruição de assentamentos	1
+effects_description_att_effect_agent_action_enable_champion_hinder_character_oppress	Ativa: [[col:yellow]]Oprimir[[/col]]	1
+effects_description_att_effect_melee_attack_against_paganism	Ataque corpo a corpo: %+n ao lutar contra facções pagãs semíticas	1
+effects_description_att_effect_province_attribute_authority	Segurança provincial: %+n contra padres	1
+effects_description_att_effect_edict_graeco_roman_will_jupiter_religious_conversion	Influência religiosa: %+n paganismo romano	1
+effects_description_att_effect_force_army_battle_infantry_heavy_melee_damage	Dano corpo a corpo: %+n% para unidades de infantaria pesada	1
+effects_description_att_effect_general_bodyguard_mod_battle_movement_speed	Velocidade de movimento de batalha: %+n% para a unidade do comandante	1
+effects_description_att_effect_food_production_farming_grain	Alimentos: %+n da agricultura	1
+effects_description_att_effect_force_army_campaign_stance_growth_all_dummy	Crescimento: %+n na província invadida	1
+effects_description_att_effect_faction_trait_barbarian_saxon_saxon_shore_2_morale_for_raiding	Integridade: %+n ao invadir	1
+effects_description_att_effect_edict_barbarian_warrior_rites_military_research_mod	Édito dos Ritos do Guerreiro: %+n% taxa de pesquisa para desenvolvimentos militares	1
+effects_description_att_effect_general_ability_enable_brace_5	"Ativa a habilidade: [[col:yellow]]""Brace"" V [[/col]]"	1
+effects_description_att_effect_general_ability_enable_brace_4	"Ativa a habilidade: [[col:yellow]]""Brace"" IV [[/col]]"	1
+effects_description_att_effect_general_ability_enable_brace_3	"Ativa a habilidade: [[col:yellow]]""Brace"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_brace_2	"Ativa a habilidade: [[col:yellow]]""Brace"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_brace_1	"Ativa a habilidade: [[col:yellow]]""Brace"" I [[/col]]"	1
+effects_description_att_effect_force_campaign_stance_begin_fatigued_4_tired	Estado da unidade: [[col:red]]Cansado[[/col]]	1
+effects_description_att_effect_eos_improved_marib_dam_repair	Melhoria da reparação da barragem de Ma'rib.	1
+effects_description_att_effect_general_aoe_against_paganism	Habilidades gerais de área de efeito: %+n ao lutar contra facções pagãs semíticas	1
+effects_description_att_effect_food_production_trade	Alimentos: %+n do comércio	1
+effects_description_att_slavs_add_offensive_abiltiy	Ativa a habilidade Ira Eslava para todas as unidades eslavas.	1
+effects_description_att_effect_general_religious_church_east_unrest	Ordem pública: Até %+n bônus pela presença do Cristianismo Oriental	1
+effects_description_att_effect_force_all_campaign_stance_cannot_attack_dummy	Iniciação da batalha: [[col:red]]Desativado[[/col]]	1
+effects_description_att_effect_force_army_campaign_stance_always_ambush_dummy	[[col:red]]Forças nesta postura são sempre emboscadas quando atacadas[[/col]]	1
+effects_description_att_effect_faction_trait_norse_geats_cold_blood_1_morale_in_winter	Moral: %+n ao lutar durante o inverno	1
+effects_description_att_effect_force_army_battle_swords_melee_defence	Defesa corpo a corpo: %+n para unidades de espada	1
+effects_description_att_effect_edict_tengri_wisdom_non_state_religious_conversion_mod	Édito da Sabedoria de Tengri: %+n influência religiosa não-Tengri	1
+effects_description_att_effect_general_ability_enable_fast_charge_4	"Habilita a habilidade: [[col:yellow]]""Carga Rápida"" IV [[/col]]"	1
+effects_description_att_effect_general_ability_enable_fast_charge_5	"Ativa a habilidade: [[col:yellow]]""Carga rápida"" V [[/col]]"	1
+effects_description_att_effect_general_ability_enable_fast_charge_1	"Ativa a habilidade: [[col:yellow]]""Carga rápida"" I [[/col]]"	1
+effects_description_att_effect_public_order_base_neighbouring	Ordem pública: %+n	1
+effects_description_att_effect_general_ability_enable_fast_charge_2	"Habilita a habilidade: [[col:yellow]]""Carga Rápida"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_fast_charge_3	"Habilita a habilidade: [[col:yellow]]""Carga Rápida"" III [[/col]]"	1
+effects_description_att_effect_force_army_battle_infantry_ranged_ammunition	Munição: %+n% para infantaria de mísseis	1
+effects_description_att_effect_force_army_campaign_upkeep_land_in_foreign_territory	Custo de manutenção: %+n% para unidades terrestres quando em território estrangeiro	1
+effects_description_att_effect_technology_research_cost_mod_military	Custo de manutenção da pesquisa: %+n% para desenvolvimentos militares	1
+effects_description_att_effect_force_unit_stat_morale_religious_manichaeist	Moral: %+n para exércitos maniqueístas	1
+effects_description_att_effect_force_unit_stat_melee_attack_versus_romans_alamanni	Frontiersmen: %+n ataque corpo a corpo contra romanos.	1
+effects_description_bel_effect_military_force_gdp_modifier_horde_infighting_faction	Riqueza: %+n% de todos os edifícios da expedição	1
+effects_description_att_effect_agent_action_enable_champion_hinder_army_harass_army	Habilita: [[col:yellow]]Assédio ao Exército[[/col]]	1
+effects_description_att_effect_agent_action_outcome_parent_army_hostile_agent_defence_dummy	Chance de sucesso do agente inimigo: %+n%	1
+effects_description_att_effect_agent_action_outcome_target_army_melee_defence	Defesa corpo a corpo: %+n	1
+effects_description_att_effect_force_army_battle_cavalry_light_movement_speed	Velocidade de movimento de batalha: %+n% para unidades de cavalaria leve	1
+effects_description_att_effect_building_construction_cost_mod_ports	Custo de construção: %+n% para edifícios portuários	1
+effects_description_att_effect_plague_lifetime_mod	Doença: %+n% persistência	1
+effects_description_att_effect_force_campaign_military_morale_factor_offices	Integridade: %+n	1
+effects_description_att_effect_religion_osmosis_zoroastrian	Osmose religiosa: %+n Zoroastrismo	1
+effects_description_att_effect_religion_conversion_semitic_paganism_faction	Influência religiosa: %+n Paganismo Semítico	1
+effects_description_att_effect_food_base_production	Comida: %+n	1
+effects_description_att_effect_force_army_campaign_experience_barbarian_infantry_axe	Experiência de unidade %+n experiência para recrutas de infantaria com machado	1
+effects_description_att_effect_religion_conversion_judaism_faction	Influência religiosa: %+n Judaísmo	1
+effects_description_att_effect_province_growth_other	Crescimento: %+n	1
+effects_description_att_effect_economy_gdp_culture	Riqueza: %n da cultura	1
+effects_description_att_effect_province_growth_taxes	Crescimento: %+n	1
+effects_description_att_effect_building_construction_cost_mod	Custo de construção: %+n%	1
+effects_description_att_effect_unit_training_charge_cavalry	Carregar treinamento bônus: %+n% para recrutas de cavalaria	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_character_betray_critical_chance	Ação de traição: %+n% de chance de matar o alvo	1
+effects_description_att_effect_force_army_campaign_military_morale_add_when_embarked	Integridade: %+n quando embarcado no mar	1
+effects_description_att_effect_public_order_penalty_other_religions	Ordem pública: %+n% penalidade devido à presença de outras religiões	1
+effects_description_att_effect_religion_conversion_orthodox_faction	Influência religiosa: %+n Cristianismo Grego	1
+effects_description_att_effect_religion_conversion_germanic_faction	Influência religiosa: %+n paganismo germânico	1
+effects_description_att_effect_force_all_campaign_reinforcement_range	Faixa de reforço: %+n%	1
+effects_description_bel_reformation_help_dummy_effect	Ter domínio no Ocidente significa que você pode solicitar que outras facções se juntem à sua reforma do Império Romano Ocidental.||Ganhe a opção diplomática: [[col:yellow]]Junte-se ao Império.	1
+effects_description_att_effect_unit_recruitment_points_naval	Capacidade de recrutamento da Marinha: %+n	1
+effects_description_att_effect_force_all_campaign_military_morale_add_when_raiding	Integridade: %+n ao invadir	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_forced_march_stance	Integridade: %+n	1
+effects_description_att_effect_force_army_battle_force_enable_siege_machine_quality_medium	Permite a construção de máquinas de cerco médias	1
+effects_description_cha_effect_agent_action_fire_buff	Iniciar ação de fogo: %+n% de dano causado	1
+effects_description_att_effect_force_army_campaign_siege_attack_holdout_time	Tempo de resistência do cerco inimigo: %+n (duplo para portos da cidade)	1
+effects_description_att_effect_religion_osmosis_manichaeist	Osmose religiosa: %+n Maniqueísmo	1
+effects_description_att_effect_force_unit_stat_morale_during_night	Moral: %+n durante batalhas noturnas	1
+effects_description_att_effect_economy_gdp_mod_agriculture_farming	Riqueza: %+n% de edifícios agrícolas	1
+effects_description_att_effect_religion_conversion_catholic_faction	Influência religiosa: %+n Cristianismo Latino	1
+effects_description_att_effect_force_unit_stat_melee_attack_versus_easterners	Ataque corpo a corpo: %+n contra impérios orientais	1
+effects_description_att_effect_religion_conversion_grecoroman	Influência religiosa: %+n paganismo romano	1
+effects_description_att_effect_edict_graeco_roman_blessing_minerva_sanitation	Saneamento: %+n	1
+effects_description_att_effect_unit_training_morale_cavalry	Treinamento de moral: %+n para recrutas de cavalaria	1
+effects_description_att_effect_food_enemy_prologue	Alimentos consumidos pelo esforço de guerra: [[col:red]]-%n[[/col]]	1
+effects_description_att_effect_edict_graeco_roman_blessing_minerva_religious_happiness_mod	Édito da Bênção de Minerva: Até %+n bônus de ordem pública pela presença do paganismo romano	1
+effects_description_att_effect_force_unit_stat_melee_defence	Defesa corpo a corpo: %+n	1
+effects_description_bel_effect_economy_gdp_mod_agriculture_farming	Riqueza: %+n% de edifícios agrícolas	1
+effects_description_att_effect_economy_gdp_mod_commerce_all	Riqueza: %+n% de edifícios comerciais	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_casualties	Integridade: %+n	1
+effects_description_att_effect_province_food_shortage_public_order_happiness	Ordem pública: [[col:red]]%+n[[/col]]	1
+effects_description_att_effect_economy_gdp_mod_all	Riqueza: %+n% de todos os edifícios	1
+effects_description_att_effect_force_unit_stat_morale_religious_zoroastrian	Moral: %+n para exércitos zoroastrianos	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_army_preach_doom	Ativa: [[col:yellow]]Pregar a Perdição[[/col]]	1
+effects_description_att_effect_faction_trait_nomads_huns_horsemen_3_famine_food_drain	Fome: %+n consumo de alimentos nas províncias onde a horda está presente	1
+effects_description_att_effect_agent_action_buff_spy_hinder_settlement_hinder_development_construction_time	Ação de direcionamento incorreto da força de trabalho: %+n tempo de construção	1
+effects_description_att_effect_force_all_campaign_enable_disease_attrition	Doença causa atrito de unidade	1
+effects_description_att_effect_force_navy_campaign_experience_base_ships_artillery	Experiência da unidade: %+n para recrutas de navios de artilharia	1
+effects_description_att_effect_force_navy_battle_melee_defence_when_escorting	Defesa corpo a corpo: %+n ao escoltar transportes	1
+effects_description_att_effect_character_gravitas_per_situation_mod	Influência pessoal: %+n por situação de ganho de influência	1
+effects_description_att_effect_edict_orthodox_progress_religious_happiness	Ordem pública: Até %+n bônus pela presença do cristianismo grego	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_character_betray	Ativa: [[col:yellow]]Trair[[/col]]	1
+effects_description_att_faction_trait_slavs_defence_against_nomads	Defesa corpo a corpo: %+n ao lutar contra facções nômades	1
+effects_description_att_effect_force_army_battle_missile_firing_rate_versus_rebels	Taxa de ataque de mísseis: %+n% contra exércitos rebeldes	1
+effects_description_att_effect_unit_training_defence_melee_cavalry	Treinamento de defesa corpo a corpo: %+n para recrutas de cavalaria corpo a corpo	1
+effects_description_bel_faction_trait_vandals_battle_morale	Grito de guerra: %+n para o moral da unidade quando estiver em seu próprio território ou em território aliado.	1
+effects_description_att_effect_force_unit_stat_morale_versus_romans	Moral: %+n contra Romanos	1
+effects_description_att_effect_agent_action_success_chance_champion	Chance de sucesso: %+n% para campeões	1
+effects_description_att_effect_eos_fractured_faiths	Religiões Fraturadas: Aumento da pena de ordem pública para diferenças religiosas entre novas religiões	1
+effects_description_att_effect_force_navy_campaign_military_morale_add_foreign_waters	Integridade: %+n quando em águas hostis ou contestadas	1
+effects_description_cha_effect_agent_action_sabotage_building_buff	Ação de sabotagem de construção: %+n% de dano causado	1
+effects_description_att_effect_agent_action_buff_dignitary_passive_ability_spread_religion	Ação de propagação da religião: %+n influência religiosa	1
+effects_description_att_effect_food_production_season_autumn_harvest	Alimentos: %+n da colheita de outono	1
+effects_description_att_effect_agent_recruitment_cost_mod_champion	Custo de recrutamento de agentes: %+n% para campeões	1
+effects_description_att_effect_technology_disable_tier_1_zoroastrism_lakhmid	Desativa a tecnologia: Synaxarium	1
+effects_description_att_effect_technology_disable_tier_2_zoroastrism_lakhmid	Desativa a tecnologia: Constituições Apostólicas	1
+effects_description_att_faction_trait_celts_dummy_1	-15% de redução de velocidade de movimento na postura de ataque.	1
+effects_description_att_effect_general_ability_enable_raise_banner_5	"Ativa a habilidade: [[col:yellow]]""Erguer Estandarte"" V [[/col]]"	1
+effects_description_att_effect_general_ability_enable_raise_banner_4	"Habilita a habilidade: [[col:yellow]]""Erguer Estandarte"" IV [[/col]]"	1
+effects_description_att_effect_general_ability_enable_raise_banner_1	"Ativa a habilidade: [[col:yellow]]""Erguer Estandarte"" I [[/col]]"	1
+effects_description_att_effect_general_ability_enable_raise_banner_3	"Habilita a habilidade: [[col:yellow]]""Erguer Estandarte"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_raise_banner_2	"Ativa a habilidade: [[col:yellow]]""Erguer Estandarte"" II [[/col]]"	1
+effects_description_att_effect_edict_barbarian_warrior_rites_recruit_experience_mod	Edital dos Ritos do Guerreiro: %+n experiência para todos os recrutas	1
+effects_description_att_effect_force_navy_battle_assault_ship_melee_defence	Defesa corpo a corpo: %+n para navios corpo a corpo	1
+effects_description_bel_effect_building_construction_cost_mod_farms	Custo de construção: %+n% para edifícios agrícolas	1
+effects_description_att_effect_horde_food_shortage_remove_all_growth	Interrompe o crescimento da horda	1
+effects_description_att_effect_general_personal_mod_missile_damage	Dano de mísseis: %+n% para a unidade do comandante	1
+effects_description_att_effect_building_corruption	Corrupção: %+n% do valor atual	1
+effects_description_att_effect_force_unit_stat_morale_versus_rebels	Moral: %+n contra rebeldes	1
+effects_description_att_effect_agent_action_buff_dignitary_assist_army_inspire_troops_campaign_morale	Inspire a ação das tropas: %+n Integridade	1
+effects_description_att_effect_edict_barbarian_resettlement_construction_cost	Custo de construção: %+n%	1
+effects_description_att_effect_force_army_battle_spears_melee_defence	Defesa corpo a corpo: %+n para unidades de lança	1
+effects_description_att_effect_public_order_neighbouring_wars	Ordem pública: %+n para cada guerra simultânea com uma facção vizinha	1
+effects_description_bel_faction_trait_visigoths_conversion	Persuasivo: Alta taxa de conversão religiosa em todas as províncias possuídas.	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_own_waters	Integridade: %+n	1
+effects_description_att_effect_religion_conversion_catholic	Influência religiosa: %+n Cristianismo Latino	1
+effects_description_att_effect_agent_action_outcome_target_army_no_reinforce_dummy	[[col:red]]Este exército não pode reforçar[[/col]]	1
+effects_description_att_effect_religion_conversion_grecoroman_faction	Influência religiosa: %+n paganismo romano	1
+effects_description_att_effect_unit_training_accuracy_missile_cavalry	Treinamento de dano de mísseis: %+n% para recrutas de cavalaria de mísseis	1
+effects_description_cha_effect_sanitation_buildings_adjacent_province	Saneamento: %+n nas províncias adjacentes	1
+effects_description_att_effect_public_order_events	Ordem pública: %+n	1
+effects_description_att_effect_religion_conversion_semitic_paganism	Influência religiosa: %+n Paganismo Semítico	1
+effects_description_att_effect_agent_action_cost_mod_priest	Custo de ação do agente: %+n% para sacerdotes	1
+effects_description_att_effect_force_army_battle_unit_morale_during_ambushes_desert	Moral: %+n durante emboscadas no deserto	1
+effects_description_cha_effect_agent_action_bargain_supplies_enable	Permite: [[col:yellow]]Pechincha por suprimentos[[/col]]	1
+effects_description_att_effect_general_aura_mod_all_during_attack_blockade	Aura do Comandante: %+n% ao bloquear	1
+effects_description_att_effect_force_all_campaign_recruitment_cost_mercenary	Custo de recrutamento: %+n% para unidades mercenárias	1
+effects_description_att_effect_agent_action_outcome_target_army_melee_attack	Ataque corpo a corpo: %+n	1
+effects_description_att_effect_religion_conversion_judaism	Influência religiosa: %+n Judaísmo	1
+effects_description_att_faction_trait_himyar_fatigue	Taxa de fadiga: %+n% para todas as unidades	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_foreign_territory	Integridade: %+n	1
+effects_description_att_effect_siege_engine_unlock_tortoise	Pré-cerco: tartaruga\n(somente paredes de pedra)	1
+effects_description_building_upkeep	Custo de manutenção: [[col:red]]%n[[/col]]	1
+effects_description_att_effect_religion_osmosis_church_east	Osmose religiosa: %+n Cristianismo Oriental	1
+effects_description_att_effect_building_upkeep_mod	Custo de manutenção: %+n%	1
+effects_description_att_effect_agent_action_outcome_target_province_enemy_ap	Faixa de movimentação da campanha: %+n%	1
+effects_description_att_effect_province_attribute_zeal_unseen	[NÃO EXIBIDO] Segurança provincial: %+n contra agentes do tipo campeão	1
+effects_description_att_effect_province_growth_armies	Crescimento: %+n	1
+effects_description_att_effect_agent_recruitment_xp_dignitary	Experiência de recrutamento de agentes: %+n para sacerdotes	1
+effects_description_att_faction_trait_antes_defence_forest	Defesa Corpo a Corpo: %+n ao lutar em uma floresta	1
+effects_description_bel_dummy_reinforcements	O Império enviará reforços!	1
+effects_description_att_effect_agent_action_outcome_target_province_religious_unrest	Agitação religiosa: %+n%	1
+effects_description_att_effect_general_bodyguard_mod_morale	Moral: %+n para a unidade do comandante	1
+effects_description_att_effect_religion_conversion_orthodox	Influência religiosa: %+n Cristianismo Grego	1
+effects_description_att_effect_religion_conversion_germanic	Influência religiosa: %+n paganismo germânico	1
+effects_description_att_effect_character_natural_causes_chance_mod	Chance de morte por causas naturais: %+n%	1
+effects_description_att_effect_agent_action_outcome_target_army_melee_damage	Dano corpo a corpo: %+n%	1
+effects_description_att_effect_general_ability_enable_second_wind_3	"Ativa a habilidade: [[col:yellow]]""Second Wind"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_second_wind_2	"Ativa a habilidade: [[col:yellow]]""Second Wind"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_second_wind_1	"Ativa a habilidade: [[col:yellow]]""Second Wind"" I [[/col]]"	1
+effects_description_att_effect_general_ability_enable_second_wind_5	"Ativa a habilidade: [[col:yellow]]""Second Wind"" V [[/col]]"	1
+effects_description_att_effect_general_ability_enable_second_wind_4	"Ativa a habilidade: [[col:yellow]]""Second Wind"" IV [[/col]]"	1
+effects_description_att_effect_agent_action_enable_champion_hinder_settlement_sabotage_walls	Ativa: [[col:yellow]]Sabotagem de Paredes[[/col]]	1
+effects_description_att_effect_edict_tengri_wisdom_unit_morale_training_mod	Édito da Sabedoria de Tengri: %+n treinamento de moral para todos os recrutas	1
+effects_description_att_effect_building_conversion_cost_mod	Custo de conversão do edifício: %+n%	1
+effects_description_att_effect_agent_action_success_chance_critical	Chance de sucesso crítico: %+n%	1
+effects_description_att_effect_economy_gpd_mod_immigration	Riqueza: %+n% da imigração	1
+effects_description_att_faction_trait_antes_defence_grassland_desert_plains	Ataque corpo a corpo: %+n ao lutar em pastagens ou planícies desérticas	1
+effects_description_att_effect_siege_engine_number_tortoise	%n tartarugas por item de cerco	1
+effects_description_att_effect_edict_zoroastrian_pursuit_truth_religious_conversion	Influência religiosa: %+n Zoroastrismo	1
+effects_description_att_effect_force_army_battle_unit_morale_during_ambushes_forest	Moral: %+n durante emboscadas na floresta	1
+effects_description_att_effect_force_army_battle_enemy_unit_morale	Moral do inimigo: %+n	1
+effects_description_att_effect_force_army_campaign_experience_base_infantry	Experiência da unidade: %+n para recrutas de unidades de infantaria	1
+effects_description_att_effect_economy_gdp_mod_commerce_sea	Riqueza: %+n% do comércio marítimo	1
+effects_description_att_effect_economy_gdp_mod_subsistence	Riqueza: %+n% da subsistência	1
+effects_description_att_effect_agent_action_outcome_target_army_ammo	Munição: %+n%	1
+effects_description_att_effect_general_aura_mod_all_during_defence_blockade	Aura do Comandante: %+n% quando bloqueado	1
+effects_description_att_effect_general_aoe_against_orthodox	Habilidades gerais de área de efeito: %+n ao lutar contra facções cristãs gregas	1
+effects_description_att_effect_agent_action_buff_champion_hinder_army_assault_unit_casualties	Ação de conflito: %+n% baixas infligidas	1
+effects_description_att_effect_hordebuilding_growth_if_settled_stance_variant	Crescimento da Horda: %+n	1
+effects_description_bel_effect_hordebuilding_growth_if_settled_stance_variant	Crescimento da expedição: %+n	1
+effects_description_bel_faction_trait_franks_research	Aprendido: %+n% à taxa de pesquisa.	1
+effects_description_att_effect_agent_attribute_authority_mod	Autoridade: %+n	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_character_persuade_critical_chance	Ação de persuasão: %+n% de chance de converter o alvo	1
+effects_description_att_effect_edict_rome_east_urbanisation_tax_rate	Taxa de imposto: %+n%	1
+effects_description_att_effect_military_force_gdp_modifier_horde_infighting_faction	Riqueza: %+n% de todos os edifícios da horda	1
+effects_description_att_effect_edict_rome_west_bread_circuses_food	Produção de alimentos: %+n	1
+effects_description_att_effect_force_army_battle_melee_attack_versus_rebels	Ataque corpo a corpo: %+n contra exércitos rebeldes	1
+effects_description_cha_effect_religion_conversion_paganism_faction	Influência religiosa: %+n paganismo	1
+effects_description_att_effect_force_all_campaign_stance_cannot_move_dummy	Movimento da campanha: [[col:red]]Desativado[[/col]]	1
+effects_description_att_effect_technology_disable_tier_1_pagan_axum	Desativa a tecnologia: Synaxarium	1
+effects_description_att_effect_technology_disable_tier_2_pagan_axum	Desativa a tecnologia: Constituições Apostólicas	1
+effects_description_att_effect_force_army_battle_cavalry_heavy_melee_defence	Defesa corpo a corpo: %+n para unidades de cavalaria pesada	1
+effects_description_att_effect_general_attribute_mod_authority_land	Autoridade: %+n ao liderar um exército	1
+effects_description_att_effect_edict_celtic_aegis_toutatis_religious_happiness_mod	Edito da Égide de Toutatis: Até %+n bônus de ordem pública pela presença do paganismo celta	1
+effects_description_att_effect_force_army_battle_melee_infantry_fatigue_resistance	Taxa de fadiga: %+n% para toda a infantaria corpo a corpo.	1
+effects_description_att_effect_tech_growth_raze_settlements	Crescimento: %+n de crescimento devido à destruição de assentamentos durante a horda.	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_characters	Integridade: %+n	1
+effects_description_att_effect_unit_xp_land	Experiência da unidade: %+n para recrutas de unidades terrestres	1
+effects_description_att_effect_celt_dummy_guerrila_deployment	Todas as unidades possuem implantação de guerrilha.	1
+effects_description_att_bundle_dummy_antonina_theodosius_rejected_2	Seus homens contraíram disenteria!	1
+effects_description_att_effect_occupation_decision_colonise_cost_zero	Sem custo de colonização	1
+effects_description_att_effect_province_food_shortage_disable_replenishment	Interrompe o reabastecimento da unidade	1
+effects_description_att_effect_edict_tengri_glory_ancestors_religious_happiness_mod	Édito da Glória dos Ancestrais: Até %+n bônus de ordem pública pela presença do Tengrismo	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_settlement_compromise_security	Ativa: [[col:yellow]]Comprometer a segurança[[/col]]	1
+effects_description_att_faction_trait_tanukhids_food	Horda Rapaz: Alimentos obtidos apenas em batalhas de assentamento quando a horda	1
+effects_description_att_effect_agent_action_buff_spy_hinder_army_misdirect_army_ap	Ação mal direcionada do Exército: %+n% alcance de movimento	1
+effects_description_att_pro_effect_food_production_reserves	Alimentos: %+n de reservas alimentares	1
+effects_description_att_effect_agent_action_outcome_target_province_religion_spread	Influência religiosa: %+n	1
+effects_description_att_effect_general_bodyguard_mod_melee_defence	Defesa corpo a corpo: %+n para a unidade do comandante	1
+effects_description_att_effect_force_army_battle_enable_siege_machine_quality_heavy	Permite a construção de máquinas de cerco pesadas	1
+effects_description_att_effect_agent_action_enable_dignitary_passive_ability_spread_religion	Permite: [[col:yellow]]Difundir a Religião[[/col]]	1
+effects_description_att_effect_province_attribute_authority_unseen	[NÃO EXIBIDO] Segurança provincial: %+n contra agentes do tipo padre	1
+effects_description_att_effect_force_all_recruitment_points	Capacidade de recrutamento: %+n	1
+effects_description_att_effect_general_ability_enable_rally_2	"Habilita habilidade: [[col:yellow]]""Rally"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_rally_3	"Habilita habilidade: [[col:yellow]]""Rally"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_rally_1	"Ativa a habilidade: [[col:yellow]]""Rally"" I [[/col]]"	1
+effects_description_att_effect_general_ability_enable_rally_4	"Ativa a habilidade: [[col:yellow]]""Rally"" IV [[/col]]"	1
+effects_description_att_effect_general_ability_enable_rally_5	"Ativa a habilidade: [[col:yellow]]""Rally"" V [[/col]]"	1
+effects_description_att_faction_trait_slavs_ambush_defence	Defesa Corpo a Corpo: %+n durante emboscadas	1
+effects_description_att_effect_agent_action_outcome_target_settlement_damage_building_dummy	Dano infligido: %+n%	1
+effects_description_att_effect_conquest_resistance_to_occupation_mod	Resistência à ocupação: %+n%	1
+effects_description_att_effect_conquest_enable_night_battles	Permite batalhas noturnas em terra e no mar	1
+effects_description_att_effect_province_growth_tech	Crescimento: %+n	1
+effects_description_att_effect_economy_gdp_mod_commerce_land	Riqueza: %+n% do comércio	1
+effects_description_att_effect_general_religious_zoroastrian_unrest	Ordem pública: Até %+n bônus pela presença do Zoroastrismo	1
+effects_description_att_effect_faction_trait_barbarian_langobard_1	Emancipadores: Reabastecimento de unidades duplicado ao enfrentar tropas derrotadas após a batalha.	1
+effects_description_att_effect_faction_trait_barbarian_langobard_2	A Fúria da Mão do Nosso Criador: %+n moral da unidade ao lutar contra exércitos de outras religiões.	1
+effects_description_att_effect_food_production_fertility_neighbouring	Alimentos adicionais: %+n por nível de fertilidade local	1
+effects_description_att_effect_diplomacy_bonus_minor	Diplomacia: Bônus menor para todas as facções	1
+effects_description_att_effect_province_food_events	Comida: %n devido a eventos recentes	1
+effects_description_att_effect_faction_trait_norse_raiders_income_from_sack_loot_raid	Renda: %+n% de saques e ataques	1
+effects_description_att_effect_military_force_morale_mod_buildings_ai	[NÃO EXIBIDO] Modificador de IA nas penalidades de integridade da construção da horda	1
+effects_description_att_effect_agent_action_enable_champion_hinder_army_sabotage_army	Habilita: [[col:yellow]]Exército de Sabotagem[[/col]]	1
+effects_description_att_effect_force_unit_stat_morale_religious_roman	Moral: %+n para exércitos pagãos romanos	1
+effects_description_att_effect_force_unit_stat_morale_religious_arian	Moral: %+n para exércitos cristãos arianos	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_sharp_stones	Implantáveis: %+n leitos de pedras afiadas	1
+effects_description_att_effect_force_navy_battle_missile_firing_rate_when_escorting	Taxa de ataque de mísseis: %+n% ao escoltar transportes	1
+effects_description_att_effect_faction_trait_suebi_horde_buildings	Custo de construção dos edifícios da Horda: %+n%	1
+effects_description_att_effect_food_production_tech	Alimentação: %+n de empreendimentos	1
+effects_description_att_effect_eos_desert_strongholds_melee_defense	Flagelo do Deserto: %+n ataque corpo a corpo durante batalhas no deserto	1
+effects_description_att_effect_province_attribute_all	Segurança provincial: %+n	1
+effects_description_att_effect_agent_action_enable_champion_hinder_province_guerrilla	Ativa: [[col:yellow]]Atividade de Guerrilha[[/col]]	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_character_distract_critical_chance	Ação de distração: %+n% de chance de parar o alvo	1
+effects_description_att_effect_sanitation_squalor_buildings	Miséria: %+n	1
+effects_description_att_effect_economy_gdp_industry	Riqueza: %n da indústria	1
+effects_description_att_effect_general_aoe_against_judeism	Habilidades gerais de área de efeito: %+n ao lutar contra facções judaicas	1
+effects_description_att_effect_religion_osmosis_grecoroman	Osmose religiosa: %+n paganismo romano	1
+effects_description_att_effect_unit_equipment_shields_gold	Criação de escudo III: %+n% de eficácia do escudo para recrutas de unidades portadoras de escudo	1
+effects_description_att_effect_embezzle_percentage_increase	Aumento percentual da receita proveniente de desfalque bem-sucedido.	1
+effects_description_att_effect_general_ability_enable_fear_1	"Ativa a habilidade: [[col:yellow]]""Fear"" I [[/col]]"	1
+effects_description_att_effect_general_ability_enable_fear_2	"Ativa a habilidade: [[col:yellow]]""Fear"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_fear_3	"Ativa a habilidade: [[col:yellow]]""Fear"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_fear_4	"Ativa a habilidade: [[col:yellow]]""Fear"" IV [[/col]]"	1
+effects_description_att_effect_general_ability_enable_fear_5	"Ativa a habilidade: [[col:yellow]]""Fear"" V [[/col]]"	1
+effects_description_att_effect_force_navy_battle_artillery_ship_melee_defence	Defesa corpo a corpo: %+n para navios de artilharia	1
+effects_description_att_effect_edict_arian_almsgiving_religious_happiness_mod	Edito de Ação de Esmolas: Até %+n bônus de ordem pública pela presença do Cristianismo Ariano	1
+effects_description_att_effect_agent_action_outcome_target_army_battle_morale	Moral: %+n	1
+effects_description_att_effect_force_army_battle_cavalry_charge_bonus	Bônus de carga: %+n% para unidades de cavalaria	1
+effects_description_att_effect_agent_enable_recruitment_spy	Permite o recrutamento de agentes: Spies	1
+effects_description_cha_effect_agent_action_gather_intelligence_buff	Ação de coleta de inteligência: %+n% corrupção do valor atual	1
+effects_description_att_effect_public_order_plague	Ordem pública: %+n	1
+effects_description_att_effect_general_ability_enable_reconnaisance_2	"Ativa a habilidade: [[col:yellow]]""Reconhecimento"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_reconnaisance_3	"Ativa a habilidade: [[col:yellow]]""Reconhecimento"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_reconnaisance_1	"Ativa a habilidade: [[col:yellow]]""Reconhecimento"" I [[/col]]"	1
+effects_description_att_effect_general_ability_enable_reconnaisance_4	"Ativa a habilidade: [[col:yellow]]""Reconhecimento"" IV [[/col]]"	1
+effects_description_att_effect_general_ability_enable_reconnaisance_5	"Ativa a habilidade: [[col:yellow]]""Reconhecimento"" V [[/col]]"	1
+effects_description_att_effect_general_bodyguard_mod_armour	Armadura: %+n% para a unidade do comandante	1
+effects_description_att_effect_agent_attribute_authority_mod_global	Autoridade: %+n para todos os agentes	1
+effects_description_att_effect_economy_gdp_mod_industry_horde	Riqueza: %+n% de edifícios industriais	1
+effects_description_att_effect_force_army_battle_charge_bonus	Bônus de cobrança: %+n%	1
+effects_description_att_effect_province_immigrant_decrease	Diminui a imigração	1
+effects_description_att_effect_province_immigrant_increase	Aumenta a imigração	1
+effects_description_att_effect_edict_catholic_mission_religious_osmosis_mod	Édito da Missão Cristã: %+n influência cristã latina nas províncias vizinhas	1
+effects_description_att_effect_force_army_campaign_attrition_snow_resistance	Atrito: %+n% vítimas sofridas por atrito pela neve	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_sudes_single	Implantáveis: %+n conjunto de caltrops sudes	1
+effects_description_bel_effect_seasickness	Iniciar enjôo	1
+effects_description_att_effect_edict_rome_east_urbanisation_construction_cost	Custo de construção: %+n%	1
+effects_description_att_effect_faction_trait_norse_jutes_despoilers_2_income_from_raze	Renda: %+n% da destruição de assentamentos	1
+effects_description_att_effect_agent_action_cost_mod_champion	Custo de ação do agente: %+n% para campeões	1
+effects_description_cha_effect_building_corruption_adjacent_province	Corrupção: %+n% do valor atual nas províncias adjacentes	1
+effects_description_att_effect_melee_attack_against_judeism	Ataque corpo a corpo: %+n ao lutar contra facções judaicas	1
+effects_description_att_effect_agent_action_outcome_parent_army_zeal_dummy	Zelo: %+n	1
+effects_description_att_effect_force_campaign_stance_begin_fatigued_3_winded	Estado da unidade: [[col:yellow]]Sem fôlego[[/col]]	1
+effects_description_att_effect_force_unit_stat_melee_attack_versus_barbarians	Ataque corpo a corpo: %+n contra reinos bárbaros	1
+effects_description_att_effect_agent_action_enable_spy_assist_province_investigate_corruption	Permite: [[col:yellow]]Investigar corrupção[[/col]]	1
+effects_description_att_effect_general_mod_personal_aura_size	Aura do comandante: %+n%	1
+effects_description_att_effect_force_army_campaign_recruitment_cost_artillery	Custo de recrutamento: %+n% para unidades de artilharia	1
+effects_description_att_effect_edict_manichaeist_induction_hearers_religious_conversion_mod	Édito de indução dos ouvintes: %+n influência religiosa maniqueísta	1
+effects_description_att_effect_public_order_global	Ordem pública: %+n da autoridade estabelecida	1
+effects_description_att_effect_building_construction_cost_mod_farms	Custo de construção: %+n% para edifícios agrícolas	1
+effects_description_att_effect_force_army_campaign_siege_defend_holdout_time	Tempo de espera do cerco: %+n (duplo para portos da cidade)	1
+effects_description_att_effect_sanitation_buildings_region	Saneamento: %+n para todas as regiões desta província	1
+effects_description_att_effect_general_attribute_mod_subterfuge_land	Astúcia: %+n ao liderar um exército	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_raid_stance	Integridade: %+n durante uma invasão.	1
+effects_description_att_effect_plague_outbreak_mod	Doença: %+n% chance de surto	1
+effects_description_att_effect_edict_manichaeist_induction_hearers_food_consumption	Consumo alimentar: %+n	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_army_compromise_command	Ativa: [[col:yellow]]Comprometer Comando[[/col]]	1
+effects_description_att_effect_faction_trait_migrators_alans_sarmatian_horsemanship_1_cavalry_xp_gain	Taxa de ganho de experiência de batalha: %+n%% para unidades de cavalaria	1
+effects_description_att_effect_public_order_difficulty_level	Ordem pública: %+n ordem pública do nível de dificuldade da campanha	1
+effects_description_att_effect_force_army_campaign_stance_ambush_hidden_dummy	Escondido até ser descoberto ou iniciada a batalha	1
+effects_description_att_effect_general_aura_mod_all_during_attack_sea	Aura do comandante: %+n% ao atacar no mar	1
+effects_description_att_effect_force_army_battle_artillery_ranged_ammunition	Munição: %+n% para artilharia	1
+effects_description_att_effect_force_army_battle_cavalry_light_melee_defence	Defesa corpo a corpo: %+n para unidades de cavalaria leve	1
+effects_description_bel_reformation_help_dummy_trait_effect	Reforma do Império Ocidental: Controle 40 regiões para obter opção diplomática: Junte-se ao Império.	1
+effects_description_att_effect_force_army_campaign_attrition_desert_immunity	Atrito: Imune ao desgaste do deserto	1
+effects_description_bel_effect_economy_gdp_mod_industry_expedition	Riqueza: %+n% de edifícios industriais de expedição	1
+effects_description_att_effect_force_army_campaign_attrition_snow_immunity	Atrito: Imune ao atrito pela neve	1
+effects_description_bel_effect_economy_gdp_mod_agriculture_and_livestock_expedition	Riqueza: %+n% proveniente de edifícios agrícolas e pecuários	1
+effects_description_att_effect_public_order_military_activity	Ordem pública: %+n	1
+effects_description_cha_effect_religion_conversion_paganism	Influência religiosa: %+n paganismo	1
+effects_description_att_effect_force_unit_stat_morale_versus_nomads	Moral: %+n versus tribos nômades	1
+effects_description_att_effect_military_force_gdp_modifier_horde_infighting	Riqueza: %+n% de todos os edifícios da horda	1
+effects_description_att_effect_agent_action_enable_champion_passive_ability_military_supply	Habilita: [[col:yellow]]Abastecimento Militar[[/col]]	1
+effects_description_att_effect_force_army_battle_infantry_heavy_melee_defence	Defesa corpo a corpo: %+n para unidades de infantaria pesada	1
+effects_description_att_effect_building_construction_cost_mod_civic	Custo de construção: %+n% para edifícios cívicos	1
+effects_description_att_effect_agent_action_buff_champion_hinder_settlement_raid_settlement_damage	Ação de Raid Settlement: %+n% de dano causado	1
+effects_description_att_effect_force_army_campaign_experience_sassanid_levy	Experiência da unidade %+n experiência para unidades de recrutamento	1
+effects_description_att_faction_trait_celts_raiding_1	Invadindo renda em território neutro: %+n%	1
+effects_description_att_faction_trait_celts_raiding_2	Incursão de renda em território inimigo: %+n%	1
+effects_description_att_effect_edict_manichaeist_exaltation_elect_tax_rate	Taxa de imposto: %+n%	1
+effects_description_att_effect_province_growth_food	Crescimento: %+n	1
+effects_description_att_effect_general_attribute_mod_subterfuge_naval	Astúcia: %+n ao liderar uma marinha	1
+effects_description_att_effect_agent_action_outcome_target_settlement_construction_time_dummy	Tempo de construção: %+n	1
+effects_description_att_effect_unit_training_melee_attack_all	Treinamento de ataque corpo a corpo: %+n para todos os recrutas	1
+effects_description_att_effect_force_navy_campaign_upkeep_naval_in_foreign_waters	Custo de manutenção: %+n% quando em águas hostis ou contestadas	1
+effects_description_att_effect_food_production_reserves	Alimentação: +%n das reservas	1
+effects_description_att_effect_economy_gdp_subsistance	Riqueza: %n de subsistência	1
+effects_description_att_effect_siege_engine_unlock_battering_ram	Pré-cerco: aríete	1
+effects_description_att_effect_agent_attribute_zeal_mod	Zelo: %+n	1
+effects_description_att_effect_religion_conversion_arian	Influência religiosa: %+n Cristianismo Ariano	1
+effects_description_att_faction_trait_sands_sanitation	Queimado pelo sol: %+n saneamento	1
+effects_description_att_effect_force_campaign_military_morale_factor_tax	Integridade: %+n	1
+effects_description_att_effect_force_army_campaign_upkeep_cost_infantry	Custo de manutenção: %+n% para unidades de infantaria	1
+effects_description_att_effect_general_religious_semitic_paganism_unrest	Ordem pública: Até %+n bônus pela presença do Paganismo Semítico	1
+effects_description_att_unseen_horde_recruitment_points	Capacidade de recrutamento: %+n quando hording.	1
+effects_description_att_effect_force_all_campaign_replenishment_rate_slav	Reabastecimento do Inimigo: %+n%	1
+effects_description_att_effect_horde_growth_taxes	Crescimento: %+n de impostos	1
+effects_description_cha_effect_agent_action_extort_enable	Ativa: [[col:yellow]]Extorquir[[/col]]	1
+effects_description_att_effect_unit_equipment_ammo_bronze	Fletching I: %+n% munição para recrutas de unidades de mísseis	1
+effects_description_att_effect_agent_action_enable_champion_assist_army_military_training	Permite: [[col:yellow]]Treinamento Militar[[/col]]	1
+effects_description_att_effect_force_all_campaign_recruitment_cost_infantry_light	Custo de recrutamento: %+n% para unidades de infantaria leve	1
+effects_description_att_effect_force_campaign_military_morale_factor_civil_war	Integridade: %+n	1
+effects_description_att_effect_general_attribute_mod_authority	Autoridade: %+n	1
+effects_description_att_effect_edict_zoroastrian_pursuit_truth_religious_conversion_mod	Édito da Busca da Verdade: %+n influência religiosa zoroastriana	1
+effects_description_att_effect_force_mercenary_levy_units_per_region_mod	Taxas tributárias/estatais fantoches: %+n de cada tipo de unidade	1
+effects_description_att_effect_edict_tengri_wisdom_unit_morale_training	Treinamento de moral: %+n para todos os recrutas	1
+effects_description_att_effect_force_army_campaign_ambush_defence_success_chance	Chance de defesa em emboscada: %+n%	1
+effects_description_att_faction_trait_sands_conversion	Ventos de mudança: %+n à taxa de conversão religiosa	1
+effects_description_att_effect_building_construction_cost_mod_agriculture	Custo de construção: %+n% para edifícios agrícolas	1
+effects_description_att_effect_general_bodyguard_mod_charge_bonus	Bônus de carga: %+n% para a unidade do comandante	1
+effects_description_att_effect_general_religious_judaism_unrest	Ordem pública: Até %+n bônus pela presença do Judaísmo	1
+effects_description_att_effect_force_all_campaign_recruitment_cost_all	Custo de recrutamento: %+n%	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_raiding	Integridade: %+n	1
+effects_description_att_sands_occupation_options_bonus	Renda de Saques e Destruições: %+n%	1
+effects_description_cha_effect_pope_bonus	%+n relações diplomáticas com outras facções cristãs	1
+effects_description_att_effect_agent_action_outcome_target_settlement_damage_naval_garrison_dummy	Danos ao navio: %+n% (somente alvos portuários)	1
+effects_description_att_effect_region_line_of_sight_mod	Linha de visão: %+n%	1
+effects_description_att_effect_agent_recruitment_xp_all_agents	Experiência de recrutamento de agentes: %+n	1
+effects_description_bel_faction_trait_ostrogths_roman_diplomacy	Cético Romano: Diminuição das relações diplomáticas com o Império Romano.	1
+effects_description_bel_exploit_corruption_action_cost_removal	[NÃO EXIBIDO] Remove o custo da ação do agente 'Explorar Corrupção'.	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_fireballs_single	Implantáveis: %+n conjunto de bolas de fogo	1
+effects_description_att_effect_general_aoe_against_church_east	Habilidades gerais de área de efeito: %+n ao lutar contra facções cristãs orientais	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_faction	Integridade: %+n	1
+effects_description_att_effect_character_gravitas_per_turn_dummy	Influência pessoal: %+n por turno	1
+effects_description_att_effect_siege_engine_number_siege_tower_15m_heavy	%n 15 milhões de torres de cerco pesadas por item de cerco	1
+effects_description_cha_effect_religion_conversion_tengri_faction	Influência religiosa: %+n Tengriismo	1
+effects_description_att_effect_religion_conversion_tengri_faction	Influência religiosa: %+n Tengrismo	1
+effects_description_att_effect_food_production_fertility	Alimentos adicionais: %+n por nível de fertilidade local	1
+effects_description_att_effect_morale_against_paganism	Moral: %+n ao lutar contra facções pagãs semíticas	1
+effects_description_att_effect_religion_conversion_other	Influência religiosa: %+n religiões menores	1
+effects_description_att_effect_agent_action_enable_dignitary_assist_army_inspire_troops	Ativa: [[col:yellow]]Inspirar tropas[[/col]]	1
+effects_description_att_effect_general_mod_ability_cooldown_rate	Taxa de resfriamento de habilidade especial: %+n%	1
+effects_description_att_effect_agent_action_outcome_parent_army_campaign_morale	Integridade: %+n	1
+effects_description_att_effect_agent_action_outcome_target_army_campaign_morale	Integridade: %+n	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_plague	Integridade: %+n	1
+effects_description_att_effect_food_consumption	Consumo alimentar: [[col:red]]-%n[[/col]]	1
+effects_description_att_effect_agent_action_success_chance_enemy	Chance de sucesso do inimigo: %+n%	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_settlement_compromise_security	Comprometer a ação de segurança: %+n segurança	1
+effects_description_cha_effect_objective_religious_bonus	Moral: %+n moral da unidade ao lutar contra exércitos de outras religiões.	1
+effects_description_att_effect_force_army_battle_movement_speed	Velocidade de movimento de batalha: %+n%	1
+effects_description_att_effect_general_ability_enable_inspire_5	"Ativa a habilidade: [[col:yellow]]""Inspirar"" V [[/col]]"	1
+effects_description_att_effect_general_ability_enable_inspire_4	"Ativa a habilidade: [[col:yellow]]""Inspire"" IV [[/col]]"	1
+effects_description_att_effect_general_ability_enable_inspire_3	"Ativa a habilidade: [[col:yellow]]""Inspire"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_inspire_2	"Ativa a habilidade: [[col:yellow]]""Inspire"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_inspire_1	"Ativa a habilidade: [[col:yellow]]""Inspire"" I [[/col]]"	1
+effects_description_att_effect_province_fertility_drought	Seca: %+n fertilidade nesta província	1
+effects_description_att_effect_edict_barbarian_resettlement_construction_cost_mod	Edital de reassentamento: %+n% custo de construção	1
+effects_description_att_effect_general_ability_enable_presence_1	"Ativa a habilidade: [[col:yellow]]""Presença"" I [[/col]]"	1
+effects_description_att_effect_general_ability_enable_presence_3	"Ativa a habilidade: [[col:yellow]]""Presença"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_presence_2	"Habilita habilidade: [[col:yellow]]""Presença"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_presence_5	"Habilita habilidade: [[col:yellow]]""Presença"" V [[/col]]"	1
+effects_description_att_effect_general_ability_enable_presence_4	"Ativa a habilidade: [[col:yellow]]""Presença"" IV [[/col]]"	1
+effects_description_att_effect_force_army_campaign_experience_base_heavy_units	Experiência da unidade: %+n para recrutas de unidades pesadas	1
+effects_description_att_effect_religion_osmosis_slavic	Osmose religiosa: %+n paganismo eslavo	1
+effects_description_att_effect_force_army_campaign_experience_base_melee_units	Experiência da unidade: %+n para recrutas de unidades corpo a corpo	1
+effects_description_att_effect_diplomacy_penalty_minor	Diplomacia: Penalidade menor para todas as facções	1
+effects_description_att_effect_agent_action_buff_champion_passive_ability_military_supply_replenishment	Ação de abastecimento militar: %+n taxa de reabastecimento	1
+effects_description_cha_effect_religion_conversion_christianity	Influência religiosa: %+n Cristianismo	1
+effects_description_att_effect_agent_action_buff_champion_assist_army_military_training_xp_gain	Ação de Treinamento Militar: %+n experiência por turno	1
+effects_description_att_effect_edict_barbarian_warrior_rites_recruit_experience	Experiência da unidade: %+n para todos os recrutas	1
+effects_description_att_effect_force_army_battle_infantry_melee_defence	Defesa corpo a corpo: %+n para unidades de infantaria	1
+effects_description_att_effect_religion_conversion_celtic	Influência religiosa: %+n paganismo celta	1
+effects_description_att_effect_faction_trait_barbarian_new_kingdoms_building_conversion	Taxa de conversão de construção: %+n%	1
+effects_description_att_faction_trait_venedi_farm_income	Renda: %+n% de fazendas	1
+effects_description_att_effect_force_army_battle_elephant_melee_damage	Dano corpo a corpo: %+n% para unidades elefantes	1
+effects_description_att_effect_force_unit_stat_morale_versus_easterners	Moral: %+n versus impérios orientais	1
+effects_description_att_effect_force_army_campaign_movement_range	Alcance de movimento da campanha: %+n% para exércitos	1
+effects_description_att_effect_agent_action_outcome_target_province_food	Produção de alimentos: %+n	1
+effects_description_att_effect_agent_action_outcome_target_army_movement_speed	Velocidade de movimento de batalha: %+n%	1
+effects_description_att_effect_unit_recruitment_points	Capacidade de recrutamento do exército: %+n	1
+effects_description_att_effects_province_growth_faction	Crescimento: %+n	1
+effects_description_att_effect_general_aura_mod_all_during_defence_siege	Aura do Comandante: %+n% quando sob cerco	1
+effects_description_bel_faction_trait_visigoths_tributary_income	Dinheiro de Sangue: %+n da formação de estados tributários.	1
+effects_description_att_effect_politics_political_power_events	Controle: %+n%% devido a eventos recentes	1
+effects_description_att_effect_edict_orthodox_progress_religious_happiness_mod	Edital do Progresso Cristão: Até %+n bônus de ordem pública pela presença do cristianismo grego	1
+effects_description_att_effect_region_resource_dyes_production	Produção de recursos: %n corante roxo	1
+effects_description_att_effect_siege_engine_enable_siege_tower_15m_heavy	Construção de cerco: torre de cerco pesada de 15 m	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_characters_horde	Integridade: %+n quando horda	1
+effects_description_att_effect_building_construction_time_mod_settlements	Tempo de construção: %+n para edifícios de assentamentos principais	1
+effects_description_att_effect_force_navy_campaign_military_morale_add_own_waters	Integridade: %+n quando em águas compartilhadas ou controladas	1
+effects_description_att_effect_religion_conversion_celtic_faction	Influência religiosa: %+n paganismo celta	1
+effects_description_cha_effect_agent_action_sabotage_walls_enable	Ativa: [[col:yellow]]Sabotagem de Paredes[[/col]]	1
+effects_description_att_effect_agent_action_buff_spy_assist_army_scout_ahead_ap	Ação Scout Ahead: %+n% alcance de movimento	1
+effects_description_att_effect_faction_trait_eastern_sassanid_king_of_kings_1_income_from_vassals	Renda: %+n% tributo de estados fantoches	1
+effects_description_att_effect_faction_trait_migrators_vandals_pirate_raiders_1_superior_naval	Pode recrutar unidades navais de qualidade superior	1
+effects_description_att_effect_force_unit_stat_morale_attacking	Moral: %+n ao atacar	1
+effects_description_att_effect_province_food_surplus_development_growth_benefit	Crescimento: %+n	1
+effects_description_att_effect_general_bodyguard_mod_unit_health	Armadura: %+n% para a unidade do comandante	1
+effects_description_att_effect_force_newhorde_buildings_barbarian	[Não exibido] Conjunto de construção usado quando uma nova horda de bárbaros surge	1
+effects_description_att_effect_general_aura_mod_all_during_ambush	Aura do comandante: %+n% durante emboscadas	1
+effects_description_att_effect_force_army_campaign_experience_base_light_units	Experiência da unidade: %+n para recrutas de unidades leves	1
+effects_description_att_effect_force_army_campaign_experience_barbarian_infantry_sword	Experiência de unidade %+n experiência para recrutas de infantaria de espada	1
+effects_description_bel_effect_force_horde_campaign_stance_must_settle_recruit_construct_dummy	A expedição deve estar acampada para recrutar e reabastecer unidades ou para construir edifícios.	1
+effects_description_att_faction_trait_antes_river_dummy	Moral, Defesa Corpo a Corpo, Ataque Corpo a Corpo: %+n e Dano Corpo a Corpo: +20% ao travar uma batalha no rio	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_own_territory	Integridade: %+n	1
+effects_description_att_effect_faction_trait_roman_foederati_horde_levy	Pode recrutar unidades de hordas amigas que passam pelo território romano	1
+effects_description_att_effect_building_trade_route_sea_hidden	(NÃO EXIBIDO) %+n% possíveis rotas comerciais	1
+effects_description_att_effect_edict_graeco_roman_blessing_minerva_religious_happiness	Ordem pública: Até %+n bônus pela presença do paganismo romano	1
+effects_description_att_effect_force_army_battle_ranged_infantry_movement_speed	Velocidade de movimento de batalha: %+n% para unidades de infantaria de longo alcance	1
+effects_description_att_effect_general_aura_mod_all_during_attack_land	Aura do Comandante: %+n% ao atacar em terra	1
+effects_description_att_effect_general_religious_catholic_unrest	Ordem pública: Até %+n bônus pela presença do Cristianismo Latino	1
+effects_description_att_effect_agent_recruitment_xp_spy	Experiência de recrutamento de agentes: %+n para espiões	1
+effects_description_att_effect_edict_graeco_roman_blessing_minerva_sanitation_mod	Édito da Bênção de Minerva: %+n saneamento	1
+effects_description_cha_effect_religion_conversion_tengri	Influência religiosa: %+n Tengriismo	1
+effects_description_att_effect_religion_conversion_tengri	Influência religiosa: %+n Tengrismo	1
+effects_description_att_effect_agent_action_buff_spy_hinder_province_corruption_amount	Ação de corrupção: %+n% corrupção	1
+effects_description_att_effect_religion_conversion_other_faction	Influência religiosa: %+n religiões menores	1
+effects_description_att_effect_economy_gdp_agriculture_farming	Riqueza: %n da agricultura	1
+effects_description_att_effect_force_horde_campaign_stance_must_settle_recruit_construct_dummy	As hordas devem estar acampadas para recrutar e reabastecer unidades ou para construir edifícios.	1
+effects_description_att_effect_general_aura_mod_all_during_defence_land	Aura do Comandante: %+n% ao defender em terra	1
+effects_description_att_effect_building_construction_cost_mod_religious	Custo de construção: %+n% para edifícios religiosos	1
+effects_description_att_effect_general_personal_mod_melee_damage	Dano corpo a corpo: %+n% para a unidade do comandante	1
+effects_description_att_effect_technology_research_points_mod_military	Taxa de pesquisa: %+n% para desenvolvimentos militares	1
+effects_description_att_effect_force_unit_stat_melee_attack_versus_romans	Ataque corpo a corpo: %+n contra romanos	1
+effects_description_att_effect_force_campaign_morale_neighbouring_wars	Integridade: %+n para cada guerra simultânea com uma facção vizinha	1
+effects_description_att_effect_force_horde_campaign_stance_growth_settled_disabled_dummy	Efeitos de crescimento somente em acampamento: [[col:red]]Desativado[[/col]]	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_foreign_waters	Integridade: %+n	1
+effects_description_cha_effect_religion_conversion_christianity_faction	Influência religiosa: %+n Cristianismo	1
+effects_description_att_effect_morale_against_orthodox	Moral: %+n ao lutar contra facções cristãs gregas	1
+effects_description_att_effect_force_navy_battle_unit_morale_sea_attack	Moral: %+n ao atacar no mar	1
+effects_description_att_effect_force_army_battle_cavalry_movement_speed	Velocidade de movimento de batalha: %+n% para unidades de cavalaria	1
+effects_description_att_effect_force_navy_battle_movement_speed	Velocidade de movimento da batalha naval: %+n%	1
+effects_description_att_effect_force_all_campaign_recruitment_cost_heavy	Custo de recrutamento: %+n% para unidades pesadas	1
+effects_description_att_effect_economy_trade_tariff_mod	Receita comercial: %+n% tarifas do acordo comercial	1
+effects_description_att_effect_force_unit_stat_morale_defending	Moral: %+n ao defender	1
+effects_description_att_effect_force_army_battle_artillery_firing_rate	Taxa de ataque de mísseis: %+n para unidades de cerco	1
+effects_description_att_effect_province_faction_mercenary_pool_cap_mod	Capacidade do pool de mercenários: %+n para mercenários de facções locais	1
+effects_description_att_effect_region_resource_iron_production	Produção de recursos: %n ferro	1
+effects_description_att_effect_force_army_campaign_siege_defend_attrition	Atrito: %+n% quando sob cerco	1
+effects_description_att_effect_province_fertility_harvest	Colheita Abundante: %+n fertilidade nesta província	1
+effects_description_att_effect_economy_gdp_mod_culture	Riqueza: %+n% de edifícios culturais	1
+effects_description_att_effect_food_production_fishing	Alimentação: %+n da pesca	1
+effects_description_cha_effect_irminsul_warning	Destruir o Irminsul como uma facção não-pagã pode causar revoltas entre os saxões	1
+effects_description_att_effect_public_order_characters	Ordem pública: %+n	1
+effects_description_att_backend_main_building_conversion_cost_mod	%+n% custo de conversão da cadeia principal	1
+effects_description_att_effect_force_navy_campaign_upkeep_naval	Custo de manutenção: %+n% para unidades navais	1
+effects_description_att_effect_religion_conversion_arian_faction	Influência religiosa: %+n Cristianismo Ariano	1
+effects_description_att_effect_economy_gdp_mod_agriculture_and_livestock	Riqueza: %+n% proveniente de edifícios agrícolas e pecuários	1
+effects_description_att_effect_character_loyalty_mod_characters	Lealdade: %+n	1
+effects_description_att_effect_siege_engine_number_gallery_medium	%n galerias médias por item de cerco	1
+effects_description_att_effect_siege_engine_enable_gallery_medium	Construção de cerco: galeria de luz	1
+effects_description_att_effect_unit_equipment_ammo_silver	Fletching II: %+n% munição para recrutas de unidades de mísseis	1
+effects_description_att_effect_edict_tengri_wisdom_non_state_religious_conversion	Influência religiosa: %+n não-Tengrismo	1
+effects_description_cha_effect_food_production_fishing	Alimentação: %+n da pesca	1
+effects_description_att_effect_melee_attack_against_church_east	Ataque corpo a corpo: %+n ao lutar contra facções cristãs orientais	1
+effects_description_att_effect_economy_tax_mod	Taxa de imposto: %+n%	1
+effects_description_att_effect_edict_barbarian_warrior_rites_military_research	Taxa de pesquisa: %+n% para desenvolvimentos militares	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_garrison_stance	Integridade: %+n	1
+effects_description_att_effect_general_religious_germanic_unrest	Ordem pública: Até %+n bônus pela presença do paganismo germânico	1
+effects_description_att_effect_faction_fertility	%+n fertilidade em todas as províncias	1
+effects_description_att_effect_force_army_campaign_recruitment_cost_sassanid_immortals	Custo de recrutamento: %+n% para unidades Sassanid Immortal	1
+effects_description_att_faction_trait_antes_grassland_desert_plains_dummy	Moral, Defesa Corpo a Corpo, Ataque Corpo a Corpo: %+n e Dano Corpo a Corpo: -10% ao lutar em pastagens ou campos abertos	1
+effects_description_att_effect_force_navy_battle_unit_morale_versus_raider_fleets	Moral: %+n contra invasores	1
+effects_description_att_faction_trait_antes_defence_river	Defesa corpo a corpo: %+n ao travar uma batalha no rio	1
+effects_description_att_backend_main_building_conversion_time_mod	%+n% tempo de conversão da cadeia principal	1
+effects_description_att_effect_edict_manichaeist_exaltation_elect_tax_rate_mod	Édito da Exaltação dos Eleitos: %+n% alíquota de imposto	1
+effects_description_bel_exploit_corruption_success_mod	[NÃO EXIBIDO] Reduz a chance de sucesso de 'Explorar Corrupção'.	1
+effects_description_att_effect_religion_conversion_manichaeist	Influência religiosa: %+n Maniqueísmo	1
+effects_description_att_effect_unit_training_morale_ranged_units	Treinamento de moral: %+n para recrutas de unidades de mísseis	1
+effects_description_att_effect_unit_training_morale_sea	Treinamento de moral: %+n para todos os recrutas navais	1
+effects_description_att_effect_agent_action_enable_spy_assist_army_scout_ahead	Ativa: [[col:yellow]]Scout Ahead[[/col]]	1
+effects_description_att_effect_force_army_campaign_military_morale_add_enemy_territory	Integridade: %+n quando em território estrangeiro	1
+effects_description_att_effect_force_all_campaign_stance_replenishment_rate_dummy	Reabastecimento: %+n%	1
+effects_description_att_effect_agent_action_outcome_target_settlement_siege_time	Tempo de espera do cerco inimigo: %+n	1
+effects_description_bel_faction_trait_roman_expedition_2_stance_cost_reduction	Vontade Romana: Sem custo de movimento para as posturas Fortalecer e Acampar.	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_character_distract	Ativa: [[col:yellow]]Distrair[[/col]]	1
+effects_description_cha_effect_agent_action_fire_enable	Ativa: [[col:yellow]]Iniciar fogo[[/col]]	1
+effects_description_att_effect_faction_trait_nomads_huns_horsemen_2_war_morale	Guerra: %+n Integridade para cada guerra sendo processada	1
+effects_description_att_effect_technology_disable_tier_1_christian_axum	Desativa a tecnologia: Calendário do Zodíaco	1
+effects_description_att_effect_technology_disable_tier_2_christian_axum	Desativa a tecnologia: Peregrinação no Deserto	1
+effects_description_att_effect_technology_disable_tier_3_christian_axum	Desativa a tecnologia: Festa Comunal	1
+effects_description_att_effect_region_resource_wood_production	Produção de recursos: %n madeira	1
+effects_description_bel_faction_trait_vandals_1_raiding	Pirataria: aumento de %+n% na receita de ataques em todas as províncias e regiões marítimas.	1
+effects_description_att_effect_economy_gdp_mod_industry	Riqueza: %+n% de edifícios industriais	1
+effects_description_att_effect_faction_trait_barbarian_alamanni_1	Agricultura Eficiente: Aumento da renda agrícola em regiões com baixa fertilidade.	1
+effects_description_att_effect_faction_trait_barbarian_alamanni_2	Esplendor Real: %+n% do raio de influência do general.	1
+effects_description_att_effect_technology_disable_tier_1_eastern_church_lakhmid	Desativa a tecnologia: Conselho dos Magos	1
+effects_description_att_effect_technology_disable_tier_2_eastern_church_lakhmid	Desativa a tecnologia: Sanção Divina	1
+effects_description_att_faction_trait_tanukhids_growth	Ralis de Vitória: Crescimento adicional da horda obtido através de batalhas bem-sucedidas	1
+effects_description_att_effect_force_all_campaign_upkeep_costs_mercenary	Custo de manutenção: %+n% para unidades mercenárias	1
+effects_description_att_effect_general_religious_orthodox_unrest	Ordem pública: Até %+n bônus pela presença do cristianismo grego	1
+effects_description_att_effect_sanitation_base	Saneamento: %+n	1
+effects_description_att_effect_faction_trait_nomads_white_huns_war_morale	Integridade: %+n Integridade para todas as guerras processadas	1
+effects_description_att_effect_unit_equipment_weapon_gold	Forjamento de Armas III: %+n% de dano corpo a corpo para todos os recrutas de unidades	1
+effects_description_att_faction_imperium_diplomacy_penalty_severe	Grande Potência: Pena diplomática severa com a maioria das facções	1
+effects_description_att_effect_food_production_imperium	Alimentos: %+n do crescimento do império	1
+effects_description_cha_effect_agent_action_sabotage_walls_buff	Ação de Sabotagem de Paredes: %+n paredes violadas	1
+effects_description_att_effect_force_army_battle_melee_infantry_morale	Moral: %+n para unidades de infantaria corpo a corpo	1
+effects_description_att_effect_economy_gdp_mod_livestock	Riqueza: %+n% proveniente de edifícios de criação de animais	1
+effects_description_att_effect_force_army_battle_infantry_spears_armour	Armadura: %+n% para unidades de infantaria com lança	1
+effects_description_att_effect_melee_attack_against_zoroastrism	Ataque corpo a corpo: %+n ao lutar contra facções zoroastrianas	1
+effects_description_att_effect_force_all_campaign_stance_cannot_replenish_dummy	Reabastecimento: [[col:red]]Desativado[[/col]]	1
+effects_description_att_effect_edict_manichaeist_induction_hearers_food_consumption_mod	Édito de indução dos ouvintes: %+n consumo de alimentos	1
+effects_description_att_pro_effect_force_military_morale_positive	[OCULTO] Efeito para evitar que o moral do exército de não jogadores caia no prólogo	1
+effects_description_att_effect_agent_action_enable_spy_hinder_army_misdirect_army	Habilita: [[col:yellow]]Desorientar Exército[[/col]]	1
+effects_description_bel_faction_trait_vandals_naval_superiority	Forjado pelo Mar: Pode recrutar unidades navais de qualidade superior.	1
+effects_description_att_effect_siege_engine_enable_battering_ram_medium	Construção de cerco: aríete médio	1
+effects_description_att_effect_edict_manichaeist_induction_hearers_religious_conversion	Influência religiosa: %+n Maniqueísmo	1
+effects_description_att_effect_agent_action_outcome_parent_army_xp_gain	Ganho de experiência da unidade por turno: %+n	1
+effects_description_att_effect_force_all_campaign_prisoner_ransom_income	Renda de resgate cativo: %+n%	1
+effects_description_cha_effect_war_weariness_score_none	Cansaço de guerra atual: [[col:green]]%n%[[/col]]	1
+effects_description_att_effect_technology_disable_tier_2_pagan_himyar	Desativa a tecnologia: Leis Kosher	1
+effects_description_att_effect_force_army_campaign_attrition_desert_resistance	Atrito: %+n% vítimas sofridas por atrito no deserto	1
+effects_description_att_effect_force_horde_campaign_stance_growth_settled_dummy	Efeitos de crescimento somente em acampamento: [[col:green]]Ativado[[/col]]	1
+effects_description_att_effect_siege_engine_enable_quality_medium	Permite a construção de máquinas de cerco médias	1
+effects_description_att_effect_sanitation_squalor_base	Miséria: %+n	1
+effects_description_att_effect_religion_osmosis_celtic	Osmose religiosa: %+n paganismo celta	1
+effects_description_att_effect_religion_conversion_state	Influência religiosa: %+n religião oficial	1
+effects_description_att_effect_unit_training_defence_melee_inf	Treinamento de defesa corpo a corpo: %+n para recrutas de infantaria corpo a corpo	1
+effects_description_cha_effect_religion_conversion_islam	Influência religiosa: %+n Islam	1
+effects_description_att_effect_siege_engine_unlock_siege_tower	Pré-cerco: torre de cerco	1
+effects_description_att_effect_faction_trait_eastern_sassanid_king_of_kings_2_levies_from_vassals	Impostos estaduais fantoches: %+n de cada tipo de unidade de imposto	1
+effects_description_att_effect_public_order_sanitation	Ordem pública: %+n	1
+effects_description_att_effect_force_army_battle_infantry_ranged_armour	Armadura: %+n% para unidades de infantaria de longo alcance	1
+effects_description_att_effect_force_all_campaign_recruitment_cost_light	Custo de recrutamento: %+n% para unidades leves	1
+effects_description_att_effect_force_all_campaign_recruitment_cost_vassal_levy	Custo de recrutamento: %+n% para unidades de imposto estrangeiro	1
+effects_description_att_effect_technology_disable_tier_3_pagan_himyar	Desativa a tecnologia: Leis da Pureza Ritual	1
+effects_description_att_effect_province_food_characters	Comida: %n de caracteres	1
+effects_description_att_effect_agent_action_enable_spy_passive_ability_infiltrate	Ativa: [[col:yellow]]Infiltração[[/col]]	1
+effects_description_att_effect_siege_engine_enable_siege_tower_15m_light	Construção de cerco: torre de cerco leve de 15m	1
+effects_description_att_effect_building_construction_cost_mod_settlements	Custo de construção: %+n% para edifícios de assentamentos principais	1
+effects_description_att_effect_edict_rome_east_urbanisation_construction_cost_mod	Edital de Urbanização Oriental: %+n% custo de construção	1
+effects_description_att_effect_religion_conversion_slavic	Influência religiosa: %+n paganismo eslavo	1
+effects_description_att_effect_force_unit_stat_morale_mercenary	Moral: %+n para mercenários	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_army_preach_doom_battle_morale	Ação Pregar Doom: %+n moral	1
+effects_description_att_effect_edict_catholic_mission_religious_osmosis	Influência religiosa: %+n Cristianismo Latino (nas províncias vizinhas)	1
+effects_description_att_effect_eos_growth_from_winning_battles	Crescimento: %+n crescimento de vitórias em batalhas	1
+effects_description_att_effect_religion_conversion_zoroastrian	Influência religiosa: %+n Zoroastrismo	1
+effects_description_att_effect_province_growth_building	Crescimento: %+n	1
+effects_description_att_effect_character_wound_recovery_time_mod	Tempo de recuperação da ferida: %+n	1
+effects_description_att_effect_technology_disable_tier_1_pagan_himyar	Desativa a tecnologia: Halakha	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_character_persuade	Ativa: [[col:yellow]]Persuadir[[/col]]	1
+effects_description_att_effect_region_resource_wine_production	Produção de recursos: %n vinho	1
+effects_description_att_effect_religion_conversion_church_east_faction	Influência religiosa: %+n Cristianismo Oriental	1
+effects_description_att_effect_region_resource_silk_production	Produção de recursos: %n têxteis	1
+effects_description_att_effect_unit_equipment_armour_gold	Forja de armadura III: %+n% de armadura para todos os recrutas de unidades	1
+effects_description_att_effect_province_growth_characters	Crescimento: %+n	1
+effects_description_att_effect_religion_conversion_slavic_faction	Influência religiosa: %+n paganismo eslavo	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_province_discourage_populace	Ativa: [[col:yellow]]Desencorajar a população[[/col]]	1
+effects_description_att_effect_siege_engine_unlock_siege_machine_armour	%+n%% armadura para todas as unidades de cerco	1
+effects_description_att_effect_siege_engine_number_battering_ram_medium	%n aríetes médios por item de cerco	1
+effects_description_att_effect_force_army_battle_cavalry_missile_range	Alcance de ataque de mísseis: %+n% para unidades de cavalaria	1
+effects_description_att_effect_province_faction_mercenary_pool_replenishment_mod	Reabastecimento do pool de mercenários: %+n% para mercenários de facções locais	1
+effects_description_att_effect_faction_trait_migrators_ostrogoths_honorary_romans_1_no_resistance	Nenhuma instabilidade ao ocupar assentamentos de facções romanas	1
+effects_description_att_effect_edict_arian_almsgiving_religious_happiness	Ordem pública: Até %+n bônus pela presença do Cristianismo Ariano	1
+effects_description_att_effect_force_unit_stat_morale_religious_germanic	Moral: %+n para exércitos pagãos germânicos	1
+effects_description_att_effect_religion_conversion_zoroastrian_faction	Influência religiosa: %+n Zoroastrismo	1
+effects_description_att_effect_religion_osmosis_tengri	Osmose religiosa: %+n Tengrismo	1
+effects_description_att_effect_general_attribute_mod_subterfuge	Astúcia: %+n	1
+effects_description_cha_effect_general_religious_islamic_unrest	Ordem pública: Até %+n bônus pela presença do Islã	1
+effects_description_att_effect_force_unit_stat_morale_religious_orthodox	Moral: %+n para exércitos cristãos gregos	1
+effects_description_att_effect_force_unit_stat_morale_versus_barbarians	Moral: %+n contra reinos bárbaros	1
+effects_description_att_effect_unit_training_morale_all	Treinamento de moral: %+n para todos os recrutas	1
+effects_description_att_effect_religion_osmosis_judaism	Osmose religiosa: %+n Judaísmo	1
+effects_description_att_effect_religion_conversion_church_east	Influência religiosa: %+n Cristianismo Oriental	1
+effects_description_att_effect_force_army_battle_artillery_melee_defence	Defesa corpo a corpo: %+n para unidades de cerco	1
+effects_description_att_effect_enemy_force_morale_vs_tanukhids	Moral do inimigo: %+n ao lutar contra os Tanukhids	1
+effects_description_att_effect_siege_engine_number_siege_tower_15m_light	%n 15 milhões de torres leves de cerco por item de cerco	1
+effects_description_att_effect_faction_trait_eastern_grand_school_2_research_per_province_capital	Taxa de pesquisa: %+n% para cada capital de província mantida	1
+effects_description_att_effect_force_all_campaign_line_of_sight	Linha de visão da campanha: %+n%	1
+effects_description_att_effect_force_army_battle_infantry_melee_damage	Dano corpo a corpo: %+n% para unidades de infantaria	1
+effects_description_att_effect_force_navy_campaign_recruitment_cost_naval	Custo de recrutamento: %+n% para unidades navais	1
+effects_description_att_effect_force_army_battle_infantry_melee_attack	Ataque corpo a corpo: %+n para unidades de infantaria	1
+effects_description_att_effect_religion_conversion_state_faction	Influência religiosa: %+n religião oficial	1
+effects_description_bel_effect_economy_gdp_mod_commerce_all_expedition	Riqueza: %+n% de edifícios comerciais de expedição	1
+effects_description_cha_effect_religion_osmosis_tengri	Osmose religiosa: %+n Tengriismo	1
+effects_description_att_effect_general_aura_mod_all_during_defence_sea	Aura do comandante: %+n% ao defender no mar	1
+effects_description_cha_effect_religion_conversion_islam_faction	Influência religiosa: %+n Islam	1
+effects_description_att_unseen_horde_recruitment_single	[UNSEEN] Permite o recrutamento desta nova unidade!	1
+effects_description_att_faction_trait_lakhmids_settlement_replenishment	Cidades Celestiais: %+n% de reabastecimento aumentado dentro de um assentamento	1
+effects_description_att_effect_settlement_walls_8m_hidden	O assentamento possui paredes básicas.	1
+effects_description_att_effect_region_resource_lead_production	Produção de recursos: %n lead	1
+effects_description_att_effect_force_navy_campaign_attrition_high_seas_immunity	Atrito: Imune ao atrito em alto mar	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_brimstone_single	Implantáveis: %+n conjunto de poços de enxofre	1
+effects_description_att_effect_force_all_campaign_movement_range	Faixa de movimentação da campanha: %+n%	1
+effects_description_att_effect_force_navy_campaign_movement_range	Faixa de movimentação da campanha: %+n% para marinhas	1
+effects_description_att_effect_province_growth_province	Crescimento: %+n	1
+effects_description_att_effect_economy_gdp_mod_industry_and_agriculture	Riqueza: %+n% de edifícios industriais e agrícolas	1
+effects_description_att_effect_force_army_battle_unit_morale_versus_raider_armies	Moral: %+n contra exércitos invasores	1
+effects_description_att_effect_edict_tengri_glory_ancestors_religious_happiness	Ordem pública: Até %+n bônus pela presença do Tengrismo	1
+effects_description_att_effect_force_army_battle_artillery_range	Alcance de ataque de mísseis: %+n% para unidades de cerco	1
+effects_description_att_effect_force_army_campaign_experience_sassanid_infantry	Experiência de unidade %+n experiência para unidades de infantaria não-recruta	1
+effects_description_att_effect_force_navy_battle_artillery_ship_damage	Dano de mísseis: %+n% para navios de artilharia	1
+effects_description_att_effect_region_resource_marble_production	Produção de recursos: %n mármore	1
+effects_description_att_effect_agent_action_enable_spy_hinder_province_corruption	Permite: [[col:yellow]]Corrupção[[/col]]	1
+effects_description_att_effect_force_army_campaign_ambush_attack_success_chance	Chance de emboscada: %+n%	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_fortify_stance	Integridade: %+n	1
+effects_description_att_effect_religion_conversion_manichaeist_faction	Influência religiosa: %+n Maniqueísmo	1
+effects_description_att_effect_force_army_battle_infantry_light_very_light_melee_defence	Defesa corpo a corpo: %+n para unidades de infantaria leve e muito leve	1
+effects_description_att_effect_province_immigration_decline_mod	Emigração reduzida	1
+effects_description_att_effect_edict_celtic_aegis_toutatis_religious_happiness	Ordem pública: Até %+n bônus pela presença do paganismo celta	1
+effects_description_att_effect_force_army_campaign_siege_attack_attrition	Atrito: %+n% ao sitiar	1
+effects_description_att_effect_faction_trait_roman_west_plurality_2_refugee_increase	Imigração constante	1
+effects_description_att_effect_edict_rome_west_bread_circuses_food_mod	Edital do Pão e Circo: %+n produção de alimentos	1
+effects_description_att_effect_force_unit_stat_morale_religious_catholic	Moral: %+n para exércitos cristãos latinos	1
+effects_description_att_effect_general_aoe_against_zoroastrism	Habilidades gerais de área de efeito: %+n ao lutar contra facções zoroastrianas	1
+effects_description_att_faction_imperium_diplomacy_penalty_major	Grande Potência: Grande penalidade diplomática com a maioria das facções	1
+effects_description_att_faction_imperium_diplomacy_penalty_minor	Grande Potência: Pequena penalidade diplomática com a maioria das facções	1
+effects_description_cha_effect_imperium	Império: %+n pontos de Império	1
+effects_description_att_effect_general_attribute_mod_zeal_land	Zelo: %+n ao liderar um exército	1
+effects_description_att_effect_edict_rome_east_urbanisation_tax_rate_mod	Edital de Urbanização Oriental: taxa de imposto %+n%	1
+effects_description_att_effect_province_attribute_zeal	Segurança provincial: %+n contra campeões	1
+effects_description_att_effect_region_resource_salt_production	Produção de recursos: %n sal	1
+effects_description_att_effect_character_loyalty_mod_fame	Lealdade: %+n	1
+effects_description_att_effect_unit_training_attack_melee_cavalry	Treinamento de ataque corpo a corpo: %+n para recrutas de cavalaria corpo a corpo	1
+effects_description_att_effect_unit_stat_ammunition_siege_defence	Munição: %+n% durante batalhas de defesa de cerco	1
+effects_description_att_effect_force_army_battle_missile_firing_rate_versus_raider_armies	Taxa de ataque de mísseis: %+n% versus exércitos invasores	1
+effects_description_att_effect_military_force_morale_modifier_horde_infighting	TESTE	1
+effects_description_att_effect_siege_engine_number_battering_ram_light	%n aríetes leves por item de cerco	1
+effects_description_att_effect_melee_defence_against_church_east	Defesa corpo a corpo: %+n ao lutar contra facções cristãs orientais	1
+effects_description_att_effect_agent_action_outcome_target_defence_success_chance_enemy	Em guarda: %+n% chance de sucesso do agente inimigo	1
+effects_description_bel_mission_payload_ostro_diplomacy	Repercussões Políticas: %+n para os Reinos Bárbaros	1
+effects_description_att_effect_edict_rome_west_auxiliary_recruitment_mercenary_cost_mod	Edital de Recrutamento Auxiliar: %+n% custo de recrutamento para unidades mercenárias	1
+effects_description_att_effect_military_force_food_consumption_modifier_horde_infighting_faction	Consumo alimentar: %+n	1
+effects_description_att_effect_force_all_campaign_stance_public_order_hit_dummy	Ordem pública: %+n na província invadida	1
+effects_description_att_effect_religion_osmosis_catholic	Osmose religiosa: %+n Cristianismo Latino	1
+effects_description_att_effect_edict_germanic_might_tiw_recruitment_points_mod	Edito do Poder de Tiw: %+n% capacidade de recrutamento do exército	1
+effects_description_att_effect_force_army_battle_infantry_morale	Moral: %+n para unidades de infantaria	1
+effects_description_att_effect_province_food_shortage_remove_all_growth	Interrompe o crescimento provincial	1
+effects_description_cha_effect_besiege_attrition_immunity	ESCONDIDO	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_sharp_stones_single	Implantáveis: %+n cama de pedras afiadas	1
+effects_description_bel_effect_economy_gdp_mod_culture_expedition	Riqueza: %+n% proveniente de edifícios culturais de expedição	1
+effects_description_att_effect_force_army_battle_artillery_damage	Dano de mísseis: %+n% para unidades de cerco	1
+effects_description_att_effect_stance_raiding_gdp_mod_all	Riqueza: %+n%	1
+effects_description_bel_faction_trait_visigoths_tolerance	Tolerância: Não há penalidades de ordem pública decorrentes da imigração nas províncias próprias.	1
+effects_description_att_effect_force_unit_stat_morale_when_reinforcing	Moral: %+n ao reforçar	1
+effects_description_att_effect_unit_stat_army_infantry_melee_shield_mod	Treinamento de escudo: %+n% para recrutas de infantaria corpo a corpo	1
+effects_description_att_effect_siege_engine_number_gallery_light	%n galerias de luz por item de cerco	1
+effects_description_att_effect_building_construction_cost_mod_military	Custo de construção: %+n% para edifícios militares	1
+effects_description_bel_faction_trait_roman_expedition_1_reclaim	Recuperação: A expedição pode recuperar regiões para o Império Romano.	1
+effects_description_att_effect_force_navy_campaign_attrition_high_seas_resistance	Desgaste: %+n% vítimas sofridas por atrito em alto mar	1
+effects_description_att_effect_siege_engine_enable_battering_ram_light	Construção de cerco: aríete leve	1
+effects_description_att_effect_economy_gdp_mod_agriculture_and_livestock_horde	Riqueza: %+n% proveniente de edifícios de hordas de criação de animais	1
+effects_description_att_effect_force_army_battle_elephant_charge_bonus	Bônus de carga: %+n% para unidades elefantes	1
+effects_description_att_effect_force_army_campaign_upkeep_land	Custo de manutenção: %+n% para unidades terrestres	1
+effects_description_att_effect_religion_conversion_state_edict	Influência religiosa: %+n religião estatal por região da província	1
+effects_description_att_effect_force_army_battle_elephant_armour	Armadura: %+n% para unidades elefantes	1
+effects_description_att_effect_force_navy_campaign_experience_base_ships_assault	Experiência da unidade: %+n para recrutas de navios corpo a corpo	1
+effects_description_att_effect_morale_against_zoroastrism	Moral: %+n ao lutar contra facções zoroastrianas	1
+effects_description_att_faction_political_diplomacy_mod	Posição diplomática: %+n com todas as facções	1
+effects_description_att_faction_trait_antes_forest_dummy	Moral, Defesa Corpo a Corpo, Ataque Corpo a Corpo: %+n e Dano Corpo a Corpo: +20% ao lutar em uma floresta	1
+effects_description_att_effect_force_unit_stat_fatigue_resistance	Taxa de fadiga: %+n%	1
+effects_description_att_effect_agent_action_outcome_target_army_damage_unit_dummy	Vítimas infligidas: %+n%	1
+effects_description_att_effect_agent_action_outcome_passive_stealth_dummy	Invisível para personagens e forças estrangeiras até ser descoberto	1
+effects_description_att_effect_general_attribute_mod_zeal	Zelo: %+n	1
+effects_description_att_effect_unit_training_accuracy_ranged_inf	Treinamento de dano de mísseis: %+n% para recrutas de infantaria de mísseis	1
+effects_description_bel_effect_building_construction_cost_mod_civic_expedition	Custo de construção: %+n% para edifícios cívicos	1
+effects_description_att_effect_force_campaign_stance_begin_fatigued_5_very_tired	Estado da unidade: [[col:red]]Muito cansado[[/col]]	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_military_force	Integridade: %+n	1
+effects_description_att_effect_force_navy_battle_unit_morale_sea_defence	Moral: %+n ao defender no mar	1
+effects_description_att_effect_edict_manichaeist_exaltation_elect_religious_happiness_mod	Édito da Exaltação dos Eleitos: Até %+n bônus de ordem pública pela presença de maniqueísmo	1
+effects_description_att_effect_force_unit_stat_morale_religious_tengri	Moral: %+n para exércitos Tengristas	1
+effects_description_att_effect_siege_engine_number_siege_tower_8m_heavy	%n 8 milhões de torres de cerco pesadas por item de cerco	1
+effects_description_att_effect_force_all_campaign_razing_income	Renda arrasadora: %+n%	1
+effects_description_att_effect_force_army_battle_cavalry_armour	Armadura: %+n% para unidades de cavalaria	1
+effects_description_att_effect_edict_germanic_judgment_wodan_religious_happiness	Ordem pública: Até %+n bônus pela presença do paganismo germânico	1
+effects_description_att_effect_food_production_farming_animal_husbandry	Alimentos: %+n provenientes da pecuária	1
+effects_description_att_effect_growth_all	Crescimento: %+n	1
+effects_description_att_effect_faction_trait_migrators_visigoths_blood_money_3_income_from_new_vassals	Renda: %+n proveniente da formação de estados tributários	1
+effects_description_att_effect_general_zoroastrian_religious_happiness	Ordem pública: Até %+n bônus pela presença do Zoroastrismo	1
+effects_description_att_effect_unit_training_accuracy_ranged_all	Treinamento contra danos de mísseis: %+n% para todos os recrutas	1
+effects_description_att_effect_public_order_base	Ordem pública: %+n	1
+effects_description_cha_effect_agent_action_assassinate_enable	Ativa: [[col:yellow]]Assassinar[[/col]]	1
+effects_description_att_effect_religion_osmosis_orthodox	Osmose religiosa: %+n Cristianismo Grego	1
+effects_description_att_effect_religion_osmosis_germanic	Osmose religiosa: %+n paganismo germânico	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_fireballs	Implantáveis: %+n conjuntos de bolas de fogo	1
+effects_description_att_effect_agent_action_outcome_target_army_replenishment_increase	Taxa de reabastecimento: %+n%	1
+effects_description_att_effect_force_army_battle_infantry_missile_damage	Dano de mísseis: %+n% para unidades de infantaria	1
+effects_description_att_effect_force_unit_stat_ammunition	Munição: %+n%	1
+effects_description_att_effect_general_bodyguard_mod_melee_attack	Ataque corpo a corpo: %+n para a unidade do comandante	1
+effects_description_att_effect_religion_osmosis_semitic_paganism	Osmose religiosa: %+n Paganismo Semítico	1
+effects_description_cha_effect_agent_action_spy_network_enable	Ativa: [[col:yellow]]Rede de espionagem[[/col]]	1
+effects_description_att_effect_edict_zoroastrian_teachings_religious_tolerance	Ordem pública: %+n% agitação religiosa	1
+effects_description_att_effect_hordebuilding_growth_if_settled	Crescimento: %+n quando acampado	1
+effects_description_att_effect_building_construction_cost_mod_industry_and_agriculture	Custo de construção: %+n% para edifícios industriais e agrícolas	1
+effects_description_att_effect_edict_germanic_might_tiw_religious_conversion_mod	Édito do Poder de Tiw: %+n influência religiosa pagã germânica	1
+effects_description_bel_mission_payload_berber_diplomacy	Repercussões políticas: %+n para os berberes	1
+effects_description_att_effect_edict_rome_east_rural_development_food_mod	Edital de Desenvolvimento Rural: %+n produção de alimentos	1
+effects_description_att_effect_force_campaign_military_morale_factor_faction_food	Integridade: %+n	1
+effects_description_att_effect_edict_catholic_ecumenical_matters_non_state_religious_conversion	Influência religiosa: %+n cristianismo não latino	1
+effects_description_att_effect_edict_rome_west_bread_circuses_public_order_mod	Edital do Pão e Circo: %+n ordem pública	1
+effects_description_att_effect_general_religious_slavic_unrest	Ordem pública: Até %+n bônus pela presença do paganismo eslavo	1
+effects_description_att_effect_force_building_cost_mod	Custo de construção do edifício da Horda: %+n%	1
+effects_description_att_effect_force_army_battle_melee_infantry_movement_speed	Velocidade de movimento de batalha: %+n% para unidades de infantaria corpo a corpo	1
+effects_description_att_faction_trait_slavs_damage_against_nomads	Dano corpo a corpo: %+n ao lutar contra facções nômades	1
+effects_description_att_faction_trait_slavs_attack_against_nomads	Ataque corpo a corpo: %+n ao lutar contra facções nômades	1
+effects_description_att_faction_trait_slavs_morale_against_nomads	Moral: %+n ao lutar contra facções nômades	1
+effects_description_att_effect_building_construction_cost_mod_industry	Custo de construção: %+n% para edifícios industriais	1
+effects_description_att_effect_force_unit_stat_morale_religious_celtic	Moral: %+n para exércitos pagãos celtas	1
+effects_description_att_effect_agent_action_outcome_target_army_armour	Armadura: %+n%	1
+effects_description_att_effect_economy_gdp_trade_local	Riqueza: %n do comércio	1
+effects_description_att_effect_edict_celtic_power_taranis_religious_conversion	Influência religiosa: %+n paganismo celta	1
+effects_description_att_effect_siege_engine_enable_siege_tower_8m_heavy	Construção de cerco: torre de cerco pesada de 8 m	1
+effects_description_att_effect_agent_recruitment_cost_mod_priest	Custo de recrutamento de agentes: %+n% para padres	1
+effects_description_att_effect_edict_graeco_roman_will_jupiter_military_research	Taxa de pesquisa: %+n% para desenvolvimentos militares	1
+effects_description_att_effect_edict_zoroastrian_pursuit_truth_corruption	Corrupção: %+n%	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_settlement_preach_intolerance	Permite: [[col:yellow]]Pregar a intolerância[[/col]]	1
+effects_description_att_effect_general_ability_enable_war_cry_3	"Ativa a habilidade: [[col:yellow]]""War Cry"" III [[/col]]"	1
+effects_description_att_effect_general_ability_enable_war_cry_2	"Habilita habilidade: [[col:yellow]]""War Cry"" II [[/col]]"	1
+effects_description_att_effect_general_ability_enable_war_cry_1	"Ativa a habilidade: [[col:yellow]]""War Cry"" I [[/col]]"	1
+effects_description_att_effect_general_ability_enable_war_cry_5	"Ativa a habilidade: [[col:yellow]]""War Cry"" V [[/col]]"	1
+effects_description_bel_faction_trait_ostrogths_2_roman_occupation	Ocupação: Não há instabilidade da ordem pública na ocupação de assentamentos.	1
+effects_description_att_effect_general_ability_enable_war_cry_4	"Ativa a habilidade: [[col:yellow]]""War Cry"" IV [[/col]]"	1
+effects_description_att_effect_edict_arian_docrines_arius_unit_morale_training	Treinamento de moral: %+n% para todos os recrutas	1
+effects_description_att_effect_agent_action_outcome_target_province_corruption	Corrupção: %+n% do valor atual	1
+effects_description_att_effect_general_religious_celtic_unrest	Ordem pública: Até %+n bônus pela presença do paganismo celta	1
+effects_description_att_effect_economy_gdp_fertility_agriculture	Riqueza adicional: %+n da agricultura por nível de fertilidade local	1
+effects_description_att_effect_force_navy_battle_ramming_bonus	Bônus de abalroamento: %+n%	1
+effects_description_att_effect_agent_action_enable_spy_hinder_character_deceive	Habilita: [[col:yellow]]Enganar[[/col]]	1
+effects_description_att_effect_force_army_campaign_upkeep_cost_artillery	Custo de manutenção: %+n% para unidades de artilharia	1
+effects_description_att_effect_force_army_campaign_military_morale_add_when_forced_march	Integridade: %+n quando em marcha forçada	1
+effects_description_att_effect_sanitation_squalor_events	Miséria: %+n	1
+effects_description_att_effect_settlement_walls_15m_hidden	O assentamento tem muros altos.	1
+effects_description_att_effect_unit_training_melee_defence_all	Treinamento de defesa corpo a corpo: %+n para todos os recrutas	1
+effects_description_att_faction_trait_axum_trade	Domínio Comercial: %+n% da receita comercial	1
+effects_description_att_effect_force_navy_campaign_local_piracy	Comércio naval: %+n% perdido para a pirataria	1
+effects_description_att_effect_agent_action_cost_mod_spy	Custo de ação do agente: %+n% para espiões	1
+effects_description_att_effect_faction_trait_nomads_huns_horsemen_4_death_no_replenish	Morte: Interrompe o reabastecimento estrangeiro (e quase todo o resto) em regiões onde a horda está presente.	1
+effects_description_cha_effect_war_weariness_score_max	Cansaço de guerra atual: [[col:red]]%n%[[/col]]	1
+effects_description_att_effect_agent_action_buff_dignitary_assist_province_inspire_populace_public_order	Inspire a ação da população: %+n ordem pública	1
+effects_description_att_effect_general_aura_mod_all_during_attack_siege	Aura do Comandante: %+n% ao sitiar	1
+effects_description_att_faction_trait_antes_morale_river	Moral: %+n ao travar uma batalha no rio	1
+effects_description_att_effect_sanitation_techs	Saneamento: %+n	1
+effects_description_att_sands_raid_stance_extra_troop_tanukhid_dummy_3	Rally: 3 unidades adicionais recrutadas em posição de ataque	1
+effects_description_att_sands_raid_stance_extra_troop_tanukhid_dummy_2	Rally: 2 unidades adicionais recrutadas em posição de ataque	1
+effects_description_att_sands_raid_stance_extra_troop_tanukhid_dummy_1	Rally: 1 unidade adicional recrutada em posição de ataque	1
+effects_description_att_faction_trait_axum_mercs	Guardas Mercenários: %+n% para taxa de reabastecimento do pool de mercenários	1
+effects_description_att_effect_force_army_campaign_upkeep_cost_cavalry	Custo de manutenção: %+n% para unidades de cavalaria	1
+effects_description_att_effect_general_attribute_mod_zeal_naval	Zelo: %+n ao liderar uma marinha	1
+effects_description_att_effect_force_army_battle_infantry_spears_melee_defence	Defesa corpo a corpo: %+n para unidades de infantaria lança	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_army_encourage_mutiny_campaign_morale	Incentive a ação do motim: %+n Integridade	1
+effects_description_att_effect_agent_enable_recruitment_champion	Permite o recrutamento de agentes: Campeões	1
+effects_description_att_effect_agent_action_buff_spy_hinder_settlement_exploit_corruption_stolen_amount	Ação de exploração de corrupção: %+n% dinheiro de corrupção roubado	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_brimstone	Implantáveis: %+n conjuntos de poços de enxofre	1
+effects_description_att_effect_edict_catholic_ecumenical_matters_corruption_mod	Edital de Assuntos Ecumênicos: %+n% corrupção	1
+effects_description_att_effect_edict_arian_docrines_arius_religious_conversion	Influência religiosa: %+n Cristianismo Ariano	1
+effects_description_att_effect_force_navy_battle_missile_firing_rate_versus_raider_fleets	Taxa de ataque de mísseis: %+n% versus frotas invasoras	1
+effects_description_att_effect_agent_action_buff_champion_hinder_province_guerrilla_recruitment_points	Ação de atividade de guerrilha: %+n capacidade de recrutamento	1
+effects_description_att_effect_force_army_battle_all_firing_rate	Taxa de ataque de mísseis: %+n% para unidades de mísseis	1
+effects_description_att_effect_agent_action_enable_champion_assist_province_rally_troops	Habilita: [[col:yellow]]Chamada às Armas[[/col]]	1
+effects_description_cha_effect_region_resource_cloth_production	Produção de recursos: %n tecido	1
+effects_description_att_effect_siege_engine_enable_gallery_light	Construção de cerco: galeria de luz	1
+effects_description_cha_effect_agent_enable_recruitment_assassin	Permite o recrutamento de agentes: Assassinos	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_settlement_encourage_dissent	Incentive a ação dissidente: %+n ordem pública	1
+effects_description_att_effect_force_army_battle_infantry_missile_range	Alcance de ataque de mísseis: %+n% para unidades de infantaria	1
+effects_description_att_faction_trait_antes_attack_river	Moral: %+n ao travar uma batalha no rio	1
+effects_description_att_effect_agent_enable_recruitment_dignitary	Permite o recrutamento de agentes: Padres	1
+effects_description_att_effect_siege_engine_unlock_boiling_oil	Permite que os portões do assentamento despejem óleo fervente	1
+effects_description_att_effect_force_army_campaign_upkeep_cost_ranged_infantry	Custo de manutenção: %+n% para unidades de infantaria de longo alcance	1
+effects_description_att_effect_military_force_food_consumption_modifier_horde_infighting	Consumo alimentar: %+n	1
+effects_description_att_effect_public_order_bonus_state_religion	Ordem pública: Até %n bônus pela presença da religião do seu estado	1
+effects_description_att_effect_public_order_immigration	Penalidades de ordem pública de imigração: %+n%	1
+effects_description_att_effect_character_child_chance_mod	Chance de ter filhos: %+n%	1
+effects_description_att_effect_edict_eastern_enlightenment_sanitation_mod	Édito do Iluminismo Oriental: %+n saneamento	1
+effects_description_att_effect_unit_equipment_ammo_gold	Fletching III: %+n% munição para recrutas de unidades de mísseis	1
+effects_description_bel_faction_trait_franks_casualties	Honra de Batalha: Nenhuma penalidade à integridade devido às baixas sofridas em batalha.	1
+effects_description_att_effect_hordebuilding_growth_core	Crescimento da Horda: %+n	1
+effects_description_att_effect_agent_action_outcome_target_army_replenishment_enable_foreign_territroy	Permite reabastecimento em território estrangeiro	1
+effects_description_att_effect_agent_action_buff_spy_hinder_army_gather_intelligence_info_piece	Ação de coleta de inteligência: %+n alvos identificados	1
+effects_description_att_effect_economy_gdp_other	Riqueza: %n de outras fontes	1
+effects_description_att_effect_enemy_force_morale_vs_axum	Moral do inimigo: %+n ao lutar contra Aksum	1
+effects_description_att_effect_technology_disable_tier_1_jewish_himyar	Desativa a tecnologia: Calendário do Zodíaco	1
+effects_description_att_effect_technology_disable_tier_2_jewish_himyar	Desativa a tecnologia: Peregrinação no Deserto	1
+effects_description_att_effect_technology_disable_tier_3_jewish_himyar	Desativa a tecnologia: Festa Comunal	1
+effects_description_att_faction_trait_venedi_farms_dummy	Fazendas Venedi: As fazendas não apresentam efeitos negativos (sujeira ou ordem pública).	1
+effects_description_att_effect_agent_action_outcome_target_province_public_order	Ordem pública: %+n	1
+effects_description_att_effect_agent_action_buff_champion_hinder_character_trap_critical_chance	Ação de armadilha: %+n% de chance de parar o alvo	1
+effects_description_att_effect_province_food_shortage_enable_desertion_attrition_for_own_forces	Deserção causa atrito de unidade	1
+effects_description_att_effect_force_all_campaign_stance_ap_cost	Requisito mínimo a ser assumido: [[col:yellow]]%n%% faixa total de movimentação da campanha[[/col]]	1
+effects_description_att_effect_force_all_campaign_upkeep_region	Custo de manutenção: %+n% para todas as unidades da região	1
+effects_description_att_effect_force_army_battle_cavalry_melee_defence	Defesa corpo a corpo: %+n para unidades de cavalaria	1
+effects_description_att_effect_slavs_building_construction_cost_mod_settlement	Custo de construção: %+n% para edifícios de assentamentos principais	1
+effects_description_att_effect_edict_graeco_roman_will_jupiter_religious_conversion_mod	Édito da Vontade de Júpiter: %+n influência religiosa pagã romana	1
+effects_description_att_effect_force_army_battle_cavalry_morale	Moral: %+n para unidades de cavalaria	1
+effects_description_att_effect_siege_engine_number_siege_ladder_8m	%n 8 milhões de escadas de cerco por item de cerco	1
+effects_description_att_effect_building_construction_cost_mod_sanitation	Custo de construção: %+n% para edifícios de saneamento	1
+effects_description_att_effect_edict_catholic_mission_civic_research_mod	Édito da Missão Cristã: %+n% taxa de pesquisa para desenvolvimentos cívicos	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_settle_stance	Integridade: %+n	1
+effects_description_att_effect_faction_trait_migrators_alans_sarmatian_horsemanship_2_casualty_exemption	Nenhuma vítima pós-batalha para unidades de cavalaria que foram derrotadas ou retiradas da batalha	1
+effects_description_att_effect_general_aura_mod_all_during_night	Aura do comandante: %+n% durante batalhas noturnas	1
+effects_description_att_effect_force_army_campaign_recruitment_cost_land	Custo de recrutamento: %+n% para unidades terrestres	1
+effects_description_att_effect_edict_tengri_glory_ancestors_recruit_experience	Experiência da unidade: %+n para todos os recrutas	1
+effects_description_att_effect_force_army_battle_ranged_infantry_morale	Moral: %+n para unidades de infantaria de longo alcance	1
+effects_description_att_effect_agent_action_buff_champion_assist_province_rally_troops_recruitment_points	Ação de apelo às armas: %+n capacidade de recrutamento	1
+effects_description_att_effect_siege_engine_enable_siege_ladder_8m	Construção de cerco: escada de 8m	1
+effects_description_att_effect_agent_recruitment_cost_mod	Custo de recrutamento de agentes: %+n%	1
+effects_description_att_effect_public_order_war_weariness	Ordem pública: %+n	1
+effects_description_att_effect_siege_engine_enable_quality_heavy	Permite a construção de máquinas de cerco pesadas	1
+effects_description_att_effect_force_navy_battle_ramming_bonus_during_blockade	Bônus de abalroamento: %+n% contra frotas de bloqueio	1
+effects_description_att_effect_siege_engine_enable_gallery_heavy	Construção de cerco: galeria pesada	1
+effects_description_att_effect_force_all_campaign_upkeep	Custo de manutenção: %+n% para todas as unidades	1
+effects_description_att_effect_edict_rome_west_auxiliary_recruitment_mercenary_replenishment_mod	Edital de Recrutamento Auxiliar: %+n% taxa de reabastecimento do pool de mercenários	1
+effects_description_att_effect_force_all_campaign_recruitment_cost_non_mercenary	Custo de recrutamento: %+n% para unidades não mercenárias	1
+effects_description_att_effect_province_fertility_flood	Inundações: %+n fertilidade nesta província	1
+effects_description_att_effect_horde_building_gdp_mod_all	Riqueza: %+n% de todos os edifícios da horda	1
+effects_description_bel_effect_horde_building_gdp_mod_all	Riqueza: %+n% de todos os edifícios da expedição	1
+effects_description_att_effect_edict_eastern_mass_conscription_recruitment_points	Capacidade de recrutamento do exército: %+n	1
+effects_description_att_effect_agent_action_outcome_parent_army_subterfuge_dummy	Astúcia: %+n	1
+effects_description_att_effect_agent_recruitment_cap_dignitary	Quantidade máxima de sacerdotes ativos aumentada em %+n	1
+effects_description_att_effect_force_army_battle_unit_morale_during_night_forest	Moral: %+n durante batalhas noturnas na floresta	1
+effects_description_att_effect_force_all_campaign_military_morale_factor_patrol_stance	Integridade: %+n	1
+effects_description_att_effect_edict_celtic_aegis_toutatis_unit_morale_training	Treinamento de moral: %+n para todos os recrutas	1
+effects_description_att_effect_force_army_campaign_experience_base_medium_units	Experiência da unidade: %+n para recrutas de unidades médias	1
+effects_description_cha_effect_province_defence_v_agents	Segurança provincial: %+n contra agentes inimigos	1
+effects_description_att_effect_building_trade_routes_all_hidden	(NÃO EXIBIDO) %+n% possíveis rotas comerciais	1
+effects_description_att_effect_agent_movement_range_mod	Faixa de movimentação da campanha: %+n%	1
+effects_description_att_effect_force_newhorde_buildings_hunnic	[Não exibido] Conjunto de construção usado quando uma nova horda huna surge	1
+effects_description_att_effect_character_illegitimate_child_chance_mod	Chance de ter filhos ilegítimos: %+n%	1
+effects_description_att_faction_trait_antes_damage_river	Ataque corpo a corpo: %+n ao travar uma batalha no rio	1
+effects_description_att_effect_force_unit_stat_melee_defence_versus_barbarians	Defesa corpo a corpo: %+n contra reinos bárbaros	1
+effects_description_att_effect_force_army_battle_infantry_light_very_light_movement_speed	Velocidade de movimento de batalha: %+n% para unidades de infantaria leve e muito leve	1
+effects_description_att_effect_siege_engine_number_siege_tower_8m_medium	%n 8 milhões de torres de cerco médias por item de cerco	1
+effects_description_att_effect_economy_gdp_fertility_livestock	Riqueza adicional: %+n da pecuária por nível de fertilidade local	1
+effects_description_att_effect_sanitation_events	Saneamento: %+n	1
+effects_description_att_faction_trait_axum_food	Rede de abastecimento: %+n alimentos de cada rota comercial ativa (Máximo: 150)	1
+effects_description_att_effect_force_army_battle_enable_defensive_deployables_fortification_rome	Fornece uma pequena seleção de defesas implantáveis ​​quando atacado	1
+effects_description_att_effect_agent_action_success_chance_priest	Chance de sucesso: %+n% para sacerdotes	1
+effects_description_att_effect_siege_engine_number_siege_ladder_15m	%n 15 milhões de escadas de cerco por item de cerco	1
+effects_description_cha_effect_force_melee_infantry_experience	Experiência da unidade: %+n para recrutas de unidades de infantaria corpo a corpo	1
+effects_description_att_effect_public_order_tech	Ordem pública: %+n de reformas burocráticas	1
+effects_description_att_effect_force_army_battle_cavalry_missile_damage	Dano de mísseis: %+n% para unidades de cavalaria	1
+effects_description_cha_agent_effect_character_campaign_spotting_chance	Chance de detecção de campanha: %+n%	1
+effects_description_cha_effect_general_religious_christian_unrest	Ordem pública: Até %+n bônus pela presença do Cristianismo	1
+effects_description_att_effect_force_army_battle_unit_morale_siege_attack	Moral: %+n ao sitiar	1
+effects_description_att_effect_technology_research_points	Taxa de pesquisa: %+n%	1
+effects_description_att_effect_faction_trait_barbarian_franks_ferocity_1_morale_for_casualties_inflicted	Integridade: %+n% de penalidade pelas baixas sofridas	1
+effects_description_att_effect_region_resource_olive_production	Produção de recurso: %n azeite	1
+effects_description_att_effect_region_resource_spice_production	Produção de recursos: %n especiarias	1
+effects_description_att_effect_agent_action_buff_dignitary_hinder_settlement_preach_intolerance	Ação Pregar a Intolerância: %+n% agitação religiosa	1
+effects_description_att_effect_force_army_battle_unit_morale_during_night_desert	Moral: %+n durante batalhas noturnas no deserto	1
+effects_description_att_effect_siege_engine_enable_siege_tower_8m_light	Construção de cerco: torre de cerco leve de 8m	1
+effects_description_att_effect_force_army_battle_elephant_morale	Moral: %+n para unidades de elefante	1
+effects_description_att_effect_force_army_battle_unit_morale_land_attack	Moral: %+n ao atacar em terra	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_settlement_encourage_dissent	Permite: [[col:yellow]]Incentivar a dissidência[[/col]]	1
+effects_description_att_effect_force_army_battle_unit_morale_land_defence	Moral: %+n ao defender em terra	1
+effects_description_att_effect_edict_orthodox_divine_liturgy_religious_conversion	Influência religiosa: %+n Cristianismo Grego	1
+effects_description_att_effect_agent_action_enable_dignitary_hinder_army_encourage_mutiny	Ativa: [[col:yellow]]Incentivar motim[[/col]]	1
+effects_description_att_effect_edict_eastern_enlightenment_civic_research	Taxa de pesquisa: %+n% para desenvolvimentos cívicos	1
+effects_description_att_effect_food_production_characters_horde	Comida: +%n dos personagens (quando horda)	1
+effects_description_att_effect_agent_action_success_chance_spy	Chance de sucesso: %+n% para espiões	1
+effects_description_att_effect_agent_action_enable_champion_hinder_settlement_sabotage_building	Ativa: [[col:yellow]]Sabotar Edifício[[/col]]	1
+effects_description_bel_faction_trait_roman_expedition_fatigue_recovery	Treinamento Físico: %+n% à taxa de recuperação da fadiga.	1
+effects_description_att_effect_agent_action_outcome_parent_army_authority_dummy	Autoridade: %+n	1
+effects_description_att_effect_force_navy_campaign_military_morale_add_when_patrolling	Integridade: %+n ao patrulhar	1
+effects_description_att_effect_siege_engine_enable_siege_tower_8m_medium	Construção de cerco: torre de cerco média de 8m	1
+effects_description_att_faction_trait_slavs_ambush_morale	Moral: %+n durante emboscadas	1
+effects_description_att_effect_technology_research_cost_mod_civil	Custo de manutenção da pesquisa: %+n% para desenvolvimentos civis	1
+effects_description_att_effect_faction_trait_norse_jutes_despoilers_1_income_from_units_destroyed	Renda extra para cada unidade inimiga destruída.	1
+effects_description_att_effect_general_religious_tengri_unrest	Ordem pública: Até %+n bônus pela presença do Tengriismo	1
+effects_description_att_effect_agent_recruitment_cap_spy	Quantidade máxima de espiões ativos aumentada em %+n	1
+effects_description_att_effect_character_campaign_spotting_chance	Chance de detecção de campanha: %+n%	1
+effects_description_cha_effect_agent_action_bargain_supplies_buff	Ação de barganha por suprimentos: %+n taxa de reposição	1
+effects_description_att_faction_trait_slavs_ambush_attack	Ataque corpo a corpo: %+n durante emboscadas	1
+effects_description_att_effect_force_navy_battle_support_ship_missile_firing_rate	Taxa de ataque de mísseis: %+n% para navios com mísseis	1
+effects_description_att_effect_siege_engine_enable_siege_ladder_15m	Construção de cerco: escada de 15m	1
+effects_description_att_effect_faction_trait_migrators_visigoths_blood_money_1_food_from_migrate	Alimentação: %+n ao migrar pelo território romano	1
+effects_description_att_effect_agent_action_outcome_target_army_missile_damage	Dano de mísseis: %+n%	1
+effects_description_att_effect_edict_rome_east_rural_development_growth	Crescimento: %+n	1
+effects_description_att_effect_faction_trait_roman_east_economic_powerhouse_1_treasury_interest	Renda: %+n% juros sobre o tesouro no final do turno	1
+effects_description_att_effect_force_navy_campaign_experience_base_ships_support	Experiência da unidade: %+n para recrutas de navios mísseis	1
+effects_description_att_effect_force_army_battle_melee_defence_versus_easterners	Defesa corpo a corpo: %+n contra impérios orientais	1
+effects_description_att_effect_general_aura_mod_all_during_escort_naval	Aura do Comandante: %+n% ao escoltar uma frota de transporte	1
+effects_description_att_effect_horde_unit_replenishment_hidden	[Oculto] Para efeitos de reabastecimento central para postura de assentamento.	1
+effects_description_att_effect_agent_action_buff_spy_hinder_character_assassinate_critical_chance	Ação de assassinato: %+n% de chance de matar o alvo	1
+effects_description_att_faction_trait_antes_morale_forest	Dano corpo a corpo: %+n ao lutar em uma floresta	1
+effects_description_att_faction_trait_antes_damage_forest	Ataque corpo a corpo: %+n ao lutar em uma floresta	1
+effects_description_att_faction_trait_antes_attack_forest	Moral: %+n ao lutar em uma floresta	1
+effects_description_att_effect_edict_orthodox_progress_civic_research_mod	Edital do Progresso Cristão: %+n% taxa de pesquisa para desenvolvimentos cívicos	1
+effects_description_att_effect_edict_arian_almsgiving_tax_rate	Taxa de imposto: %+n%	1
+effects_description_cha_effect_agent_action_gather_intelligence_enable	Permite: [[col:yellow]]Reunir inteligência[[/col]]	1
+effects_description_cha_effect_general_religious_tengri_unrest	Ordem pública: Até %+n bônus pela presença do Tengriismo	1
+effects_description_att_effect_force_all_campaign_stance_diplomacy_penalty_dummy	Diplomacia: [[col:red]]Penalidades com facções atacadas.[[/col]]	1
+effects_description_att_effect_siege_engine_number_siege_tower_8m_light	%n 8 milhões de torres leves de cerco por item de cerco	1
+effects_description_att_effect_province_tax_rate	Taxa de imposto: %+n%	1
+effects_description_att_effect_agent_action_enable_champion_hinder_character_trap	Ativa: [[col:yellow]]Trap[[/col]]	1
+effects_description_att_effect_edict_zoroastrian_teachings_growth	Crescimento: %+n	1
+effects_description_att_effect_agent_action_enable_spy_hinder_army_gather_intelligence	Permite: [[col:yellow]]Reunir inteligência[[/col]]	1
+effects_description_att_effect_siege_engine_enable_battering_ram_heavy	Construção de cerco: aríete pesado	1
+effects_description_att_effect_unit_training_morale_ranged_inf	Treinamento de moral: %+n para recrutas de infantaria de mísseis	1
+effects_description_att_effect_edict_celtic_power_taranis_recruitment_cost_mod	Édito do Poder de Taranis: %+n% custo de recrutamento para unidades terrestres	1
+effects_description_att_faction_trait_venedi_industry_culture_commerce	Renda: %+n% proveniente do comércio, indústria e cultura	1
+effects_description_att_effect_melee_defence_against_zoroastrism	Defesa corpo a corpo: %+n ao lutar contra facções zoroastrianas	1
+effects_description_att_faction_trait_himyar_marib_dam	Barragem de Ma'rib: Edifício único que aumenta a fertilidade na capital.	1
+effects_description_cha_effect_religion_osmosis_paganism	Osmose religiosa: %+n paganismo	1
+effects_description_att_effect_region_resource_leather_production	Produção de recursos: %n peles	1
+effects_description_att_effect_agent_action_outcome_target_province_religion_spread_dummy	Influência religiosa: %+n	1
+effects_description_att_faction_trait_ebdani_1	Renda de saques: %+n%	1
+effects_description_att_effect_economy_gdp_agriculture_animal_husbandry	Riqueza: %n proveniente da criação de animais	1
+effects_description_att_effect_force_unit_stat_morale_foreign_territory	Moral: %+n quando em território estrangeiro	1
+effects_description_cha_effect_unit_stat_army_infantry_melee_shield_mod	Treinamento de escudo: %+n% para recrutas de infantaria corpo a corpo	1
+effects_description_bel_faction_trait_ostrogths_1_victory_battle_morale	Impaciência: +10 de moral por 5 turnos (somente força primária) após a vitória na batalha.	1
+effects_description_att_effect_force_all_campaign_sacking_income	Renda de demissão: %+n%	1
+effects_description_att_effect_force_army_battle_bow_unit_missile_range	Alcance de ataque de mísseis: %+n% para unidades de arqueiros	1
+effects_description_att_effect_force_army_battle_bow_unit_missile_damage	Dano de mísseis: %+n% para unidades arqueiras	1
+effects_description_att_effect_edict_eastern_mass_conscription_non_mercenary_cost	Custo de recrutamento: %+n% para unidades não mercenárias	1
+effects_description_att_effect_edict_orthodox_divine_liturgy_unit_morale_training	Treinamento de moral: %+n para todos os recrutas	1
+effects_description_att_effect_province_food_shortage_development_growth_penalty	Crescimento provincial: [[col:red]]%+n[[/col]]	1
+effects_description_att_effect_siege_engine_number_battering_ram_heavy	%n aríetes pesados ​​por item de cerco	1
+effects_description_att_effect_agent_action_outcome_target_province_attributes	Em guarda: %+n para segurança provincial contra agentes inimigos	1
+effects_description_att_effect_hordebuilding_growth_characters	Crescimento da Horda: %+n	1
+effects_description_att_effect_force_army_battle_infantry_charge_bonus	Bônus de carga: %+n% para unidades de infantaria	1
+effects_description_att_effect_hordebuilding_growth_tech	Crescimento da Horda: %+n	1
+effects_description_att_effect_force_army_campaign_experience_base_ranged_units	Experiência da unidade: %+n para recrutas de unidades de mísseis	1
+effects_description_att_effect_faction_trait_barbarian_franks_ferocity_2_damage_for_casualties_suffered	Dano corpo a corpo: %+n% para cada 25% de baixas sofridas por uma unidade	1
+effects_description_att_effect_agent_action_enable_spy_hinder_character_extort	Ativa: [[col:yellow]]Extorquir[[/col]]	1
+effects_description_att_effect_edict_germanic_judgment_wodan_civic_research_mod	Julgamento do edital de Wodan: %+n% taxa de pesquisa para desenvolvimentos cívicos	1
+effects_description_att_effect_morale_against_church_east	Moral: %+n ao lutar contra facções cristãs orientais	1
+effects_description_att_effect_agent_action_outcome_target_army_missile_fire_rate	Taxa de ataque de mísseis: %+n%	1
+effects_description_att_effect_region_resource_glass_production	Produção de recursos: %n artigos de vidro	1
+effects_description_att_effect_edict_barbarian_resettlement_growth_mod	Edital de reassentamento: %+n crescimento	1
+effects_description_att_effect_agent_action_buff_champion_hinder_army_sabotage_army_ammunition	Ação do Exército de Sabotagem: %+n% munição	1
+effects_description_att_effect_siege_engine_number_gallery_heavy	%n galerias pesadas por item de cerco	1
+effects_description_att_effect_force_army_campaign_experience_base_spear	Experiência da unidade: %+n para recrutas de unidades lanças	1
+effects_description_EMPTY_EFFECT	((EFEITO VAZIO))	1

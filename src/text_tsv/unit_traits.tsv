@@ -1,0 +1,28 @@
+key	value	flag
+unit_traits_bullet_text_climb_fast	capaz de escalar rapidamente	1
+unit_traits_bullet_text_encourages	fornece um bônus de moral para aliados próximos	1
+unit_traits_bullet_text_immune_cav_penalty	lanças não recebem bônus contra esta unidade de cavalaria	1
+unit_traits_bullet_text_scare_horse	assusta cavalos	1
+unit_traits_bullet_text_scare_immune	imune aos efeitos do medo	1
+unit_traits_bullet_text_mounted_fire_parthian	fogo ao redor	1
+unit_traits_bullet_text_mounted_fire	pode atirar enquanto está em uma montaria	1
+unit_traits_bullet_text_snipe	A unidade permanece escondida enquanto dispara	1
+unit_traits_bullet_text_stalk	pode permanecer escondido enquanto se move	1
+unit_traits_bullet_text_hide_scrub	pode se esconder em matagais	1
+unit_traits_bullet_text_formed_attack	Esta unidade tenta permanecer em formação quando está em combate corpo a corpo	1
+unit_traits_bullet_text_hide_grass	pode se esconder na grama	1
+unit_traits_bullet_text_resist_heat	não sofre vítimas extras nesses climas quentes	1
+unit_traits_bullet_text_fatigue_res	a fadiga não tem tanto efeito	1
+unit_traits_bullet_text_disciplined	não sofre penalidade moral pela morte do general	1
+unit_traits_bullet_text_resist_cold	não sofre vítimas extras nesses climas frios	1
+unit_traits_bullet_text_hide_building	pode se esconder em edifícios	1
+unit_traits_bullet_text_scare_all	assusta a todos	1
+unit_traits_bullet_text_impetuous	bônus moral extra quando ansioso	1
+unit_traits_bullet_text_hide_wood	pode se esconder na floresta	1
+unit_traits_bullet_text_all_ranks_fire	todas as classificações podem disparar se estiverem usando uma arma que permite apenas 1 classificação	1
+unit_traits_bullet_text_ignore_ground_move_mod	não fica lento pelo terreno	1
+unit_traits_bullet_text_cant_run	geralmente para artilharia flexível	1
+unit_traits_bullet_text_scare_elephant	assusta elefantes	1
+unit_traits_bullet_text_campaign_stealth	capaz de se mover pelo mapa da campanha sem ser visto	1
+unit_traits_bullet_text_guerrilla_deploy	pode implantar fora da zona de implantação	1
+unit_traits_bullet_text_mounted_fire_move	disparar enquanto se move	1

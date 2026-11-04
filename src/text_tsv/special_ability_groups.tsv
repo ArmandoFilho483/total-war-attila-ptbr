@@ -1,0 +1,15 @@
+key	value	flag
+special_ability_groups_name_Commander	Comandante	1
+special_ability_groups_name_Navigator	Navegador	1
+special_ability_groups_name_Defender	Defensor	1
+special_ability_groups_tooltip_Opportunist	Oportunista (Terra)||Estimule seus homens a entrar em ação aumentando a velocidade e o dano causado por seu ataque.\n\n[[col:green]]Fast Charge III[[/col]]	1
+special_ability_groups_tooltip_Augur	Augur (Terra)||Presságios desfavoráveis ​​impedirão que o inimigo use suas próprias habilidades contra você.\n\n[[col:green]]Fear III[[/col]]	1
+special_ability_groups_name_Mariner	Marinheiro	1
+special_ability_groups_name_Scourge	Flagelo	1
+special_ability_groups_tooltip_Commander	Comandante (Terra)||Melhore a fortaleza mental de seus homens aumentando seu moral por um curto período de tempo.\n\n[[col:green]]Rally III[[/col]]	1
+special_ability_groups_tooltip_Defender	Defensor (Terra)||Prepare seus homens para receber e repelir investidas contra cavaleiros montados no campo de batalha.\n\n[[col:green]]Brace III[[/col]]	1
+special_ability_groups_tooltip_Navigator	Navegador (Naval)||Melhore a habilidade de remar de sua tripulação para que nenhum vento possa impedi-los.\n\n[[col:green]]Força para os remos III[[/col]]	1
+special_ability_groups_name_Opportunist	Oportunista	1
+special_ability_groups_tooltip_Mariner	Mariner (Naval)||Dominar as ondas aumentará a precisão das flechas e golpes de espada de seus homens.\n\n[[col:green]]Inspire III[[/col]]	1
+special_ability_groups_tooltip_Scourge	Flagelo (Terra)||Elimine toda esperança dos corações de seus inimigos minando seu moral e vontade de continuar lutando.\n\n[[col:green]]Grito de Guerra III[[/col]]	1
+special_ability_groups_name_Augur	Áugure	1

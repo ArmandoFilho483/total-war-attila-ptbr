@@ -1,0 +1,111 @@
+key	value	flag
+ui_unit_groupings_tooltip_com	Estas são pequenas unidades que protegem o general enquanto ele faz o seu trabalho.	1
+ui_unit_groupings_onscreen_art_siege	Artilharia de Cerco	1
+ui_unit_groupings_onscreen_att_inf_axe_land	Machadeiros	1
+ui_unit_groupings_onscreen_att_cav_bow_land	Cavalaria de Arco	1
+ui_unit_groupings_tooltip_att_special_grenade_marine	Essas unidades podem lançar granadas poderosas para causar grande dano ao inimigo, mas são fracas se engajadas em combate corpo a corpo devido ao seu baixo número.	1
+ui_unit_groupings_onscreen_att_inf_spear_land	Lançeiros	1
+ui_unit_groupings_onscreen_att_cav_melee_land	Cavalaria	1
+ui_unit_groupings_onscreen_att_inf_axe_naval	Navio de Assalto	1
+ui_unit_groupings_onscreen_att_inf_bow_naval	Navio de Arco	1
+ui_unit_groupings_onscreen_inf_sling	Fundeiro	1
+ui_unit_groupings_onscreen_att_inf_axe_marine	Machadeiros	1
+ui_unit_groupings_tooltip_att_inf_sling_land	Unidades de médio alcance com cadência de tiro excepcionalmente alta.	1
+ui_unit_groupings_onscreen_att_special_grenade_naval	Lançador de Nafta	1
+ui_unit_groupings_tooltip_att_inf_sword_land	Soldados da linha de frente treinados para combate corpo a corpo com seus inimigos.	1
+ui_unit_groupings_onscreen_att_special_grenade_land	Lançador de Nafta	1
+ui_unit_groupings_onscreen_att_inf_bow_marine	Arqueiros	1
+ui_unit_groupings_onscreen_att_art_field_land	Artilharia	1
+ui_unit_groupings_tooltip_att_cav_shock_land	O martelo para a infantaria de qualquer exército, são devastadores quando investem contra o flanco ou retaguarda dos inimigos.	1
+ui_unit_groupings_onscreen_att_inf_sling_land	Fundeiro	1
+ui_unit_groupings_tooltip_att_inf_axe_marine	Soldados da linha de frente treinados para combate corpo a corpo.	1
+ui_unit_groupings_tooltip_att_inf_bow_marine	Unidades de longo alcance que fornecem suporte para unidades de corpo a corpo, mas são elas mesmas muito fracas em combate próximo.	1
+ui_unit_groupings_onscreen_att_special_transportship_naval	Navio de Transporte	1
+ui_unit_groupings_onscreen_att_inf_bow_land	Arqueiros	1
+ui_unit_groupings_onscreen_att_inf_sword_land	Infantaria	1
+ui_unit_groupings_tooltip_att_special_grenade_naval	Essas unidades podem lançar granadas poderosas para causar grande dano ao inimigo, mas são fracas se engajadas em combate devido ao seu baixo número.	1
+ui_unit_groupings_onscreen_att_cav_shock_land	Cavalaria de Assalto	1
+ui_unit_groupings_tooltip_inf_sling	placeholder	1
+ui_unit_groupings_tooltip_att_art_field_land	Com um longo alcance e capazes de causar grande dano, as unidades de artilharia de campanha podem ser movidas lentamente pelo campo de batalha, mas são muito fracas se engajadas em combate corpo a corpo.	1
+ui_unit_groupings_tooltip_att_inf_axe_naval	Soldados da linha de frente treinados para combate corpo a corpo.	1
+ui_unit_groupings_tooltip_att_inf_bow_naval	Unidades de longo alcance que fornecem suporte para unidades de corpo a corpo, mas são elas mesmas muito fracas em combate próximo.	1
+ui_unit_groupings_tooltip_att_inf_spear_land	Infantaria defensiva sólida protegida por escudos, são muito bons quando posicionados contra cavalaria.	1
+ui_unit_groupings_onscreen_att_special_grenade_marine	Lançador de Nafta	1
+ui_unit_groupings_tooltip_art_siege	Enormes máquinas de cerco perfeitas para derrubar muralhas e portões fortificados.	1
+ui_unit_groupings_tooltip_att_cav_melee_land	Embora sejam unidades versáteis protegidas por escudos, a cavalaria corpo a corpo é fraca contra unidades mais especializadas.	1
+ui_unit_groupings_onscreen_shp_art	Navio de Artilharia	1
+ui_unit_groupings_tooltip_att_special_grenade_land	Essas unidades podem lançar granadas poderosas para causar grande dano ao inimigo, mas são fracas se engajadas em combate corpo a corpo devido ao seu baixo número.	1
+ui_unit_groupings_onscreen_shp_trn	Navio de Transporte	1
+ui_unit_groupings_onscreen_art_fix	Artilharia Fixa	1
+ui_unit_groupings_onscreen_art_fld	Artilharia de Campanha	1
+ui_unit_groupings_onscreen_inf_spr	Lançeiros	1
+ui_unit_groupings_tooltip_att_inf_sling_naval	Unidades de médio alcance com cadência de tiro excepcionalmente alta.	1
+ui_unit_groupings_tooltip_att_inf_axe_land	Soldados da linha de frente treinados para combate corpo a corpo.	1
+ui_unit_groupings_tooltip_att_cav_bow_land	De movimento rápido e longo alcance, a cavalaria de projéteis é ótima para assediar seus inimigos, mas fraca se presa em combate corpo a corpo.	1
+ui_unit_groupings_tooltip_att_special_fireship_naval	Capaz de incendiar outros navios.	1
+ui_unit_groupings_tooltip_att_inf_pike_land	Piques longos tornam essas tropas mortais pela frente, mas vulneráveis se flanqueadas. São altamente eficazes contra cavalaria.	1
+ui_unit_groupings_onscreen_cav_mis	Cavalaria de Atiradores	1
+ui_unit_groupings_onscreen_att_inf_crossbow_marine	Infantaria de Besta	1
+ui_unit_groupings_onscreen_cav_shk	Cavalaria de Assalto	1
+ui_unit_groupings_onscreen_att_inf_pike_land	Infantaria de Pique	1
+ui_unit_groupings_onscreen_att_special_fireship_naval	Navio de Fogo	1
+ui_unit_groupings_onscreen_inf_mel	Infantaria	1
+ui_unit_groupings_onscreen_att_art_scorpio	Scorpio	1
+ui_unit_groupings_onscreen_shp_mel	Navio	1
+ui_unit_groupings_onscreen_att_special_wardog_land	Cães de Guerra	1
+ui_unit_groupings_onscreen_shp_mis	Navio de Atiradores	1
+ui_unit_groupings_tooltip_att_inf_bow_land	Unidades de longo alcance que fornecem suporte para unidades de corpo a corpo, mas são elas mesmas muito fracas em combate próximo.	1
+ui_unit_groupings_onscreen_cav_mel	Cavalaria	1
+ui_unit_groupings_tooltip_att_inf_sword_naval	Soldados da linha de frente treinados para combate corpo a corpo com seus inimigos.	1
+ui_unit_groupings_tooltip_att_art_field_naval	Com um longo alcance e capazes de causar grande dano, as unidades de artilharia de campanha podem ser movidas lentamente pelo campo de batalha, mas são muito fracas se engajadas em combate corpo a corpo.	1
+ui_unit_groupings_onscreen_inf_pik	Infantaria de Pique	1
+ui_unit_groupings_onscreen_chariot	Carruagem	1
+ui_unit_groupings_onscreen_inf_mis	Atiradores	1
+ui_unit_groupings_tooltip_elph	Não há nada como elefantes para abrir um buraco em uma linha inimiga. Projéteis em chamas e dardos são a melhor maneira de combatê-los.	1
+ui_unit_groupings_onscreen_att_inf_crossbow_naval	Navio de Besta	1
+ui_unit_groupings_tooltip_att_special_transportship_naval	Lentos, mas com muito espaço, fazem bem o seu trabalho. Apenas lembre-se de que não são navios de guerra.	1
+ui_unit_groupings_tooltip_att_cav_javelin_land	De movimento rápido e curto alcance, a cavalaria de projéteis é ótima para assediar seus inimigos, mas fraca se presa em combate corpo a corpo.	1
+ui_unit_groupings_tooltip_att_inf_sling_marine	Unidades de médio alcance com cadência de tiro excepcionalmente alta.	1
+ui_unit_groupings_tooltip_att_inf_crossbow_land	Unidades de médio alcance com capacidade excepcional de perfuração de armadura, mas velocidade de recarga lenta.	1
+ui_unit_groupings_tooltip_att_cav_crossbow_land	De movimento rápido e médio alcance, a cavalaria de projéteis é ótima para assediar seus inimigos, mas fraca se presa em combate corpo a corpo.	1
+ui_unit_groupings_tooltip_att_cav_elephant_land	Não há nada como elefantes para abrir um buraco em uma linha inimiga. Projéteis em chamas e dardos são a melhor maneira de combatê-los.	1
+ui_unit_groupings_tooltip_att_inf_sword_marine	Soldados da linha de frente treinados para combate corpo a corpo com seus inimigos.	1
+ui_unit_groupings_tooltip_spcl	Nada diz "surpresa!" como soltar animais no campo de batalha.	1
+ui_unit_groupings_onscreen_att_cav_elephant_land	Elefante	1
+ui_unit_groupings_onscreen_att_cav_crossbow_land	Cavalaria de Besta	1
+ui_unit_groupings_onscreen_att_inf_crossbow_land	Infantaria de Besta	1
+ui_unit_groupings_tooltip_att_inf_javelin_land	Unidades de curto alcance que podem causar dano excepcionalmente alto.	1
+ui_unit_groupings_onscreen_com	Comando	1
+ui_unit_groupings_tooltip_att_inf_crossbow_naval	Unidades de médio alcance com capacidade excepcional de perfuração de armadura, mas velocidade de recarga lenta.	1
+ui_unit_groupings_onscreen_att_inf_sling_marine	Fundeiro	1
+ui_unit_groupings_tooltip_att_special_wardog_land	Cães de guerra são ótimos para atacar unidades com armadura leve.	1
+ui_unit_groupings_tooltip_shp_mel	Perfeitos para eliminar navios inimigos, mas têm que se aproximar rapidamente e abordar para ter sucesso.	1
+ui_unit_groupings_onscreen_att_inf_javelin_naval	Escaramuçador	1
+ui_unit_groupings_tooltip_att_art_scorpio	Com um longo alcance e capazes de causar grande dano, as unidades de artilharia de campanha podem ser movidas lentamente pelo campo de batalha, mas são muito fracas se engajadas em combate corpo a corpo.	1
+ui_unit_groupings_tooltip_inf_mel	Soldados da linha de frente treinados para combate corpo a corpo com seus inimigos.	1
+ui_unit_groupings_onscreen_att_special_ram_naval	Navio de Abalroamento	1
+ui_unit_groupings_tooltip_cav_shk	O martelo para a infantaria de qualquer exército, são devastadores quando investem contra o flanco ou retaguarda dos inimigos.	1
+ui_unit_groupings_tooltip_att_inf_crossbow_marine	Unidades de médio alcance com capacidade excepcional de perfuração de armadura, mas velocidade de recarga lenta.	1
+ui_unit_groupings_onscreen_att_inf_sword_marine	Infantaria	1
+ui_unit_groupings_tooltip_cav_mis	De movimento rápido e com longo alcance, a cavalaria de projéteis é ótima para assediar seus inimigos, mas fraca se presa em combate corpo a corpo.	1
+ui_unit_groupings_tooltip_inf_pik	Piques longos tornam essas tropas mortais pela frente, mas vulneráveis se flanqueadas. São altamente eficazes contra cavalaria.	1
+ui_unit_groupings_tooltip_chariot	Unidades de movimento rápido com um amplo raio de curva, podem perfurar unidades inimigas fracas. São vulneráveis se presas em combate.	1
+ui_unit_groupings_tooltip_inf_mis	Unidades de longo alcance que fornecem suporte para unidades de corpo a corpo, mas são elas mesmas muito fracas em combate próximo.	1
+ui_unit_groupings_onscreen_elph	Elefante	1
+ui_unit_groupings_onscreen_att_art_field_naval	Artilharia	1
+ui_unit_groupings_tooltip_cav_mel	Embora sejam unidades versáteis protegidas por escudos, a cavalaria corpo a corpo é fraca contra unidades mais especializadas.	1
+ui_unit_groupings_onscreen_att_inf_sword_naval	Navio	1
+ui_unit_groupings_onscreen_att_cav_javelin_land	Cavalaria de Escaramuça	1
+ui_unit_groupings_tooltip_shp_mis	Navios inimigos podem ser alvejados com seus projéteis, mas devem manter distância dos navios de combate corpo a corpo inimigos.	1
+ui_unit_groupings_onscreen_att_inf_javelin_marine	Escaramuçador	1
+ui_unit_groupings_onscreen_att_inf_sling_naval	Fundeiro	1
+ui_unit_groupings_tooltip_art_fld	Com um longo alcance e capazes de causar grande dano, as unidades de artilharia de campanha podem ser movidas lentamente pelo campo de batalha, mas são muito fracas se engajadas em combate corpo a corpo.	1
+ui_unit_groupings_tooltip_inf_spr	Infantaria defensiva sólida protegida por escudos, são muito bons quando posicionados contra cavalaria.	1
+ui_unit_groupings_tooltip_art_fix	Unidades de artilharia de posição fixa que causam um grande impacto, são, no entanto, muito fracas se engajadas em combate corpo a corpo.	1
+ui_unit_groupings_tooltip_shp_art	Esses navios podem causar muito dano de longo alcance, mas podem ser neutralizados por abordagem e abalroamento.	1
+ui_unit_groupings_tooltip_shp_trn	Lentos, mas com muito espaço, fazem bem o seu trabalho. Apenas lembre-se de que não são navios de guerra.	1
+ui_unit_groupings_tooltip_att_inf_javelin_marine	Unidades de curto alcance que podem causar dano excepcionalmente alto.	1
+ui_unit_groupings_onscreen_spcl	Especial	1
+ui_unit_groupings_tooltip_att_special_ram_naval	Velocidade total à frente!	1
+ui_unit_groupings_onscreen_att_inf_javelin_land	Escaramuçador	1
+ui_unit_groupings_tooltip_att_inf_javelin_naval	Unidades de curto alcance que podem causar dano excepcionalmente alto.	1

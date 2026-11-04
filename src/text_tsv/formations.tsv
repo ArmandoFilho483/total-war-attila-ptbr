@@ -1,0 +1,70 @@
+key	value	flag
+formations_tooltip_triple_line_melee	Linha Tripla de Corpo a Corpo à Frente||Organiza as unidades em três linhas com infantaria de corpo a corpo na frente, infantaria de projéteis no meio e cavalaria na retaguarda.	1
+formations_name_spear	Lança	1
+formations_name_wedge	Cunha	1
+formations_tooltip_double_line_land	Linha Dupla||Organiza as unidades em duas linhas sem posicioná-las com base em seu tipo.	1
+formations_description_simplex_acies	Uma formação básica de exército com lanceiros bem espaçados na linha de frente, infantaria de corpo a corpo igualmente espaçada atrás, com cavalaria na retaguarda e infantaria de projéteis posicionada à frente.	1
+formations_description_triplex_acies	Uma formação de exército que posiciona a infantaria de corpo a corpo em três linhas, com a mais leve na frente e lanceiros na última linha. A infantaria de projéteis é posicionada à frente, com a cavalaria na retaguarda, nos flancos.	1
+formations_description_double_acies	Uma formação de exército com duas linhas bem espaçadas de infantaria de corpo a corpo, com lanceiros nos flancos e cavalaria atrás. A infantaria de projéteis forma uma barreira na frente.	1
+formations_description_column	Organiza unidades em uma coluna. Útil para cruzar rios ou para avançar em assentamentos. Posiciona a infantaria de projéteis na frente, a infantaria de corpo a corpo no meio e a cavalaria na retaguarda.	1
+formations_tooltip_mis_light_centre	Linha Única de Projéteis nos Flancos||Crie uma forte bateria de disparos no seu centro, com navios de corpo a corpo prontos para fechar pelos flancos.||Quanto mais longe do centro, mais pesado o navio.	1
+formations_tooltip_double_line_sorted	Linha Dupla Ordenada||Organiza as unidades em duas linhas, com a infantaria de projéteis colocada na linha de frente, a infantaria de corpo a corpo na segunda e a cavalaria nos flancos.	1
+formations_tooltip_mis_heavy_centre	Linha Única de Projéteis Pesados||Destrua o centro inimigo com disparos enquanto seus navios pesados de corpo a corpo fecham pelos flancos.||Quanto mais perto do centro, mais pesado o navio.	1
+formations_description_triple_line_missile	Organiza as unidades em três linhas com infantaria de projéteis na frente, infantaria de corpo a corpo no meio e cavalaria na retaguarda.	1
+formations_name_triple_line_missile	Linha Tripla de Projéteis à Frente	1
+formations_name_triplex_acies	Triplex Acies	1
+formations_name_simplex_acies	Simplex Acies	1
+formations_description_double_sailing	PLACEHOLDER	1
+formations_tooltip_crescent	Crescente||A linha de batalha curva-se para dentro, atraindo a frota inimiga para o centro, permitindo cercá-los e prendê-los.	1
+formations_name_double_line_sorted	Linha Dupla Ordenada	1
+formations_description_triple_line_cavalry	Organiza as unidades em três linhas com cavalaria na frente, infantaria de projéteis no meio e infantaria de corpo a corpo na retaguarda.	1
+formations_tooltip_sailing	Linha de Batalha||Uma linha de batalha padrão, com navios pesados formando o centro, e navios leves e de projéteis ocupando os flancos.	1
+formations_tooltip_mis_double_line	Linha Dupla de Projéteis||Uma formação de duas linhas de profundidade que organiza sua frota com navios de projéteis à frente e navios de corpo a corpo na retaguarda.	1
+formations_tooltip_single_line_sorted	Linha Única Ordenada||Organiza as unidades em uma única linha com infantaria de corpo a corpo no meio, infantaria de projéteis ao lado delas e cavalaria nos flancos.	1
+formations_name_single_line	Linha Única	1
+formations_description_single_line	Organiza as unidades em uma linha única desorganizada. Útil para colocar rapidamente as unidades em uma linha.	1
+formations_name_single_line_sorted	Linha Única Ordenada	1
+formations_tooltip_mel_heavy_centre	Linha Única de Corpo a Corpo Pesado||Atravesse a linha inimiga com seus navios pesados de corpo a corpo e use seus navios de projéteis para assediar os flancos deles.||Quanto mais perto do centro, mais pesado o navio.	1
+formations_description_wedge	PLACEHOLDER	1
+formations_tooltip_mel_light_centre	Linha Única de Corpo a Corpo nos Flancos||Apresente uma frente de ataque forte ao centro inimigo com seus navios de corpo a corpo, enquanto seus navios de projéteis cobrem os flancos.||Quanto mais longe do centro, mais pesado o navio.	1
+formations_tooltip_skirmish	Escaramuça||Uma formação de exército com infantaria de projéteis na linha de frente flanqueada por cavalaria de projéteis. A infantaria de corpo a corpo forma a segunda linha com cavalaria de combate corpo a corpo nos flancos.	1
+formations_description_spear	PLACEHOLDER	1
+formations_name_triple_line_cavalry	Linha Tripla de Cavalaria à Frente	1
+formations_name_double_acies	Double Acies	1
+formations_tooltip_mel_double_line	Linha Dupla de Corpo a Corpo||Uma formação de duas linhas de profundidade que organiza sua frota com navios de corpo a corpo à frente e navios de projéteis na retaguarda.	1
+formations_tooltip_wedge	Cunha||Perfure a linha inimiga com seus navios de corpo a corpo avançados. Isso lhe dará espaço para manobrar e varrer os conveses deles com fogo antes de abordar.	1
+formations_tooltip_triple_line_missile	Linha Tripla de Projéteis à Frente||Organiza as unidades em três linhas com infantaria de projéteis na frente, infantaria de corpo a corpo no meio e cavalaria na retaguarda.	1
+formations_name_triple_line_melee	Linha Tripla de Corpo a Corpo à Frente	1
+formations_tooltip_spear	Lança||Abra um buraco na linha inimiga com navios capitais pesados na ponta, navios de corpo a corpo no centro e suporte de projéteis na retaguarda.	1
+formations_description_mel_heavy_centre	PLACEHOLDER	1
+formations_description_single_line_sorted	Organiza as unidades em uma única linha com infantaria de corpo a corpo no meio, infantaria de projéteis ao lado delas e cavalaria nos flancos.	1
+formations_description_skirmish	Uma formação de exército com infantaria de projéteis na linha de frente flanqueada por cavalaria de projéteis. A infantaria de corpo a corpo forma a segunda linha com cavalaria de combate corpo a corpo nos flancos.	1
+formations_description_mel_light_centre	PLACEHOLDER	1
+formations_name_double_line_land	Linha Dupla	1
+formations_description_mis_light_centre	PLACEHOLDER	1
+formations_tooltip_double_sailing	Linha Dupla||Uma frente de ataque forte. Duas fileiras, com navios de projéteis nos flancos e retaguarda, com navios de corpo a corpo no centro.	1
+formations_description_sailing	PLACEHOLDER	1
+formations_tooltip_triple_line_cavalry	Linha Tripla de Cavalaria à Frente||Organiza as unidades em três linhas com cavalaria na frente, infantaria de projéteis no meio e infantaria de corpo a corpo na retaguarda.	1
+formations_name_mel_double_line	Linha Dupla de Corpo a Corpo	1
+formations_description_mis_double_line	PLACEHOLDER	1
+formations_name_column	Coluna	1
+formations_description_mis_heavy_centre	PLACEHOLDER	1
+formations_name_mis_double_line	Linha Dupla de Projéteis	1
+formations_description_mel_double_line	PLACEHOLDER	1
+formations_description_double_line_sorted	Organiza as unidades em duas linhas, com a infantaria de projéteis colocada na linha de frente, a infantaria de corpo a corpo na segunda e a cavalaria nos flancos.	1
+formations_name_sailing	Linha de Batalha	1
+formations_tooltip_single_line	Linha Única||Organiza as unidades em uma linha única desorganizada.	1
+formations_tooltip_column	Coluna||Organiza unidades em uma coluna com infantaria de projéteis na frente, infantaria de corpo a corpo no meio e cavalaria na retaguarda.	1
+formations_name_double_sailing	Linha Dupla	1
+formations_description_crescent	PLACEHOLDER	1
+formations_tooltip_double_acies	Double Acies||Uma formação de exército com duas linhas bem espaçadas de infantaria de corpo a corpo, com lanceiros nos flancos e cavalaria atrás. A infantaria de projéteis forma uma barreira na frente.	1
+formations_name_mel_light_centre	Linha Única de Corpo a Corpo nos Flancos	1
+formations_name_skirmish	Escaramuça	1
+formations_tooltip_triplex_acies	Triplex Acies||Uma formação de exército que posiciona a infantaria de corpo a corpo em três linhas, com a mais leve na frente e lanceiros na última linha. A infantaria de projéteis é posicionada à frente, com a cavalaria na retaguarda, nos flancos.	1
+formations_tooltip_simplex_acies	Simplex Acies||Uma formação básica de exército com lanceiros bem espaçados na linha de frente, infantaria de corpo a corpo igualmente espaçada atrás, com cavalaria na retaguarda e infantaria de projéteis posicionada à frente.	1
+formations_name_mel_heavy_centre	Linha Única de Corpo a Corpo Pesado	1
+formations_name_mis_heavy_centre	Linha Única de Projéteis Pesados	1
+formations_name_mis_light_centre	Linha Única de Projéteis nos Flancos	1
+formations_description_double_line_land	Organiza as unidades em duas linhas sem posicioná-las com base em seu tipo. Esta formação é boa para colocar rapidamente unidades do mesmo tipo em duas linhas.	1
+formations_description_triple_line_melee	Organiza as unidades em três linhas com infantaria de corpo a corpo na frente, infantaria de projéteis no meio e cavalaria na retaguarda.	1
+formations_name_crescent	Crescente	1

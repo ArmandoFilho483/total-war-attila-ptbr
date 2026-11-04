@@ -1,0 +1,52 @@
+key	value	flag
+campaign_map_attritions_unit_card_tooltip_att_att_mountain	A montanha cobra seu preço. Não se demore aqui: saia da montanha para evitar desgaste.	1
+campaign_map_attritions_unit_immunity_text_att_att_desertion	placeholder	1
+campaign_map_attritions_unit_immunity_text_att_att_besieged	placeholder	1
+campaign_map_attritions_unit_immunity_text_att_att_besieging	placeholder	1
+campaign_map_attritions_unit_immunity_text_att_att_blockaded	placeholder	1
+campaign_map_attritions_unit_card_tooltip_att_att_besieged	A população deste assentamento sitiado está morrendo de desnutrição. Alivie o cerco por qualquer meio possível, seja por palavras ou por espadas!	1
+campaign_map_attritions_campaign_map_tooltip_att_att_sabotage	placeholder	1
+campaign_map_attritions_unit_immunity_text_att_att_disease	placeholder	1
+campaign_map_attritions_unit_immunity_text_att_att_mountain	Esta unidade é imune ao desgaste de montanha.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_high_sea	Frotas sofrerão perdas devido ao desgaste quando estiverem em águas profundas.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_mountain	Exércitos sofrerão perdas devido ao desgaste enquanto atravessam passos de montanha.	1
+campaign_map_attritions_unit_immunity_text_att_att_high_sea	Esta unidade é imune ao desgaste de alto-mar.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_swamp	Exércitos sofrerão perdas devido ao desgaste quando estiverem em terras pantanosas.	1
+campaign_map_attritions_unit_immunity_text_att_att_blockading	placeholder	1
+campaign_map_attritions_unit_immunity_text_att_att_sabotage	placeholder	1
+campaign_map_attritions_unit_card_tooltip_att_att_sabotage	Um agente inimigo conseguiu sabotar nosso exército, muitos homens perderam suas vidas. Encontre e mate o responsável.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_besieged	Este assentamento está sofrendo perdas por desgaste pois está sob cerco.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_2	Exércitos sofrerão perdas devido ao desgaste quando estiverem em regiões congeladas.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_3	Exércitos sofrerão perdas devido ao desgaste quando estiverem em regiões congeladas.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_1	Exércitos sofrerão perdas devido ao desgaste quando estiverem em regiões congeladas.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_4	Exércitos sofrerão perdas devido ao desgaste quando estiverem em regiões congeladas.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_snow_5	Exércitos sofrerão perdas devido ao desgaste quando estiverem em regiões congeladas.	1
+campaign_map_attritions_unit_immunity_text_att_att_regionless	placeholder	1
+campaign_map_attritions_unit_card_tooltip_att_att_high_sea	Os elementos mostram seu verdadeiro poder sobre águas profundas, fustigando incessantemente a frota e trazendo a morte aos nossos marinheiros. Mantenha-se no litoral para garantir sua segurança.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_desert	Exércitos sofrerão perdas devido ao desgaste quando estiverem em regiões desérticas.	1
+campaign_map_attritions_unit_card_tooltip_att_att_blockading	Manter a frota no mar prejudica a nós tanto quanto ao inimigo. Encerre o bloqueio para parar este desgaste.	1
+campaign_map_attritions_unit_card_tooltip_att_att_regionless	Suas tropas estão desertando porque você não pode mais sustentá-las. Resolva esta crise antes que suas forças fiquem incapacitadas.	1
+campaign_map_attritions_unit_card_tooltip_att_att_besieging	Sitiar um assentamento também cobra seu preço aos sitiantes, pois doenças e pequenas escaramuças reivindicam os fracos. Encerre este cerco em breve para parar este desgaste.	1
+campaign_map_attritions_unit_card_tooltip_att_att_blockaded	Sem suprimentos vindos das rotas comerciais marítimas, nosso assentamento passa fome. Encerre o bloqueio para repor suprimentos vitais.	1
+campaign_map_attritions_unit_card_tooltip_att_att_desertion	Suas tropas estão desertando porque você não pode mais sustentá-las. Resolva esta crise antes que ela incapacite suas forças.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_disease	placeholder	1
+campaign_map_attritions_campaign_map_tooltip_att_att_blockading	Esta frota está sofrendo perdas por desgaste pois está realizando um bloqueio.	1
+campaign_map_attritions_unit_card_tooltip_att_att_desert	Todos perecerão no deserto! Monte acampamento, encontre um assentamento ou deixe este lugar estéril para evitar que o desgaste ocorra.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_regionless	placeholder	1
+campaign_map_attritions_unit_immunity_text_att_att_snow_4	Esta unidade é imune ao desgaste de neve.	1
+campaign_map_attritions_unit_immunity_text_att_att_snow_5	Esta unidade é imune ao desgaste de neve.	1
+campaign_map_attritions_unit_immunity_text_att_att_snow_2	Esta unidade é imune ao desgaste de neve.	1
+campaign_map_attritions_unit_immunity_text_att_att_snow_3	Esta unidade é imune ao desgaste de neve.	1
+campaign_map_attritions_unit_immunity_text_att_att_snow_1	Esta unidade é imune ao desgaste de neve.	1
+campaign_map_attritions_unit_card_tooltip_att_att_swamp	Este atoleiro reivindica os incautos. Um general sábio encontraria uma estrada ou deixaria este lugar.	1
+campaign_map_attritions_unit_immunity_text_att_att_swamp	Esta unidade é imune ao desgaste de pântano.	1
+campaign_map_attritions_unit_immunity_text_att_att_desert	Esta unidade é imune ao desgaste de deserto.	1
+campaign_map_attritions_unit_card_tooltip_att_att_disease	A doença traz morte e sofrimento às nossas tropas. Devemos apaziguar os deuses através de sacrifícios pela ofensa que causamos, e então esperar a doença passar.	1
+campaign_map_attritions_unit_card_tooltip_att_att_snow_3	O frio faz cadáveres. Monte acampamento, encontre um assentamento ou marche para climas mais quentes para evitar que o desgaste ocorra.	1
+campaign_map_attritions_unit_card_tooltip_att_att_snow_2	O frio faz cadáveres. Monte acampamento, encontre um assentamento ou marche para climas mais quentes para evitar que o desgaste ocorra.	1
+campaign_map_attritions_unit_card_tooltip_att_att_snow_1	O frio faz cadáveres. Monte acampamento, encontre um assentamento ou marche para climas mais quentes para evitar que o desgaste ocorra.	1
+campaign_map_attritions_unit_card_tooltip_att_att_snow_5	O frio faz cadáveres. Monte acampamento, encontre um assentamento ou marche para climas mais quentes para evitar que o desgaste ocorra.	1
+campaign_map_attritions_unit_card_tooltip_att_att_snow_4	O frio faz cadáveres. Monte acampamento, encontre um assentamento ou marche para climas mais quentes para evitar que o desgaste ocorra.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_desertion	placeholder	1
+campaign_map_attritions_campaign_map_tooltip_att_att_besieging	Este exército está sofrendo perdas por desgaste pois está realizando um cerco.	1
+campaign_map_attritions_campaign_map_tooltip_att_att_blockaded	Este porto está sofrendo perdas por desgaste pois está sendo bloqueado.	1

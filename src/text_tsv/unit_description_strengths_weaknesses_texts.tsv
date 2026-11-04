@@ -1,0 +1,72 @@
+key	value	flag
+unit_description_strengths_weaknesses_texts_text_transport	Resistência do casco muito fraca||Velocidade muito lenta||Abalroamento fraco	1
+unit_description_strengths_weaknesses_texts_text_two	Resistência do casco muito fraca||Tripulação muito leve||Velocidade rápida||Abalroamento fraco||Bom embarque	1
+unit_description_strengths_weaknesses_texts_text_polybolos	Dano alto || Preciso || Alcance médio || Taxa de tiro muito alta	1
+unit_description_strengths_weaknesses_texts_text_spear_avg	Boa unidade defensiva||Baixo dano, mas penetração de armadura média||Ataque médio||Moral normal	1
+unit_description_strengths_weaknesses_texts_text_scorpio_hft_seven	Resistência excepcional do casco||Tripulação muito pesada||Velocidade muito lenta||Abalroamento forte||Bom embarque||Combate excepcional com mísseis	1
+unit_description_strengths_weaknesses_texts_text_axemen_good	Bom ataque||Defesa média||Baixo dano, mas boa penetração de armadura||Boa moral	1
+unit_description_strengths_weaknesses_texts_text_four	Resistência média do casco||Tripulação média||Velocidade média||Abalroamento médio||Embarque médio	1
+unit_description_strengths_weaknesses_texts_text_five	Boa resistência do casco||Tripulação média||Velocidade média||Abalroamento médio||Embarque ruim||Bom combate com mísseis	1
+unit_description_strengths_weaknesses_texts_text_heavy_raider	Resistência do casco muito boa||Tripulação média||Velocidade média||Abalroamento médio||Embarque muito bom	1
+unit_description_strengths_weaknesses_texts_text_two_halfer	Fraca resistência do casco||Tripulação média||Incapturável||Abalroamento fraco||Embarque fraco||Combate médio com mísseis	1
+unit_description_strengths_weaknesses_texts_text_double_scorpio_five	Boa resistência do casco||Tripulação média||Velocidade média||Abalroamento médio||Embarque ruim||Combate de mísseis muito bom	1
+unit_description_strengths_weaknesses_texts_text_melee_avg	Bom ataque||Defesa média||Dano médio, mas baixa penetração de armadura||Moral normal	1
+unit_description_strengths_weaknesses_texts_text_one_halfer	Resistência do casco muito fraca||Tripulação leve||Velocidade muito rápida||Abalroamento fraco||Embarque muito fraco||Combate de mísseis fraco	1
+unit_description_strengths_weaknesses_texts_text_javelinmen	Curto alcance||Taxa de tiro rápida||Dano e penetração de armadura muito bons||Muito fraco em combate corpo a corpo||Moral muito baixo	1
+unit_description_strengths_weaknesses_texts_text_placeholder	placeholder	1
+unit_description_strengths_weaknesses_texts_text_harpax_six	Muito boa resistência do casco||Tripulação pesada||Velocidade lenta||Abalroamento forte||Embarque excepcional	1
+unit_description_strengths_weaknesses_texts_text_elephant_armoured	Carga muito boa || Alto dano || Grande quantidade de pontos de vida || Boa moral	1
+unit_description_strengths_weaknesses_texts_text_pike_good	Unidade defensiva muito boa||Baixo dano, mas penetração de armadura média||Ataque médio||Boa moral||Muito vulnerável quando não está na falange	1
+unit_description_strengths_weaknesses_texts_text_pike_poor	Unidade defensiva média||Dano baixo, mas penetração de armadura média||Ataque fraco||Moral baixo||Muito vulnerável quando não está na falange	1
+unit_description_strengths_weaknesses_texts_text_melee_poor	Ataque médio||Defesa fraca||Dano médio, mas baixa penetração de armadura||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_melee_good	Ataque muito bom||Defesa média||Dano médio, mas baixa penetração de armadura||Boa moral	1
+unit_description_strengths_weaknesses_texts_text_fire_pot_two	Resistência do casco muito fraca||Tripulação muito leve||Velocidade rápida||Abalroamento inicial muito forte||Bom embarque	1
+unit_description_strengths_weaknesses_texts_text_archer_cav	Longo alcance||Taxa média de tiro||Movimento rápido||Bom dano, mas baixa penetração de armadura||Muito fraco em combate corpo a corpo||Moral muito baixo	1
+unit_description_strengths_weaknesses_texts_text_javelin_cav	Curto alcance||Taxa de tiro rápida||Movimento rápido||Dano e penetração de armadura muito bons||Escudo grande||Muito fraco em combate corpo a corpo||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_six	Muito boa resistência do casco||Tripulação pesada||Velocidade lenta||Forte abalroamento||Muito bom embarque	1
+unit_description_strengths_weaknesses_texts_text_onager_five	Boa resistência do casco||Tripulação esquelética||Velocidade média||Abalroamento médio||Embarque abismal||Combate excepcional com mísseis	1
+unit_description_strengths_weaknesses_texts_text_spear_good	Unidade defensiva muito boa||Baixo dano, mas penetração de armadura média||Ataque médio||Boa moral	1
+unit_description_strengths_weaknesses_texts_text_spear_poor	Unidade defensiva média||Dano baixo, mas penetração de armadura média||Ataque fraco||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_mob	Dano e penetração de armadura muito baixos||Muito fraco em combate corpo a corpo||Moral muito baixo	1
+unit_description_strengths_weaknesses_texts_text_barbarian_transport	Resistência do casco muito fraca||Velocidade muito lenta||Abalroamento fraco	1
+unit_description_strengths_weaknesses_texts_text_medium_raider_melee	Boa resistência do casco||Tripulação média||Velocidade rápida||Abalroamento fraco||Bom embarque	1
+unit_description_strengths_weaknesses_texts_text_raider_melee	Resistência média do casco||Tripulação leve||Velocidade muito rápida||Abalroamento fraco||Embarque médio	1
+unit_description_strengths_weaknesses_texts_text_medium_raider_ranged	Boa resistência do casco||Tripulação média||Velocidade rápida||Abalroamento fraco||Embarque fraco||Bom combate com mísseis	1
+unit_description_strengths_weaknesses_texts_text_ballista_giant	Preciso||Alcance muito longo||Taxa média de tiro||Mais dano que a Balista normal||Mais pontos de vida que a Balista normal||Imóvel	1
+unit_description_strengths_weaknesses_texts_text_scorpio_three	Fraca resistência do casco||Tripulação leve||Velocidade rápida||Abalroamento fraco||Embarque médio||Bom combate com mísseis	1
+unit_description_strengths_weaknesses_texts_text_archers_elite	Longo alcance||Taxa de tiro rápida||Bom dano, mas baixa penetração de armadura||Muito fraco em combate corpo a corpo||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_pike_avg	Boa unidade defensiva||Baixo dano, mas penetração de armadura média||Ataque médio||Moral normal||Muito vulnerável quando não está na falange	1
+unit_description_strengths_weaknesses_texts_text_double_hft_eight	Força do casco imbatível||Tripulação muito pesada||Velocidade muito lenta||Abalroamento forte||Abordagem indomável||Combate médio com mísseis	1
+unit_description_strengths_weaknesses_texts_text_shock_inf_good	Carga e ataque muito bons||Bom dano e penetração de armadura||Defesa fraca||Boa moral	1
+unit_description_strengths_weaknesses_texts_text_melee_cav_good	Ataque muito bom||Defesa média||Dano baixo, mas penetração de armadura média||Boa moral	1
+unit_description_strengths_weaknesses_texts_text_shock_inf_poor	Carga e ataque médios||Bom dano e penetração de armadura||Defesa fraca||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_melee_cav_poor	Ataque médio||Defesa fraca||Dano baixo, mas penetração de armadura média||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_peltasts	Curto alcance||Rápida taxa de tiro||Muito bom dano e penetração de armadura||Escudo grande||Muito fraco em combate corpo a corpo||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_ballista	Muito preciso||Alcance muito longo||Taxa de tiro rápida||Dano menor que outras artilharias||Facilmente destruído	1
+unit_description_strengths_weaknesses_texts_text_ballista_five	Força média do casco||Tripulação esquelética||Velocidade média||Abalroamento médio||Embarque abismal||Combate excepcional com mísseis	1
+unit_description_strengths_weaknesses_texts_text_shock_inf_avg	Boa carga e ataque||Bom dano e penetração de armadura||Defesa fraca||Moral médio	1
+unit_description_strengths_weaknesses_texts_text_slingers	Alcance muito longo||Taxa média de tiro||Baixo dano, mas penetração média de armadura||Muito fraco em combate corpo a corpo||Moral muito baixo	1
+unit_description_strengths_weaknesses_texts_text_war_dogs	Ataque muito bom||Forte contra unidades com blindagem leve||Manipuladores fracos em combate corpo a corpo	1
+unit_description_strengths_weaknesses_texts_text_war_pigs	Assustar elefantes||Animais não atacam||Manipuladores fracos em combate corpo a corpo	1
+unit_description_strengths_weaknesses_texts_text_barbarian_five	Força média do casco||Tripulação média||Velocidade média||Abalroamento médio||Embarque ruim||Bom combate com mísseis	1
+unit_description_strengths_weaknesses_texts_text_barbarian_four	Resistência média do casco||Tripulação média||Velocidade média||Abalroamento médio||Embarque médio	1
+unit_description_strengths_weaknesses_texts_text_shock_cav_avg	Boa carga||Baixo dano, mas média penetração de armadura||Fraco em combate corpo a corpo prolongado||Moral médio	1
+unit_description_strengths_weaknesses_texts_text_archer_cav_elite	Longo alcance||Taxa de tiro rápida||Movimento rápido||Bom dano, mas baixa penetração de armadura||Muito fraco em combate corpo a corpo||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_melee_cav_avg	Bom ataque||Defesa média||Dano baixo, mas penetração de armadura média||Moral médio	1
+unit_description_strengths_weaknesses_texts_text_raider_ranged	Boa resistência do casco||Tripulação média||Velocidade rápida||Abalroamento fraco||Embarque fraco||Bom combate com mísseis	1
+unit_description_strengths_weaknesses_texts_text_archers	Longo alcance||Taxa média de tiro||Bom dano, mas baixa penetração de armadura||Muito fraco em combate corpo a corpo||Moral muito baixo	1
+unit_description_strengths_weaknesses_texts_text_chariot_scythed	Movimento rápido || Carga muito boa || Média em combate corpo a corpo || Boa moral	1
+unit_description_strengths_weaknesses_texts_text_shock_cav_good	Carga muito boa||Baixo dano, mas penetração de armadura média||Fraca em combate corpo a corpo prolongado||Boa moral	1
+unit_description_strengths_weaknesses_texts_text_shock_cav_poor	Carga média||Dano baixo, mas penetração de armadura média||Fraco em combate corpo a corpo prolongado||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_general	Unidade pequena||Ataque médio||Defesa média||Dano baixo, mas penetração de armadura média||Encoraja aliados próximos||Moral bom	1
+unit_description_strengths_weaknesses_texts_text_eight	Força do casco imbatível||Tripulação muito pesada||Velocidade muito lenta||Abalroamento forte||Embarque indomável	1
+unit_description_strengths_weaknesses_texts_text_axemen	Ataque médio||Defesa fraca||Dano baixo, mas boa penetração de armadura||Moral baixo	1
+unit_description_strengths_weaknesses_texts_text_elephant	Carga muito boa||Alto dano||Grande quantidade de pontos de vida||Moral médio	1
+unit_description_strengths_weaknesses_texts_text_chariot	Movimento rápido||Javelins lançados durante o movimento||Boa carga||Fraco em combate corpo a corpo prolongado||Boa moral	1
+unit_description_strengths_weaknesses_texts_text_onager	Longo alcance||Alto dano com seus diferentes tiros||Difícil de destruir||Impreciso||Baixa cadência de tiro	1
+unit_description_strengths_weaknesses_texts_text_seven	Resistência excepcional do casco||Tripulação muito pesada||Velocidade muito lenta||Abalroamento forte||Bom embarque||Muito bom combate com mísseis	1
+unit_description_strengths_weaknesses_texts_text_three	Fraca resistência do casco||Tripulação leve||Velocidade rápida||Abalroamento fraco||Embarque fraco||Combate médio com mísseis	1
+unit_description_strengths_weaknesses_texts_text_scorpion	Alto dano||Móvel||Muito preciso||Curto alcance||Taxa média de tiro	1
+unit_description_strengths_weaknesses_texts_text_shock_cav_cat	Carga muito boa||Baixo dano, mas penetração de armadura média||Fortemente blindada||Cavalaria mais lenta||Boa moral	1
+unit_description_strengths_weaknesses_texts_text_lft_five	Boa resistência do casco||Tripulação média||Velocidade média||Abalroamento médio||Embarque médio||Combate de mísseis muito bom	1
+unit_description_strengths_weaknesses_texts_text_lft_six	Muito boa resistência do casco||Tripulação pesada||Velocidade lenta||Forte colisão||Muito bom embarque||Fraco combate com mísseis	1

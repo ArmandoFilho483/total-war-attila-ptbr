@@ -1,0 +1,15 @@
+key	value	flag
+projectile_shot_type_enum_button_tooltip_text_small_arm_heavy	Tiro Pesado||Causa maior perfuração de armadura, mas menos dano regular e leva mais tempo para recarregar. Mais eficiente contra inimigos fortemente blindados. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_torch	Tocha	1
+projectile_shot_type_enum_button_tooltip_text_small_arm_default	Tiro Padrão||Este é o tipo de tiro padrão para esta unidade. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_artillery_default	Rodada Padrão||Este é o tipo de tiro padrão para esta unidade. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_artillery_explosive	Rodada Explosiva||Causa alto dano em uma grande área, mas leva mais tempo para recarregar. Mais eficiente contra formações compactas. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_small_arm_flaming	Flaming Shot||Tem um impacto considerável no moral e causa danos mais regulares, mas menos perfurantes. Mais eficiente contra inimigos e edifícios com blindagem leve. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_artillery_whistling	Rodada Assobiando||Causa menos dano, mas tem um som assustador. Afeta negativamente o moral, o ataque corpo a corpo e a taxa de disparo de qualquer unidade por onde passar. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_artillery_flammable	Rodada Flamejante||Esta rodada ignora completamente a armadura, mas leva mais tempo para recarregar. Mais eficiente contra unidades em terrenos e edifícios inflamáveis. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_small_arm_whistling	Whistling Shot||Causa muito pouco dano, mas tem um som assustador. Afeta negativamente o moral, o ataque corpo a corpo e o tempo de recarga dos alvos, bem como de qualquer unidade sobre a qual ele passe. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_artillery_poison	Rodada Venenosa || Reduz o ataque corpo a corpo e a defesa corpo a corpo do inimigo e causa fadiga. Também reduz o alcance de tiro. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_small_arm_extended	Tiro Estendido||Tem maior alcance, mas causa menos dano. Esses valores são posteriormente modificados pela própria unidade.	1
+projectile_shot_type_enum_button_tooltip_text_small_arm_poison	Poison Shot||Envenena a unidade alvo, causando baixas ao longo do tempo.	1
+projectile_shot_type_enum_button_tooltip_text_oil	Óleo Queimando	1
+projectile_shot_type_enum_button_tooltip_text_explosives	Pote Explosivo	1

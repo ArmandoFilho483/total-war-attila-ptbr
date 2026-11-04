@@ -1,0 +1,77 @@
+key	value	flag
+agent_localisations_text_agent_attribute_tooltip_subterfuge	Astúcia||A capacidade de um agente para subterfúgio e espionagem.	1
+agent_localisations_text_general_profession_admiral	Almirante	1
+agent_localisations_text_general_profession_general	General	1
+agent_localisations_text_general_attribute_tooltip_subterfuge	Astúcia||A compreensão de um general sobre estratégia e tática.	1
+agent_localisations_text_agent_attribute_tooltip_zeal	Zelo||A determinação e capacidade de hostilidade de um agente.	1
+agent_localisations_text_agent_localisation_action_deployed_cannot_undeploy	Este agente está destacado aqui.\n\n[[col:red]]Eles não podem sair do destaque neste turno.[[/col]]	1
+agent_localisations_text_general_profession_emperor	Imperador	1
+agent_localisations_text_agent_localisation_action_execution_status_agent_cap_reached	[[col:red]]Você já está colocando em campo o número máximo atual deste tipo de agente.\n[[/col]]	1
+agent_localisations_text_agent_action_panel_champion_method_hinder_settlement	Perturbar Assentamento	1
+agent_localisations_text_agent_action_panel_dignitary_method_hinder_character	Assassinar	1
+agent_localisations_text_agent_action_panel_spy_method_hinder_agent	Manipular Agente	1
+agent_localisations_text_agent_action_panel_chance_manipulation_steal	Chance de manipular:	1
+agent_localisations_text_agent_attribute_tooltip_authority	Autoridade||A força de caráter e capacidade de manipulação de um agente.	1
+agent_localisations_text_agent_outcome_opportune_failure_money_refund	Eles conseguiram recuperar o custo de sua tentativa.	1
+agent_localisations_text_agent_action_panel_spy_method_hinder_army	Atrapalhar Exército	1
+agent_localisations_text_agent_disband_dialog_heading	Dispensar Agente	1
+agent_localisations_text_agent_localisation_action_undeployed_at_sea_cannot_deploy	[[col:red]]Agentes não podem ser destacados no mar.[[/col]]	1
+agent_localisations_text_agent_action_panel_outcomes_hinder_character_success	Personagem alvo ferido:	1
+agent_localisations_text_agent_localisation_action_execution_status_cannot_sabotage_fully_damaged_building	[[col:red]]Este edifício não pode ser sabotado, pois já está em ruínas.\n[[/col]]	1
+agent_localisations_text_agent_action_result_strings_target	Alvo:	1
+agent_localisations_text_agent_recruitment_no_agents_header	Nenhum agente disponível no momento.	1
+agent_localisations_text_general_attribute_tooltip_authority	Autoridade||A força de caráter de um general e a capacidade de liderar tropas em batalha.	1
+agent_localisations_text_general_profession_candidate	Candidato	1
+agent_localisations_text_agent_action_panel_outcomes_hinder_agent_success_critical	Agente alvo manipulado:	1
+agent_localisations_text_agent_recruitment_building_required	Você não pode recrutar este agente até ter construído o seguinte edifício:	1
+agent_localisations_text_agent_localisation_action_execution_status_targets_walls_of_garrison_without_walls	[[col:red]]Este assentamento não possui muralhas para sabotar.\n[[/col]]	1
+agent_localisations_text_agent_action_panel_champion_method_hinder_character	Assassinar	1
+agent_localisations_text_general_profession_retainer	Retentor	1
+agent_localisations_text_agent_action_panel_chance_assassination_kill	Chance de assassinar:	1
+agent_localisations_text_agent_attribute_panel_approach_subterfuge_tooltip	Abordagem baseada em Astúcia.||O sucesso desta abordagem é governado pelo atributo de astúcia do agente versus o de seu alvo.	1
+agent_localisations_text_agent_localisation_action_undeployed_cannot_deploy	[[col:red]]Este agente não pode ser destacado neste turno.[[/col]]	1
+agent_localisations_text_agent_attribute_panel_approach_zeal_tooltip	Abordagem baseada em Zelo.||O sucesso desta abordagem é governado pelo atributo de zelo do agente versus o de seu alvo.	1
+agent_localisations_text_general_profession_governor	Governador	1
+agent_localisations_text_agent_action_result_strings_action	Ação:	1
+agent_localisations_text_agent_action_panel_outcomes_success_header	Resultado Positivo:	1
+agent_localisations_text_agent_action_panel_outcomes_failure_header	Resultado Negativo:	1
+agent_localisations_text_agent_action_panel_outcomes_hinder_settlement_success_critical	Efeito significativo:	1
+agent_localisations_text_general_profession_politician	Estadista	1
+agent_localisations_text_agent_action_panel_spy_method_hinder_settlement	Perturbar Assentamento	1
+agent_localisations_text_agent_attribute_panel_approach_attribute_yours	Seu:	1
+agent_localisations_text_agent_localisation_action_undeployed_can_deploy	Clique com o botão esquerdo para destacar.\n\n[[col:yellow]]Enquanto destacados, agentes não podem agir contra outros alvos.[[/col]]	1
+agent_localisations_text_agent_localisation_action_execution_status_low_success_chance	[[col:red]]Esta ação não pode ter sucesso: a chance de sucesso é muito baixa.\n[[/col]]	1
+agent_localisations_text_agent_recruitment_no_agents_description	Uma cadeia de edifícios específica é necessária para o recrutamento de agentes.	1
+agent_localisations_text_agent_localisation_action_execution_status_cannot_sabotage_damaged_castle_gates	[[col:red]]Os portões não podem ser sabotados, pois já estão danificados.\n[[/col]]	1
+agent_localisations_text_agent_action_panel_champion_method_hinder_army	Atrapalhar Exército	1
+agent_localisations_text_agent_action_panel_outcomes_hinder_character_success_critical	Personagem alvo assassinado:	1
+agent_localisations_text_agent_outcome_opportune_failure_research_points	Eles adquiriram conhecimentos importantes que contribuirão para os esforços de pesquisa.	1
+agent_localisations_text_agent_action_panel_outcomes_hinder_settlement_success	Efeito moderado:	1
+agent_localisations_text_agent_action_panel_outcomes_all_failure_critical	Agente ferido:	1
+agent_localisations_text_agent_attribute_panel_approach_authority_tooltip	Abordagem baseada em Autoridade.||O sucesso desta abordagem é governado pelo atributo de autoridade do agente versus o de seu alvo.	1
+agent_localisations_text_agent_attribute_panel_approach_attribute_theirs	Deles:	1
+agent_localisations_text_agent_action_panel_champion_method_hinder_agent	Manipular Agente	1
+agent_localisations_text_agent_action_panel_dignitary_method_hinder_settlement	Perturbar Assentamento	1
+agent_localisations_text_agent_localisation_action_execution_status_ok	[[col:green]]Este agente pode realizar esta ação.\n[[/col]]	1
+agent_localisations_text_agent_action_panel_chance_assassination_wound	Chance de ferir:	1
+agent_localisations_text_general_profession_family_member	Membro da Família	1
+agent_localisations_text_agent_localisation_action_deployed_can_undeploy	Este agente está destacado dentro desta província.\n\nClique com o botão esquerdo para retirar o destaque.	1
+agent_localisations_text_agent_localisation_action_execution_status_guaranteed	[[col:green]]Esta ação não pode falhar.\n[[/col]]	1
+agent_localisations_text_agent_outcome_opportune_failure_go_again	Eles passaram completamente despercebidos e sem obstáculos, e não houve nada que os impedisse de fazer outra tentativa.	1
+agent_localisations_text_agent_outcome_opportune_failure_ancillary_steal	Eles convencem um membro da casa de seu alvo a se juntar a eles antes de fazer sua fuga.	1
+agent_localisations_text_general_attribute_tooltip_zeal	Zelo||A determinação de um general e sua proeza de combate pessoal.	1
+agent_localisations_text_agent_localisation_action_execution_status_insufficient_funds	[[col:red]]Você tem fundos insuficientes para realizar esta ação.[[/col]]	1
+agent_localisations_text_agent_action_panel_outcomes_hinder_agent_success	Agente alvo parado:	1
+agent_localisations_text_agent_action_panel_outcomes_hinder_army_success	Efeito moderado:	1
+agent_localisations_text_agent_action_panel_outcomes_all_failure	Falha do agente:	1
+agent_localisations_text_agent_outcome_opportune_failure_ancillary_kill	Eles conseguiram matar um membro da casa de seu alvo enquanto faziam sua fuga.	1
+agent_localisations_text_agent_action_panel_dignitary_method_hinder_agent	Manipular Agente	1
+agent_localisations_text_agent_action_panel_chance_manipulation_hinder	Chance de atrapalhar:	1
+agent_localisations_text_agent_action_panel_outcomes_hinder_army_success_critical	Efeito significativo:	1
+agent_localisations_text_agent_localisation_action_execution_status_coop_action	[[col:red]]Você não pode realizar ações de agente contra seu aliado cooperativo.\n[[/col]]	1
+agent_localisations_text_agent_action_panel_spy_method_hinder_character	Assassinar	1
+agent_localisations_text_agent_localisation_action_execution_status_seduce_faction_leader	[[col:red]]Você não pode manipular um líder de facção.\n[[/col]]	1
+agent_localisations_text_agent_localisation_action_need_action_to_deploy	\nPara destacar aqui, você deve desbloquear a seguinte ação: [[col:yellow]]	1
+agent_localisations_text_agent_disband_dialog_description	Tem certeza de que deseja dispensar este agente?	1
+agent_localisations_text_agent_action_panel_dignitary_method_hinder_army	Atrapalhar Exército	1
+agent_localisations_text_agent_outcome_opportune_failure_additional_experience	Eles aprenderam mais com seu fracasso do que aprenderiam de outra forma.	1

@@ -1,0 +1,504 @@
+key	value	flag
+event_feed_strings_text_att_event_feed_string_faction_succession_description_king_of_kings	O Rei dos Reis está morto e o manto da liderança foi passado.\n\nViva o Rei dos Reis!	1
+event_feed_strings_text_att_event_feed_string_faction_technology_researched_secondary_detail	#(technology.description)\n	1
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_description_female	Ocasião alegre! Esses membros da família foram abençoados com uma filha.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_secondary_detail	A história está repleta de histórias de grandes homens desperdiçados sob o comando de governantes fracos. Justiniano, infelizmente, provou ser um desses senhores – seu ciúme atrapalhando Belisário a cada passo, eventualmente se tornando uma ameaça à sua vida e posição. O Imperador pode ter nascido para governar, mas Belisário também nasceu com um destino. Ele restaurará a glória desbotada do Império Ocidental e quaisquer impedimentos serão deixados para trás. Justiniano está furioso com esta traição, e superá-lo será um desafio tão grande quanto a conquista da Itália. Mesmo assim, Belisário abraça a tarefa. Libertado, ele deixará o mundo de joelhos!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_secondary_detail	A prática leva à perfeição. A experiência do seu povo no cultivo da azeitona permanece incomparável em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_character_ancillary_all_primary_detail	#(ancillary)	1
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_title	Salão dos Bardos desbloqueado	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_dissolved_description	A mudança das circunstâncias resultou na necessidade de dissolvermos as relações comerciais com esta facção.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_destroyed_description_theirs	Esta facção foi destruída por seus inimigos.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_secondary_detail	Invadindo perto de: #(force.region)\n\nFacção proprietária: #(faction)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_primary_detail	 	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_description	O flagelo inimigo saqueou nosso assentamento, deixando um rastro de desolação!	1
+event_feed_strings_text_att_event_feed_string_character_dies_suspicious_description	Nosso sujeito morreu em circunstâncias suspeitas. Cuidado com os agentes inimigos.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_unavailable_primary_details	Alvos perdidos	1
+event_feed_strings_text_att_event_feed_string_plague_starts_secondary_detail	Localização: #(region)	1
+event_feed_strings_text_att_event_feed_string_provinces_building_all_primary_detail	#(building)	1
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_male	Nosso agente cumpriu sua missão com diligência e lealdade!	1
+event_feed_strings_text_att_event_feed_string_plague_force_from_region_description	Nossas forças contraíram a praga enquanto passavam por território infectado!	1
+event_feed_strings_text_att_event_feed_string_provinces_building_demolished_secondary_detail	#(building.region_and_province)	1
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_roman	O Imperador faleceu, mas o seu herdeiro designado é demasiado jovem para assumir o manto da liderança. Como tal, um regente foi nomeado até o momento em que tenha idade suficiente para governar.	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_region_and_province_primary_detail	#(settlement.region_and_province)	1
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_primary_detail	Novas Religiões	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_all_primary_detail	#(faction.known_to)	1
+event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_primary_detail	[ph] Detalhe primário formado por Avar Khaganate	1
+event_feed_strings_text_att_event_feed_string_scripted_event_primary_detail	#(primary_detail)	1
+event_feed_strings_text_att_event_feed_string_military_ambusher_description	Detectamos uma força estrangeira tentando armar uma emboscada!	1
+event_feed_strings_text_att_event_feed_string_character_loyalty_low_secondary_detail	Classificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_plague_region_from_region_description	A peste se espalhou para o nosso assentamento a partir de terras próximas e infectou a população!	1
+event_feed_strings_text_att_event_feed_string_horde_building_demolished_description	Este edifício foi demolido. O excedente populacional, uma vez investido nele, pode agora ser aplicado noutro local.	1
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_description_theirs	Uma força inimiga iniciou um ataque em um de nossos assentamentos! Estamos cercados!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_manipulated_description	Nosso estado tributário declarou independência, instigado por um terceiro manipulador.	1
+event_feed_strings_text_att_event_feed_string_faction_event_mission_aborted_secondary_detail	#(mission.description)	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_theirs_description	Despojamos este povoado inimigo das suas riquezas e arrasámo-lo, como é direito do conquistador.	1
+event_feed_strings_text_att_event_feed_string_agent_action_all_primary_detail	#(action_info)	1
+event_feed_strings_text_att_event_feed_string_military_army_rank_gained_description_nomadic	Os bravos guerreiros desta horda conquistaram muitas vitórias, estabelecendo um legado pelo qual serão lembrados por muito tempo.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_secondary_detail_recipient_region_province	Capital: #(recipient.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_secondary_detail	O Império Romano Ocidental ressurgiu em glória mais uma vez! Durante anos adormecido: diluído, profanado e finalmente esmagado por hordas bárbaras. Mas sobreviveu, sustentado pelas aspirações dos verdadeiros romanos que procuraram restaurá-lo ao longo dos tempos.\n\nOutros imperadores tentaram e falharam, arrastados pelo peso desta tarefa. Somente o sucessor espiritual dos grandes conquistadores da antiguidade, como Júlio César, Augusto e Marco Aurélio, poderia ter sucesso nesta tarefa. Agora, tal homem ressuscitou.\n\nTodos saudam Belisário, Senhor do Império Ocidental!	1
+event_feed_strings_text_att_event_feed_string_faction_horde_ends_description	É hora de um novo começo. Nosso povo se estabeleceu mais uma vez.	1
+event_feed_strings_text_att_event_feed_string_faction_political_party_power_change_secondary_detail	Potência atual: #(party.power)%	1
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_title	Impérios de Areia	1
+event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_secondary_detail	#(mission.description)\n\nObjetivos de bônus concluídos: #(mission.completed_bonus_objectives)/#(mission.total_bonus_objectives)\n	1
+event_feed_strings_text_att_event_feed_string_military_army_rank_gained_description	Os bravos homens deste exército conheceram muitas vitórias, estabelecendo um legado pelo qual serão lembrados por muito tempo.	1
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_all_primary_detail	#(region)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_secondary_detail	Capital: #(faction_2.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_secondary_detail	O Império Ocidental ressurgiu em glória mais uma vez! Os romanos desperdiçaram a sua herança, assumindo que a glória era o seu direito de nascença. Mas o Império é maior do que eles - sobreviveu à sua queda e esperou pacientemente para ser ressuscitado por um povo digno.\n\nNós somos esse povo! Antigamente éramos considerados bárbaros, mas agora somos mais verdadeiros romanos em espírito do que aqueles de sangue puro. Somente nós herdamos seu vigor e habilidade marcial – somente nós somos capazes de empreender a tarefa de restaurar seu outrora grande Império!\n\nTodos saudem o Novo Império Romano Ocidental!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_client_state_description	Após um período de negociação, esta facção concordou em se tornar nosso estado tributário.	1
+event_feed_strings_text_att_event_feed_string_faction_political_ministerial_term_ended_description	Este homem completou seu mandato. Ele agora pode ser nomeado para um cargo superior.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_description	O nosso pacto de não agressão com esta facção chegou ao fim. Cuidado com a violência.	1
+event_feed_strings_text_att_event_feed_string_provinces_all_province_primary_detail	#(province)	1
+event_feed_strings_text_att_event_feed_string_horde_food_shortage_ends_description	Esta força adquiriu comida suficiente para se saciarem – já não sofrem de escassez de alimentos.	1
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_eastern	O Rei dos Reis faleceu, mas o seu herdeiro designado é demasiado jovem para assumir o manto da liderança. Como tal, um regente foi nomeado até o momento em que tenha idade suficiente para governar.	1
+event_feed_strings_text_att_event_feed_string_character_wounded_description	Nosso fiel súdito foi ferido pelo inimigo. A morte estava além de seu poder, entretanto.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_secondary_detail	Este é um momento de mudança religiosa radical. As nações abandonam velhas tradições e abrem novos caminhos quase da noite para o dia. As cadeias religiosas divididas permitem que você exerça um controle muito maior nessa área, essencial se você deseja acessar edifícios, unidades, condições de vitória, tecnologias e eventos específicos de uma religião.\nNo entanto, essas mudanças não são bem-vindas por todos. As facções que seguem novas religiões sofrem [[col:red]]severas penalidades de ordem pública[[/col]] devido à presença de religiões rivais. Use sacerdotes, tecnologias, governadores e edifícios para esmagar vozes dissidentes e espalhar a religião escolhida por todo o país!	1
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_primary_detail	O Mercado do Rei já está disponível.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_secondary_detail	A escuridão diminui gradualmente e a vida retorna à terra. O rendimento das colheitas é abundante, as nossas crianças são mais saudáveis ​​e as pessoas estão optimistas quanto a um futuro próspero.	1
+event_feed_strings_text_att_event_feed_string_agent_recruited_primary_detail	#(agent), #(agent.type)	1
+event_feed_strings_text_att_event_feed_string_character_dies_battle_secondary_detail	Classificação: #(character.rank)\n\nComando: #(character.force)\n\nOponente: #(opponent.primary_general), #(opponent.primary_force), #(opponent)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_agent_discovered_primary_detail	#(agent)	1
+event_feed_strings_text_att_event_feed_string_faction_event_incident_secondary_detail	#(incident.description)	1
+event_feed_strings_text_att_event_feed_string_province_food_shortage_ends_description	Este produto é finalmente suficiente; esta província já não sofre de escassez de alimentos.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_secondary_detail	O cansaço da guerra diminuiu; o povo e a terra estão finalmente a recuperar das guerras que têm travado. À medida que a vida das pessoas comuns volta ao normal e o cansaço sofrido pelas suas tropas durante muitas longas campanhas também está desaparecendo.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_secondary_detail	O cansaço da guerra aumentou! O seu povo fica furioso e exige o fim destas guerras incessantes. Pior ainda, suas tropas começam a demonstrar cansaço devido às longas campanhas militares; se seus homens não puderem mais lutar, a luta terminará em breve, mas provavelmente não da maneira que você pretendia. Vocês deveriam iniciar o processo de paz; seus súditos precisam de uma pausa no conflito - dê-lhes tempo para se curarem e aos seus homens tempo para se recuperarem.	1
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_description	Nossos cofres estão vazios. Isto terá consequências terríveis para o nosso povo, e em breve.	1
+event_feed_strings_text_att_event_feed_string_horde_building_secondary_detail	#(building.force)	1
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_female	Nosso agente não conseguiu matar seu alvo, mas mesmo assim conseguiu infligir um ferimento palpável.	1
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_male_theirs	O agente deles, obviamente incapaz de cumprir a tarefa que tinha pela frente, foi ferido durante sua tentativa de fuga.	1
+event_feed_strings_text_att_event_feed_string_faction_event_mission_success_secondary_detail	#(mission.description)	1
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_secondary_detail	Invadido por: #(raider), #(raider.faction)\n	1
+event_feed_strings_text_att_event_feed_string_faction_event_dilemma_secondary_detail	#(dilemma.description)	1
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_female	Apesar de seus melhores esforços, nosso agente ficou frustrado. Ela falhou em sua missão!	1
+event_feed_strings_text_att_event_feed_string_character_trait_gained_secondary_detail	Obtido por: #(character), #(character.type)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_faction_civil_war_province_description	Esta não é uma rebelião comum; os separatistas desta província mobilizaram-se para derrubar totalmente o seu governo. A guerra civil está sobre nós!	1
+event_feed_strings_text_att_event_feed_string_military_all_founded_secondary_detail	Fundado por: #(force.general)\n\nLocal: #(force.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_military_force_decimated_description	Esta força foi dizimada como medida disciplinar, diminuindo assim a possibilidade de motim.	1
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_description_male	Um membro da sua família gerou um filho ilegítimo. Isso pode ser estranho.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_secondary_detail	O comércio é incentivado, pois é o caminho para a prosperidade para todos. Se você quiser coisas, é provável que elas possam ser encontradas aqui.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_secondary_detail	A prática leva à perfeição. Seu pessoal não apenas encontrou novas maneiras de extrair mármore, mas sua habilidade em trabalhar com ele permanece incomparável em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_title	O apoio de Justiniano está terminando	1
+event_feed_strings_text_att_event_feed_string_character_dies_natural_secondary_detail	Idade: #(character.age)\n\nClassificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_title	Templo de Belenus desbloqueado	1
+event_feed_strings_text_att_event_feed_string_province_development_points_available_secondary_detail	Excedente populacional: #(development_points)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_theirs	Esta facção juntou-se a uma guerra em andamento. O tempo dirá se a decisão deles foi acertada.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_joined_by	#(war_faction_1)	1
+event_feed_strings_text_att_event_feed_string_military_navy_rank_gained_description	Os bravos homens desta marinha conheceram muitas vitórias, estabelecendo um legado pelo qual serão lembrados por muito tempo.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_secondary_detail	Quando os romanos desembarcaram na África, eles tentaram pagar os mouros com bugigangas - um bastão de prata dourada e uma coroa de prata, um manto branco, uma túnica branca e uma bota dourada.\n\nOs mouros observaram enquanto os invasores lutavam por suas terras ancestrais - ganhando tempo, esperando por um momento de fraqueza.\n\nAgora esse momento chegou, e os mouros se levantaram como um só para reivindicar seu direito de primogenitura. Eles vasculharão a costa como o vento do deserto, expurgando até o último vestígio da opressão que se abateu sobre eles por tanto tempo.	1
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_female	O sucesso segue o rastro desta mulher; sua tarefa foi executada com sucesso!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_available_description	Agora partilhamos um inimigo comum com os nossos aliados. As suas possessões podem agora ser alvo de esforços de coordenação de guerra: envolver-se na diplomacia para avaliar ameaças mútuas e emitir pedidos estratégicos.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_mortal_secondary_detail	Enquanto meditava sobre a fuga - uma calamidade maior que a própria morte - decidiu buscar conhecimento do futuro por meio de adivinhos. Assim, como era seu costume, examinaram as entranhas do gado e certas marcas de ossos que haviam sido raspados, e previram o desastre para os hunos. \n\n Tendo perdido na batalha, as tropas de Átila estão desmoralizadas e começaram a duvidar de seus poderes. Certamente sua próxima derrota será a última?	1
+event_feed_strings_text_att_event_feed_string_character_dies_action_secondary_detail	Classificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_faction_succession_description_emperor	O Imperador está morto e o manto da liderança foi passado.\n\nViva o Imperador!	1
+event_feed_strings_text_att_event_feed_string_faction_technology_researched_primary_detail	#(technology)	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_abandoned_secondary_detail	Província: #(settlement.province)\n	1
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_male	Nosso agente falhou completamente em sua missão e foi ferido enquanto tentava escapar.	1
+event_feed_strings_text_att_event_feed_string_character_rank_gained_secondary_detail	Classificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_invited_by	Convidado por: #(war_faction_2)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_description_theirs	O acordo de acesso militar entre estas duas facções ruiu.	1
+event_feed_strings_text_att_event_feed_string_faction_religion_change_secondary_detail_theirs	Nova religião: #(faction.state_religion)\n\nReligião anterior: #(old_religion)\n	1
+event_feed_strings_text_att_event_feed_string_horde_food_shortage_description	A escassez de alimentos está a afectar esta força. Devem ser tomadas medidas antes que as pessoas desesperadas se levantem contra nós.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_emerges_description	Esta facção, antes considerada perdida, ressuscitou das cinzas.	1
+event_feed_strings_text_att_event_feed_string_conquest_province_secured_description	Asseguramos o controle total desta província.	1
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_nomadic	O Grande Kan faleceu, mas seu herdeiro designado é jovem demais para assumir o manto de liderança. Como tal, um regente foi nomeado até o momento em que tenha idade suficiente para governar.	1
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_secondary_detail	Pai: #(father)\n\nMãe: #(mother)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_province_contested_description	Perdemos o controlo absoluto desta província para uma facção rival. Eles pagarão por isso a tempo.	1
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_secondary_detail	Classificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_contested_secondary_detail	Facção contestadora: #(contesting)\n	1
+event_feed_strings_text_att_event_feed_string_character_born_illegitimate_description_female	Um membro da sua família gerou uma filha ilegítima. Isso pode ser estranho.	1
+event_feed_strings_text_att_event_feed_string_character_ancillary_gained_description	Um de nossos súditos leais garantiu membros da família e objetos para ajudar nossa causa.	1
+event_feed_strings_text_att_event_feed_string_province_rebellion_imminent_secondary_detail	Ordem pública atual: #(public_order_and_delta.first)\n\nAlteração prevista: #(public_order_and_delta.second)\n	1
+event_feed_strings_text_att_event_feed_string_provinces_building_constructed_secondary_detail	#(building.region_and_province)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_description_them	Nosso estado fantoche declarou independência.	1
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_female_theirs	A tentativa desta agente de minar os nossos planos saiu pela culatra gloriosamente, ferindo-a no processo.	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_description	O inimigo recorreu à pilhagem violenta do nosso assentamento capturado, roubando o que é nosso e aterrorizando a população. Essa agressão não vai resistir!	1
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_warning_description	Nossas despesas excedem nossos recursos financeiros. Estaremos falidos se não tomarmos medidas para remediar esta situação.	1
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_male	Excepcionalmente decepcionante, nosso agente falhou neste caso em seu dever designado.	1
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_secondary_detail_theirs	Lealdade: #(character.faction)\n\nClassificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_primary_detail	#(edict)	1
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_secondary_detail_theirs	Força de cerco: #(besieger.general), #(besieger), #(besieger.faction)\n	1
+event_feed_strings_text_att_event_feed_string_horde_development_points_available_description	Temos um excedente de população nesta força, pronta para investir no desenvolvimento do campo.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_ally	Unimo-nos aos nossos aliados numa tentativa de livrar o mundo dos nossos inimigos mútuos.	1
+event_feed_strings_text_att_event_feed_string_province_rebellion_description	O povo insolente desta província se levantou contra nós! Eles devem ser esmagados rápida e brutalmente!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_access_pact_description	Estabelecemos um acordo de acesso militar com esta facção e podemos atravessar as suas terras pacificamente.	1
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_secondary_detail	Força de cerco: #(besieger.general), #(besieger)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_trade_agreement_description_theirs	Essas duas facções estabeleceram um acordo comercial.	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_secondary_detail	Saqueado por: #(attacked_by.general), #(attacked_by)\n\nLealdade: #(attacked_by.faction)\n\nValor do saque: #(income)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_all_primary_detail	#(ally)	1
+event_feed_strings_text_att_event_feed_string_military_all_disbanded_secondary_detail	Dissolvido por: #(force.general)\n\nLocalização: #(force.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_military_opponent_all_primary_detail	#(opponent)	1
+event_feed_strings_text_att_event_feed_string_faction_event_incident_primary_detail	#(payload.target)	1
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_female_theirs	Seu agente, com determinação frustrante, concluiu sua tarefa com sucesso.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_primary_detail	As azeitonas já estão disponíveis.	1
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_stephen_4	Papa Estêvão IV	1
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_roman	Esta é uma ocasião importante! Um menino se torna um homem e assume seu legítimo lugar como governante de nosso povo. Viva o Imperador!	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_description	Nossos inimigos arrasaram um de nossos assentamentos! Eles devem ser obrigados a pagar por esta ignomínia!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_secondary_detail	Nesta era de incerteza e turbulência, não há profundidade a que os famintos de poder, na sua depravação, possam descer. Os vândalos contentam-se em apenas aprisionar os velhos e enfermos, mas os ostrogodos superaram esta indignidade, aprisionando a sua rainha viúva pelas suas inclinações pró-romanas.\n\nÉ uma acção deliberadamente provocativa, gerada pelo medo, desafio e ambição. Os romanos estão desesperados para reconquistar suas terras natais, e esta pode ser sua última chance de fazê-lo.\n\nEnquanto essas duas poderosas potências se enfrentam, outras planejam, procurando maneiras de transformar a luta em vantagem própria.\n\nE o tempo todo, uma mulher assustada espera.	1
+event_feed_strings_text_att_event_feed_string_faction_civil_war_all_primary_detail	#(instigator)	1
+event_feed_strings_text_att_event_feed_string_military_path_blocked_secondary_detail	Localização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_character_ancillary_lost_description	Circunstâncias infelizes levaram à perda de um membro ou objeto da família.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_yours	Esta facção uniu forças connosco numa tentativa de livrar o mundo dos nossos inimigos mútuos.	1
+event_feed_strings_text_att_event_feed_string_faction_event_mission_primary_detail	#(mission)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_recipient	#(recipient)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_title	Reforma do Império Ocidental	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_trade_agreement_description	Negociamos um acordo comercial com esta facção. Deixe a mercadoria fluir!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_primary_detail	Reforma possível	1
+event_feed_strings_text_att_event_feed_string_military_force_decimated_primary_detail	#(force)	1
+event_feed_strings_text_att_event_feed_string_faction_heir_nominated_secondary_detail	Local: #(heir.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_primary_detail	Aumentou	1
+event_feed_strings_text_att_event_feed_string_faction_civil_war_character_secondary_detail	Localização: #(instigator.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_title	Hilderic executado	1
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_cancelled_description	As circunstâncias tornaram impossível a manutenção deste decreto provincial.	1
+event_feed_strings_text_att_event_feed_string_placeholder_secondary_detail	Detalhe secundário do placeholder - NÃO LOCALIZAR\n	1
+event_feed_strings_text_att_event_feed_string_faction_political_subject_description	Envolva-se na política de facção para lidar com o seu assunto ou espere até que este assunto imponente acabe.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_manipulated_description	Esta facção foi convencida a rescindir o nosso acesso militar. Tenha cuidado com a invasão deles.	1
+event_feed_strings_text_att_event_feed_string_faction_horde_begins_secondary_detail	Capital anterior: #(capital)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_destroyed_description	Esta facção não era páreo para os seus inimigos; eles não existem mais.	1
+event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_description	O tempo avança. Conseguimos muito, mas o nosso povo enfrenta dificuldades cada vez maiores.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_manipulated_description	Nosso estado fantoche declarou independência, instigado por um terceiro manipulador.	1
+event_feed_strings_text_att_event_feed_string_faction_event_dilemma_primary_detail	#(dilemma.target)	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_surrender_warning_secondary_detail	Força de cerco: #(besieger.general), #(besieger), #(besieger.faction)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_secondary_detail	A prática leva à perfeição. As habilidades de bronzeamento do seu pessoal permanecem incomparáveis ​​em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_conquest_province_all_primary_detail	#(province)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_vassal_description	Após um período de “negociação” enérgica, esta facção tornou-se o nosso Estado fantoche.	1
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_female	O inimigo não era páreo para a habilidade mortal do nosso agente; ela matou com sucesso sua marca.	1
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_male_theirs	O fracasso se torna este homem e seus mestres; seus planos foram desfeitos - ele falhou!	1
+event_feed_strings_text_att_event_feed_string_faction_campaign_victory_objective_complete_description	A história é escrita por aqueles que sobrevivem. Saímos vitoriosos deste período sombrio; nossa força e sabedoria nos guiando para o futuro.	1
+event_feed_strings_text_att_event_feed_string_province_rebellion_imminent_description	A agitação nesta província atingiu níveis críticos; se não agirmos imediatamente, a população enfurecida se rebelará contra nós!	1
+event_feed_strings_text_att_event_feed_string_character_wounded_description_theirs	Nosso agente, com habilidade tenaz, feriu um alvo inimigo.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_force_secondary_detail	Alvo: #(target)\n\nLealdade: #(target.faction)\n\nLocalização: #(target.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_secondary_detail	[ph] Detalhe secundário do Avar Khaganate	1
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail	Agente: #(agent), #(agent.type)\n\nAlvo: #(target)\n\nResultado: #(result)\n\nLocalização: #(target.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_faction_event_mission_issued_secondary_detail	#(mission.description)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_primary_detail	I. Céus Cinzentos	1
+event_feed_strings_text_att_event_feed_string_plague_region_from_region_description_theirs	As viagens e o comércio de um assentamento nosso infestado de peste espalharam a doença para terras próximas.	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_all_primary_detail	#(settlement.region_and_province)	1
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_eugene_2	Papa Eugênio II	1
+event_feed_strings_text_att_event_feed_string_generic_description_placeholder	Quod erat demonstrandum - NÃO LOCALIZAR	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_theirs_description	Nossas forças saquearam um assentamento inimigo, causando destruição e despojando sua riqueza.	1
+event_feed_strings_text_att_event_feed_string_agent_action_failure_description_female_theirs	Seu agente, enganado e inepto, ficou desfeito e não conseguiu completar sua tarefa.	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_secondary_detail	Saqueado por: #(attacked_by.general), #(attacked_by)\n\nLealdade: #(attacked_by.faction)\n\nValor do saque: #(income)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_capital_description	O inimigo tomou nossa capital! Devemos retomá-lo a todo custo!	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_description	Desastre! Perdemos este assentamento para o inimigo!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_peace_description	Resolvemos as nossas diferenças com esta facção e negociámos um tratado de paz. O tempo dirá se isso vai durar.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_manipulated_description	As mentiras de outros levaram ao fim das nossas relações comerciais com esta facção.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_primary_detail	Os Langobards estão chegando!	1
+event_feed_strings_text_att_event_feed_string_scripted_event_secondary_detail	#(secondary_detail)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_primary_detail	Diminuído	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_secondary_detail	Província: #(settlement.province)\n\nCapturado de: #(captured_from)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_title	Praga	1
+event_feed_strings_text_att_event_feed_string_faction_heir_nominated_primary_detail	#(heir)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_description_theirs	A aliança defensiva entre estas duas facções ruiu.	1
+event_feed_strings_text_att_event_feed_string_military_all_raised_secondary_detail	Criado por: #(force.general)\n\nLocalização: #(force.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_region_secondary_detail	Alvo: #(target)\n\nLealdade: #(target.faction)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_secondary_detail	Justiniano em breve deixará de pagar a esses homens. Caberá então a você manter essa força.	1
+event_feed_strings_text_att_event_feed_string_character_dies_natural_secondary_detail_female	Idade: #(character.age)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_character_ready_for_duty_description	Após um período de ausência, este sujeito está pronto para retornar ao trabalho.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_description	A nossa aliança defensiva com esta facção ruiu. Devemos confiar nos nossos próprios escudos agora, e não nos dos outros.	1
+event_feed_strings_text_att_event_feed_string_conquest_battle_primary_detail_attacker_result	#(attacker_result)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_primary_detail	 	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_description	Nossa frota pôs fim ao bloqueio deste porto.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_secondary_detail	A prática leva à perfeição. Não só o seu povo encontrou novas formas de extrair ferro, mas a sua habilidade em trabalhar com ele permanece incomparável em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_description_theirs	O pacto de não agressão entre estas duas facções ruiu.	1
+event_feed_strings_text_att_event_feed_string_character_trait_lost_secondary_detail	Perdido por: #(character), #(character.type)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_battle_primary_detail_defender_result	#(defender_result)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_title	Mudanças Climáticas	1
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_paschal_1	Papa Pascoal I	1
+event_feed_strings_text_att_event_feed_string_province_cannot_abandon_settlement_description	Devido a circunstâncias fora do nosso controlo, não podemos abandonar o nosso acordo e retirar-nos.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_title	Langobardos!	1
+event_feed_strings_text_att_event_feed_string_military_all_destroyed_secondary_detail	Comandado por: #(force.general)\n\nLocalização: #(force.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_secondary_detail	A prática leva à perfeição. As habilidades de marcenaria de seu pessoal permanecem incomparáveis ​​em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_secondary_detail	A prática leva à perfeição. Seu povo não apenas encontrou novas maneiras de extrair ouro, mas sua habilidade em trabalhar com ele permanece incomparável em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_faction_resource_all_secondary_detail	Localização: #(settlement.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_theirs_description	Durante a ocupação de uma colónia inimiga, as nossas forças saquearam as suas riquezas. Os habitantes não esquecerão tão cedo esta agressão.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_invited_by	#(war_faction_2)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_title	Mudanças Climáticas	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_peace_description_theirs	Estas duas facções resolveram as suas diferenças e negociaram um tratado de paz.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_secondary_detail	A prática leva à perfeição. As habilidades de produção de vinho do seu povo permanecem incomparáveis ​​em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_provinces_all_settlement_primary_detail	#(settlement)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_primary_detail	4. Céu limpo	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_primary_detail	#(faction_2)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_primary_detail	#(force)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_primary_detail	Uma Grande Pestilência	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_all_primary_detail	#(faction)	1
+event_feed_strings_text_att_event_feed_string_military_attrition_description	 	1
+event_feed_strings_text_att_event_feed_string_faction_civil_war_character_description	Este homem traiçoeiro desafiou a sua vontade e iniciou uma guerra civil. Ele deve ser detido antes que se torne muito poderoso.	1
+event_feed_strings_text_att_event_feed_string_military_unit_recruited_primary_detail	#(unit)	1
+event_feed_strings_text_att_event_feed_string_military_ambusher_description_theirs	Uma de nossas forças foi detectada enquanto tentava uma emboscada!	1
+event_feed_strings_text_att_event_feed_string_horde_rebellion_imminent_description	A integridade do acampamento atingiu níveis críticos; se não agirmos imediatamente, haverá um motim!	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_secondary_detail	Força de bloqueio: #(blockader.general), #(blockader)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_all_primary_detail	#(blockaded.region_and_province)	1
+event_feed_strings_text_att_event_feed_string_character_dies_battle_secondary_detail_theirs	Lealdade: #(character.faction)\n\nClassificação: #(character.rank)\n\nComandante: #(character.force)\n\nOponente: #(opponent.primary_general), #(opponent.primary_force)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_province_settlement_province_secondary_detail	Província: #(settlement.province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_secondary_detail	Sua santidade, o Papa foi reunido a Deus, encerrando um capítulo fecundo na história da Igreja. Um novo Papa foi eleito sem demora; este homem tem a oportunidade de guiar toda a cristandade, poucos são mais importantes ou têm mais influência do que ele. Todos os bons líderes cristãos devem apoiar o novo Papa, se forem chamados a fazê-lo, só pode ser para o bem dos seus reinos – mas estejam cientes, da mesma forma, de que contrariá-lo pode ter consequências terríveis.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_primary_detail	O mármore já está disponível.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_secondary_detail	A prática leva à perfeição. Seu povo não apenas encontrou novas maneiras de extrair pedras preciosas, mas sua habilidade em trabalhá-las permanece incomparável em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_faction_event_mission_failed_secondary_detail	#(mission.description)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_secondary_detail	A prática leva à perfeição. Não apenas seu pessoal encontrou novas maneiras de extrair liderança, mas sua habilidade em trabalhar com isso permanece incomparável em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_description	A nossa aliança militar com esta facção ruiu. Nossa própria força deve ser suficiente agora.	1
+event_feed_strings_text_att_event_feed_string_faction_religion_change_primary_detail	#(faction.state_religion)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_description	Nosso exército começou um cerco neste assentamento inimigo. Eles estão cercados!	1
+event_feed_strings_text_att_event_feed_string_conquest_province_contested_secondary_detail	Facção contestadora: #(contesting)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_secondary_detail_theirs	Lealdade: #(force.faction)\n\nInvasão próxima: #(force.region)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_description_enemy	Esta facção juntou-se aos nossos inimigos para lutar contra nós. Eles pagarão por isso a tempo.	1
+event_feed_strings_text_att_event_feed_string_faction_event_all_description	#(event.description_text)	1
+event_feed_strings_text_att_event_feed_string_plague_region_from_force_description	Uma força dominada por doenças espalhou a peste fétida em nosso assentamento!	1
+event_feed_strings_text_att_event_feed_string_agent_action_success_description_male_theirs	O agente deles, tenaz e frustrante, cumpriu sua missão!	1
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail	Novo Papa eleito	1
+event_feed_strings_text_att_event_feed_string_scripted_event_bel_army_upkeep_primary_detail	A boa vontade do Imperador aproxima-se do fim.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_secondary_detail	A prática leva à perfeição. As habilidades de extração de sal do seu povo permanecem incomparáveis ​​em qualquer lugar do mundo.	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_secondary_detail_theirs	Força de bloqueio: #(blockader.general), #(blockader), #(blockader.faction)\n	1
+event_feed_strings_text_att_event_feed_string_agent_action_settlement_secondary_detail_theirs	Agente: #(agent), #(agent.type)\n\nLealdade: #(agent.faction)\n\nAlvo: #(target.region_and_province)\n\nResultado: #(result)\n	1
+event_feed_strings_text_att_event_feed_string_agent_discovered_description	Apesar de suas melhores tentativas, nosso agente foi descoberto por outra facção.	1
+event_feed_strings_text_att_event_feed_string_character_all_primary_detail	#(character)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_description_theirs	A aliança militar entre estas duas facções ruiu.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_primary_detail	O Salão dos Bardos já está disponível.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_description_them	Nosso estado tributário declarou independência.	1
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_adrian_1	Papa Adriano I	1
+event_feed_strings_text_att_event_feed_string_military_all_destroyed_secondary_detail_theirs	Comandado por: #(force.general), #(force.faction)\n\nLocalização: #(force.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_faction_religion_change_description	Abraçámos outra religião, um teste de fé à medida que procuramos respostas para os grandes mistérios da vida.	1
+event_feed_strings_text_att_event_feed_string_character_ancillary_lost_secondary_detail	Perdido por: #(character), #(character.type)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_langobards_invasion_secondary_detail	Os desastres que a guerra impõe à humanidade são intermináveis. As tentativas de Roma de recuperar o seu Império devastaram o continente, deixando esta orgulhosa terra destruída e vulnerável.\n\nHá muito que os Langobards esperavam por tal oportunidade. Agora eles descem, com pertences nas costas e espadas nas mãos, para reivindicar a Itália como sua. Não procuram qualquer recompensa, nenhuma solução pacífica – o domínio é o seu único objectivo e não pouparão aqueles que se interpõem no seu caminho.	1
+event_feed_strings_text_att_event_feed_string_faction_resource_lost_description	Nosso fornecimento deste recurso foi comprometido.	1
+event_feed_strings_text_att_event_feed_string_military_ambusher_secondary_detail	Lealdade: #(ambusher.faction)\n\nLocalização: #(ambusher.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_province_development_points_available_description	Temos um excedente de população nesta província, disposta a investir no desenvolvimento local.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_non_aggression_pact_description_theirs	Estas duas facções estabeleceram um pacto de não agressão.	1
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_draw	Nossa batalha contra o inimigo terminou em impasse.	1
+event_feed_strings_text_att_event_feed_string_faction_resource_all_primary_detail	#(resource)	1
+event_feed_strings_text_att_event_feed_string_character_dies_political_assassination_description	Alguns farão qualquer coisa para promover suas ambições, até mesmo o assassinato.	1
+event_feed_strings_text_att_event_feed_string_faction_civil_war_force_description	O motim dentro desta força causou uma divisão nas fileiras. Muitos desertaram para formar uma força separatista: devem ser detidos!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_title	O Império Ocidental ressurge novamente	1
+event_feed_strings_text_att_event_feed_string_military_army_destroyed_description_theirs	Destruímos um exército pertencente ao inimigo. Suas tropas são comida para carniça.	1
+event_feed_strings_text_att_event_feed_string_military_navy_destroyed_description_theirs	Destruímos uma marinha inimiga, lançando os seus homens numa sepultura aquosa.	1
+event_feed_strings_text_att_event_feed_string_world_climate_change_description	Os anos ficam mais frios e a neve se arrasta cada vez mais para o sul, durando mais tempo.\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_barbarian_confederation_primary_detail	 	1
+event_feed_strings_text_att_event_feed_string_military_attrition_secondary_detail	Homens perdidos: #(men_lost)\n\nLocal: #(force.region_and_province)\n\n#(attrition)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_defensive_alliance_description_theirs	Estas duas facções estabeleceram uma aliança defensiva. Atacar um agora é atacar os dois.	1
+event_feed_strings_text_att_event_feed_string_faction_political_ministerial_term_ended_secondary_detail	Profissão: #(character.role)\n\nEscritório anterior: #(post)\n	1
+event_feed_strings_text_att_event_feed_string_agent_action_settlement_secondary_detail	Agente: #(agent), #(agent.type)\n\nAlvo: #(target.region_and_province)\n\nResultado: #(result)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_primary_detail	  	1
+event_feed_strings_text_att_event_feed_string_faction_horde_begins_description	A mudança está chegando. Nosso povo está agora em movimento, livre para conquistar ou estabelecer-se onde quiser.	1
+event_feed_strings_text_att_event_feed_string_province_slums_description	Deixada em estado de abandono, uma área do nosso assentamento se transformou em favelas.	1
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_barbarian	Esta é uma ocasião importante! Um menino se torna um homem e assume seu legítimo lugar como governante de nosso povo. Viva o Rei Supremo!	1
+event_feed_strings_text_att_event_feed_string_plague_from_region_secondary_detail	Espalha para: #(to)\n\nEspalha de: #(from)\n\nFacção proprietária: #(from.faction)\n	1
+event_feed_strings_text_att_event_feed_string_province_food_shortage_description	A escassez de alimentos está a afectar esta província. Devem ser tomadas medidas antes que as pessoas se levantem contra nós em desespero.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_title	Mudanças Climáticas	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_not_available_description	As circunstâncias diplomáticas ditaram que perdemos um inimigo comum com os nossos aliados. As suas possessões já não podem ser alvo de coordenação de guerra através da diplomacia.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_joined_theirs	#(war_faction_1) vs. #(joining_faction)	1
+event_feed_strings_text_att_event_feed_string_conquest_battle_secondary_detail_defender	Oponente: #(attacker)\n\nForças: #(defender.primary_force) vs. #(attacker.primary_force)\n\nComandantes: #(defender.primary_general) vs. #(attacker.primary_general)\n\nBaixas: #(defender_result.primary_participant_casualties)/#(defender_result.primary_participant_mancount) vs.#(attacker_result.primary_participant_casualties)/#(attacker_result.primary_participant_mancount)\n\nLocalização: #(defender.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_alliance_manipulated_description	A nossa aliança militar com esta facção ruiu devido ao funcionamento clandestino de outra. Devemos agora lutar sozinhos.	1
+event_feed_strings_text_att_event_feed_string_faction_technology_researched_description	Conhecimento é poder - NÃO LOCALIZE	1
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_secondary_detail	Despesas: #(expenditure)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_title	Amalasuntha presa	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_surrender_warning_description	Nosso assentamento está prestes a capitular diante do inimigo! Devemos atacar imediatamente.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_alliance_description_theirs	Estas duas facções estabeleceram uma aliança militar. A guerra com um agora é guerra com ambos.	1
+event_feed_strings_text_att_event_feed_string_military_unit_recruited_secondary_detail	Localização: #(unit.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_lost_secondary_detail	Província: #(settlement.province)\n\nCapturado por: #(occupier)\n	1
+event_feed_strings_text_att_event_feed_string_agent_action_failure_critical_description_female	Nossa agente falhou completamente em sua missão e foi ferida pelo inimigo em retaliação.	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_capital_description	Nossas valentes forças, com justo zelo, recapturaram nossa capital do inimigo.	1
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_secondary_detail	Província: #(province)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_settlement_captured_description	As nossas forças reivindicaram este assentamento, permitindo-nos promover as nossas ambições militares e cívicas.	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_abandoned_description	Você abandonou este assentamento, pegando qualquer coisa de valor e deixando a terra desolada.	1
+event_feed_strings_text_att_event_feed_string_horde_development_points_available_secondary_detail	Excedente populacional: #(development_points)\n	1
+event_feed_strings_text_att_event_feed_string_provinces_unseasonal_conditions_secondary_detail	Condições: #(effects)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_war_declared_description_theirs	A diplomacia falhou; essas duas facções estão agora em guerra.	1
+event_feed_strings_text_att_event_feed_string_faction_succession_secondary_detail	Classificação: #(new_leader.rank)\nIdade: #(new_leader.age)\n\nSucedendo: #(former_leader)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_plague_of_justinian_secondary_detail	O Império Romano está nas garras de uma praga como nenhuma outra. Move-se como um vento invisível, arrasando famílias e até aldeias assim que aparece, deixando um rasto de cadáveres enegrecidos e supurados. Os refugiados espalharam-se por todo o mundo, trazendo consigo a sua pestilência.\nMuitos vêem-no como mais uma prova do tão profetizado fim dos dias - a ira ardente derramada do cálice do julgamento de Deus - e exigem que a reverência correta seja devidamente prestada.\nOutras mentes mais práticas exigem soluções alternativas. Melhorias drásticas no saneamento e o fim do comércio com nações infectadas podem conter ou mesmo parar a doença.	1
+event_feed_strings_text_att_event_feed_string_faction_succession_primary_detail	#(new_leader)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_actor	#(actor)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_title	Peles nível 4 desbloqueadas	1
+event_feed_strings_text_att_event_feed_string_military_army_raised_description	Restabelecemos um antigo exército. Seu nome continua a ecoar através dos tempos.	1
+event_feed_strings_text_att_event_feed_string_faction_political_party_power_change_description	O equilíbrio de poder mudou. Como resultado, o que significa governar aqui também mudou.	1
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_secondary_detail	Força de cerco: #(besieger.general), #(besieger)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_mortal_primary_detail	Apenas um homem	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_secondary_detail	A história está repleta de histórias de grandes homens desperdiçados sob o comando de governantes fracos. Justiniano, infelizmente, provou ser um desses senhores - seu ciúme atrapalhando Belisário a cada passo, eventualmente se tornando uma ameaça à sua vida e posição.\n\nO Imperador pode ter nascido para governar, mas Belisário também nasceu com um destino. Ele restaurará a glória desbotada do Império Ocidental e quaisquer impedimentos serão deixados para trás.\n\nJustiniano está furioso com esta traição, e superá-lo será um desafio tão grande quanto a conquista da Itália. Mesmo assim, Belisário abraça a tarefa. Libertado, ele deixará o mundo de joelhos!	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_king_secondary_detail	Ele era de fato um amante da guerra, mas contido na ação, poderoso nos conselhos, gracioso com os suplicantes e tolerante com aqueles sob sua proteção. \n\n Com a morte do senhor da guerra anterior, Átila tomou o poder. Agora ele lidera as hordas, e seus exércitos aumentam em número.	1
+event_feed_strings_text_att_event_feed_string_character_trait_lost_description	Muito parecido com a mudança dos céus, este homem abandonou o que antes pensava ser verdade.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_amalasuntha_imprisoned_primary_detail	 	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_alliance_description	Estabelecemos uma aliança militar com esta facção, fortalecendo assim a ambos.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_description_theirs	Uma força estrangeira entrou no nosso território sem permissão; tenha cuidado com sua intenção.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_title	Madeira Nível 4 desbloqueado	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_title	Nível de Ferro 4 desbloqueado	1
+event_feed_strings_text_att_event_feed_string_horde_rebellion_imminent_secondary_detail	Integridade atual: #(public_order_and_delta.first)\n\nAlteração prevista: #(public_order_and_delta.second)\n\nLocal: #(force.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_title	Vinho nível 4 desbloqueado	1
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_secondary_detail	Regente: #(new_leader)	1
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail_theirs	Agente: #(agent), #(agent.type)\n\nLealdade: #(agent.faction)\n\nAlvo: #(target)\n\nResultado: #(result)\n\nLocalização: #(target.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_description_theirs	O comércio entre essas duas facções cessou.	1
+event_feed_strings_text_att_event_feed_string_conquest_province_edict_issued_description	O governador desta província emitiu um decreto e irá mantê-lo até que seja ordenado o contrário.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_title	Gemas nível 4 desbloqueadas	1
+event_feed_strings_text_att_event_feed_string_military_ambusher_primary_detail	#(ambusher)	1
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_primary_detail_leo_3	Papa Leão III	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_theirs_secondary_detail	Arrasado por: #(attacked_by.general), #(attacked_by)\n\nValor do saque: #(income)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_description_theirs	Uma frota rival está bloqueando um dos nossos portos!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_title	Ouro Nível 4 desbloqueado	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_title	Sal nível 4 desbloqueado	1
+event_feed_strings_text_att_event_feed_string_faction_campaign_lost_description	A história é escrita por aqueles que sobrevivem. O que dirão de nós, agora que nosso povo não existe mais?	1
+event_feed_strings_text_att_event_feed_string_all_null	 	1
+event_feed_strings_text_att_event_feed_string_character_wounded_secondary_detail_theirs	Lealdade: #(character.faction)\n\nClassificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_faction_civil_war_force_secondary_detail	Localização: #(instigator.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_independence_title	Traição!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_military_access_pact_description	Não temos mais acordo de acesso militar com esta facção. Cuidado com a invasão.	1
+event_feed_strings_text_att_event_feed_string_agent_action_not_settlement_secondary_detail_cannot_fail	Agente: #(agent), #(agent.type)\n\nAlvo: #(target)\n\nLocalização: #(target.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_title	Mouros!	1
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_primary_detail	#(raider.region_and_province)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_primary_detail_joined_against	#(joining_faction)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_region_description	Recebemos a notícia: nosso aliado pretende atacar este assentamento inimigo na próxima oportunidade disponível.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_all_primary_detail_actor_recipient	#(actor)\n #(recipient)	1
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_settlement_description	Os ataques em nossa região estão afetando a ordem pública local e a produção de alimentos.	1
+event_feed_strings_text_att_event_feed_string_faction_heir_nominated_description	Este homem foi declarado seu herdeiro e ascenderá ao trono após sua morte.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_vassal_description	Concedemos independência ao nosso estado fantoche.	1
+event_feed_strings_text_att_event_feed_string_faction_succession_description_high_king	O Rei Supremo está morto e o manto da liderança foi passado.\n\nViva o Rei Supremo!	1
+event_feed_strings_text_att_event_feed_string_faction_religion_change_secondary_detail	Religião anterior: #(old_religion)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_battle_secondary_detail_attacker	Oponente: #(defender)\n\nForças: #(attacker.primary_force) vs. #(defender.primary_force)\n\nComandantes: #(attacker.primary_general) vs. #(defender.primary_general)\n\nBaixas: #(attacker_result.primary_participant_casualties)/#(attacker_result.primary_participant_mancount) vs. #(defender_result.primary_participant_casualties)/#(defender_result.primary_participant_mancount)\n\nLocalização: #(attacker.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_military_building_secondary_detail	Você é elogiado por defender a tradição bárdica. Aqui serão cantadas canções sobre seu heroísmo e valor, com grande capricho!	1
+event_feed_strings_text_att_event_feed_string_faction_imperium_level_increase_description	À medida que o nosso poder aumenta, também aumenta a nossa capacidade de acção decisiva.	1
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_secondary_detail	O Império Romano surge novamente! Respondendo às ameaças à sua soberania, novas forças estão no exterior.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_secondary_detail	O sinal de um grande líder é saber até onde seu pessoal pode ser pressionado. As guerras são eventos significativos e dramáticos que não devem ser empreendidos levianamente.\nA cada turno em que você estiver em guerra, o cansaço da guerra de sua facção aumentará. Quando atingir um nível alto o suficiente, sua facção começará a receber penalidades que aumentarão com o passar do tempo. Além disso, perder batalhas terá efeitos drásticos no cansaço da guerra, dependendo da gravidade da sua derrota.\nVocê pode, no entanto, buscar descanso em tempos de paz. Enquanto estiver em paz, o seu cansaço da guerra diminuirá rapidamente; além disso, a assinatura de tratados de paz causará uma grande redução única.\nSe a guerra lhe for imposta, no entanto, poderá abrandar, parar ou mesmo reverter os níveis de cansaço da guerra vencendo batalhas decisivas e, como último recurso, retirando os seus homens para dentro das suas próprias fronteiras para ajudar a abrandar o seu aumento.\nAs guerras devem ser concluídas de forma rápida e decisiva; administre a diplomacia com cuidado, mas esteja ciente de que, em tempos de conflito, o maior inimigo às vezes reside dentro de si.	1
+event_feed_strings_text_att_event_feed_string_faction_bankruptcy_warning_secondary_detail	Despesas: #(expenditure)\n	1
+event_feed_strings_text_att_event_feed_string_agent_recruited_secondary_detail	Local: #(agent.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_faction_religion_change_description_theirs	O mundo está cheio de mistérios. Em busca de respostas, esta facção abraçou outra religião.	1
+event_feed_strings_text_att_event_feed_string_faction_resource_gained_description	Este recurso será um grande trunfo para nós.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_trade_agreement_description	As relações comerciais com esta facção foram encerradas.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_all_manipulated_secondary_detail	Manipulado por: #(negotiated_by)\n	1
+event_feed_strings_text_att_event_feed_string_plague_from_region_secondary_detail_theirs	Espalhar para: #(to)\n\nEspalhar de: #(from)\n	1
+event_feed_strings_text_att_event_feed_string_faction_political_subject_primary_detail	#(dilemma)	1
+event_feed_strings_text_att_event_feed_string_plague_force_from_force_description_theirs	As nossas forças, infestadas de peste, espalharam a sua doença.	1
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_winner	Vitória! Triunfamos sobre o inimigo!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_defensive_alliance_description	Estabelecemos uma aliança defensiva com esta facção, protegendo-nos assim a ambos.	1
+event_feed_strings_text_att_event_feed_string_military_navy_raised_description	Restabelecemos uma antiga marinha. Seu nome continua a ecoar através dos tempos.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_title	Chumbo Nível 4 desbloqueado	1
+event_feed_strings_text_att_event_feed_string_military_ambusher_secondary_detail_theirs	Localização: #(ambusher.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_faction_succession_description_great_kan	O Grande Kan está morto e o manto da liderança foi passado.\n\nViva o Grande Kan!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_defensive_alliance_manipulated_description	A nossa aliança defensiva com esta facção ruiu. Culpamos as maquinações de outra pessoa pelo rompimento do relacionamento.	1
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_contested_description	Perdemos o controlo absoluto desta região marítima para uma facção rival.	1
+event_feed_strings_text_att_event_feed_string_character_ancillary_gained_secondary_detail	Obtido por: #(character), #(character.type)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_enemy_raid_trade_route_description	Uma força está atacando nossa rota comercial!	1
+event_feed_strings_text_att_event_feed_string_military_navy_withdraws_description	Não querendo lutar nos termos do inimigo, a nossa marinha retirou-se da batalha.	1
+event_feed_strings_text_att_event_feed_string_military_attrition_primary_detail	#(force)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_hilderic_imprisoned_secondary_detail	Os romanos desembarcaram na África! Em resposta, Gelimer, o rei vândalo, executou o velho soberano pró-romano, Hilderic, após anos de prisão.\n\nA morte deste velho alquebrado promete mergulhar o conflito em profundidades ainda maiores de ferocidade! Não há como voltar atrás para os vândalos agora; não há possibilidade de uma resolução pacífica.\n\nO resto do mundo observa com a respiração suspensa. Talvez os romanos já não sejam uma força a ter em conta – poderão punir este acto de desafio descarado com a sua brutalidade inabalável que é a sua marca registada? Ou será que os vândalos derrotarão os invasores e inaugurarão uma nova era de desafio bárbaro?	1
+event_feed_strings_text_att_event_feed_string_character_wounded_secondary_detail	Classificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_male	Nosso agente matou seu alvo com sucesso, eliminando uma ameaça potencial de uma vez por todas.	1
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_secondary_detail	Idade: #(character.age)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_trespassing_description	Nossas forças cruzaram, sem permissão, território estrangeiro; isto terá repercussões diplomáticas.	1
+event_feed_strings_text_att_event_feed_string_military_army_destroyed_description	Este é um dia sombrio: o nosso exército foi totalmente destruído pelo inimigo.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_becomes_king_primary_detail	O rei dos hunos	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_dies_primary_detail	O arco quebrado	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_military_access_pact_description_theirs	Estas duas facções estabeleceram um acordo de acesso militar.	1
+event_feed_strings_text_att_event_feed_string_character_dies_action_description	Este digno súdito caiu servindo ao seu senhor e ao seu povo. Honra a ele!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_war_declared_description	Estamos em guerra. Nossos inimigos se submeterão ou serão destruídos.	1
+event_feed_strings_text_att_event_feed_string_character_trait_all_primary_detail	#(trait)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_salt_buildings_primary_detail	O sal já está disponível.	1
+event_feed_strings_text_att_event_feed_string_character_dies_battle_description	Nosso valente comandante caiu em batalha! Honre-o!	1
+event_feed_strings_text_att_event_feed_string_conquest_siege_established_secondary_detail_theirs	Força de cerco: #(besieger.general), #(besieger), #(besieger.faction)\n	1
+event_feed_strings_text_att_event_feed_string_placeholder_primary_detail	Detalhe primário do placeholder - NÃO LOCALIZAR	1
+event_feed_strings_text_att_event_feed_string_military_all_force_primary_detail	#(force)	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_title	Átila	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_moors_invasion_primary_detail	Os Mouros estão chegando!!!	1
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_description_male	Ocasião alegre! Esses membros da família foram abençoados com um filho.	1
+event_feed_strings_text_att_event_feed_string_military_army_founded_description	Dia glorioso! Fundamos um novo exército.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_gems_buildings_primary_detail	As joias já estão disponíveis.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_furs_buildings_primary_detail	As peles já estão disponíveis.	1
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_nomadic	Esta é uma ocasião importante! Um menino se torna um homem e assume seu legítimo lugar como governante de nosso povo. Viva o Grande Kan!	1
+event_feed_strings_text_att_event_feed_string_faction_succession_regency_description_barbarian	O Rei Supremo faleceu, mas seu herdeiro designado é jovem demais para assumir o manto de liderança. Como tal, um regente foi nomeado até o momento em que tenha idade suficiente para governar.	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_established_description	A nossa frota começou a bloquear este porto inimigo.	1
+event_feed_strings_text_att_event_feed_string_conquest_sea_region_controlled_description	Asseguramos o controle total dessas águas.	1
+event_feed_strings_text_att_event_feed_string_character_rank_gained_description	A diligência e o dever valeram a pena - este personagem aumentou de classificação.	1
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_kill_male_theirs	Um dos nossos foi assassinado a sangue frio por um agente inimigo!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_primary_detail	III. Amanhecer	1
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_title	O Império Romano retalia!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_secondary_detail	A escuridão diminui gradualmente e a vida retorna à terra. O rendimento das colheitas é abundante, as nossas crianças são mais saudáveis ​​e as pessoas estão optimistas quanto a um futuro próspero.	1
+event_feed_strings_text_att_event_feed_string_plague_force_from_force_description	A peste passou de uma força militar para outra; nossas tropas estão doentes e morrendo.	1
+event_feed_strings_text_att_event_feed_string_faction_horde_ends_secondary_detail	Nova capital: #(capital)\n	1
+event_feed_strings_text_att_event_feed_string_world_climate_change_description_2	As alterações climáticas estão em curso; à medida que o inverno perene se aproxima, as terras tornam-se menos férteis, obrigando as pessoas a irem sempre para sul e oeste em busca de climas mais quentes e menos hostis.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_decrease_title	Cansaço de Guerra	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_joins_war_secondary_detail_ally	Juntando-se a você contra: #(joining_faction)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_born_primary_detail	O Nascimento	1
+event_feed_strings_text_att_event_feed_scripted_bel_empire_spawns_forces_primary_detail	 	1
+event_feed_strings_text_att_event_feed_string_agent_discovered_secondary_detail_theirs	Facção:#(agent.faction)\n\n Localização: #(agent.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_title	Era de Carlos Magno	1
+event_feed_strings_text_att_event_feed_string_agent_recruited_description	Este novo agente está pronto e ansioso para servir.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_born_secondary_detail	Ele foi um homem nascido no mundo para abalar as nações; o flagelo de todas as terras, cujo nome trouxe medo a toda a humanidade. \n\n No extremo leste, nos desertos citas, nasce uma criança da linhagem real Hunnic. Destinado à grandeza, recebeu o nome de Átila.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_primary_detail	 	1
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_male_theirs	O inimigo esteve perigosamente perto de assassinar um dos nossos. Felizmente, as feridas cicatrizarão com o tempo.	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_looted_theirs_secondary_detail	Saqueado por: #(attacked_by.general), #(attacked_by)\n\nValor do saque: #(income)\n	1
+event_feed_strings_text_att_event_feed_string_provinces_unseasonal_conditions_description	Esta província está enfrentando condições sazonais incomuns.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_increase_title	Cansaço de Guerra	1
+event_feed_strings_text_att_event_feed_string_character_born_legitimate_secondary_detail	Pais: #(father) - #(mother)\n	1
+event_feed_strings_text_att_event_feed_string_faction_famine_description	Estamos consumindo mais alimentos do que somos capazes de produzir. As pessoas estão morrendo de fome e as tensões são altas.	1
+event_feed_strings_text_att_event_feed_string_agent_discovered_secondary_detail	Local: #(agent.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_event_war_weariness_intro_primary_detail	Informações sobre cansaço de guerra	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_breaking_dawn_title	Mudanças Climáticas	1
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_secondary_detail	Belenus sorri para você. Que sua estrela brilhante o guie sempre.	1
+event_feed_strings_text_att_event_feed_string_plague_all_primary_detail	#(plague)	1
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_secondary_detail	Os Tanukhids são uma tribo dedicada a um único propósito – a rebelião. Como tal, eles só podem sustentar-se através de conquistas constantes. No entanto, suas hordas são incapazes de cultivar seus próprios alimentos e só podem se sustentar derrotando um assentamento inimigo e vivendo de seus suprimentos por um número limitado de turnos.\nÀ medida que vencem batalhas, a fama aumenta e novos seguidores aderem ao seu estandarte. Cada vitória proporcionará à horda um crescimento significativo nos próximos cinco turnos. Além disso, ao assumirem uma posição de ataque, eles podem atrair apoio local, ganhando unidades gratuitas a cada turno.\nA perseguição contra o Cristianismo Oriental levou à primeira rebelião Tanukhid. Quando, eventualmente, os Tanukhids se estabelecerem novamente, eles enfrentarão severas penalidades de ordem pública por diferenças religiosas com as populações locais.\nOs desafios enfrentados pelos Tanukhids são grandes, mas seus meios também o são.\nVá em frente e reduza o Império Romano a cinzas!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_darkness_abates_primary_detail	II. A escuridão diminui	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_razed_secondary_detail	Arrasado por: #(attacked_by.general), #(attacked_by)\n\nLealdade: #(attacked_by.faction)\n\nValor do saque: #(income)\n	1
+event_feed_strings_text_att_event_feed_string_military_navy_destroyed_description	Este é um dia sombrio: toda a nossa marinha foi destruída.	1
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_description_male	A vida é indiscriminada em sua crueldade. Este menino faleceu antes de atingir a maioridade.	1
+event_feed_strings_text_att_event_feed_string_military_army_withdraws_description	Não querendo lutar nos termos do inimigo, o nosso exército retirou-se da batalha.	1
+event_feed_strings_text_att_event_feed_string_character_dies_infant_mortality_description_female	A vida é indiscriminada em sua crueldade. Esta menina faleceu antes de atingir a maioridade.	1
+event_feed_strings_text_att_event_feed_string_character_all_primary_detail_role	#(character), #(character.role)	1
+event_feed_strings_text_att_event_feed_string_faction_political_subject_secondary_detail	Assunto: #(subject)\n\n#(dilemma.description)\n	1
+event_feed_strings_text_att_event_feed_string_faction_succession_heir_comes_of_age_description_eastern	Esta é uma ocasião importante! Um menino se torna um homem e assume seu legítimo lugar como governante de nosso povo. Viva o Rei dos Reis!	1
+event_feed_strings_text_att_event_feed_string_provinces_building_demolished_description	Este edifício foi demolido e o seu terreno poderá agora ser requalificado.	1
+event_feed_strings_text_att_event_feed_string_character_dies_suspicious_secondary_detail	Classificação: #(character.rank)\n\nLocalização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_character_loyalty_low_description	Há rumores de que a lealdade deste homem está vacilando. Se quisermos evitar a guerra civil, temos de garantir que ela não se agrave ainda mais.	1
+event_feed_strings_text_att_event_feed_string_military_force_decimated_secondary_detail	Ordem dada por: #(force.general)\n\nLocalização: #(force.region_and_province)	1
+event_feed_strings_text_att_event_feed_string_plague_region_from_force_description_theirs	Nossas forças trouxeram involuntariamente uma pestilência em solo estrangeiro.	1
+event_feed_strings_text_att_event_feed_string_conquest_battle_description_loser	Tragédia! O inimigo derrotou nossas forças na batalha.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_wood_buildings_primary_detail	A madeira já está disponível.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_gold_buildings_primary_detail	O ouro já está disponível.	1
+event_feed_strings_text_att_event_feed_string_plague_starts_description	Uma pestilência terrível irrompeu em nossas terras, sem dúvida resultado de sujeira e miséria. O saneamento é fundamental para evitar doenças!	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_lead_buildings_primary_detail	O chumbo já está disponível.	1
+event_feed_strings_text_att_event_feed_string_military_unit_recruited_description	Esta unidade está agora treinada e pronta para lutar pela nossa causa.	1
+event_feed_strings_text_att_event_feed_string_character_all_primary_detail_type	#(character), #(character.type)	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_wine_buildings_primary_detail	O vinho já está disponível.	1
+event_feed_strings_text_att_event_feed_string_military_all_rank_secondary_detail	Classificação: #(force.rank)\n\nLocalização: #(force.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_description_theirs	Uma força inimiga encerrou o ataque em nosso assentamento!	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_description_theirs	Uma frota inimiga levantou o bloqueio ao nosso porto!	1
+event_feed_strings_text_att_event_feed_string_scripted_event_attila_dies_secondary_detail	Eles arrancaram os cabelos de suas cabeças e fizeram seus rostos horríveis com feridas profundas, para que o renomado guerreiro pudesse ser lamentado; não por lamentos e lágrimas efeminados, mas pelo sangue dos homens. \n\n Átila, o Flagelo de Deus, foi derrotado. Sem a sua liderança as hordas enfraquecem e começam a se dissipar.	1
+event_feed_strings_text_att_event_feed_string_character_born_all_primary_detail	#(child)	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_negotiated_non_aggression_pact_description	Estabelecemos um pacto de não agressão com esta facção, ajudando a garantir a nossa sobrevivência mútua.	1
+event_feed_strings_text_att_event_feed_string_provinces_settlement_sacked_theirs_secondary_detail	Saqueado por: #(attacked_by.general), #(attacked_by)\n\nValor do saque: #(income)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_olives_buildings_title	Azeitonas nível 4 desbloqueado	1
+event_feed_strings_text_att_event_feed_string_agent_discovered_description_theirs	Sempre à espreita, mas nem sempre invisível – descobrimos este agente estrangeiro!	1
+event_feed_strings_text_att_event_feed_string_character_ready_for_duty_secondary_detail	Localização: #(character.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_plague_from_force_secondary_detail_theirs	Espalha para: #(to)\n\nEspalha de: #(from)\n\nLocalização: #(from.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_secondary_detail_theirs	Força de bloqueio: #(blockader.general), #(blockader), #(blockader.faction)\n	1
+event_feed_strings_text_att_event_feed_string_plague_from_force_secondary_detail	Espalha para: #(to)\n\nEspalha de: #(from)\n\nFacção proprietária: #(from.faction)\n\nLocalização: #(from.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_reformation_secondary_detail	Suas conquistas são inúmeras e por isso sua fama alcança todo o mundo! Ao avaliar suas conquistas, seus pensamentos se voltam para o Império Romano Ocidental - destruído, mas não totalmente esquecido.\n\nNunca houve melhor momento - ou melhor líder - para ressuscitar este gigante caído e reconquistar seu antigo território. Aja agora e supere as conquistas de quem veio antes de você! Vista as vestes dos césares de antigamente e avance em nome de Roma!	1
+event_feed_strings_text_att_event_feed_string_faction_campaign_chapter_objective_complete_primary_detail	#(mission)	1
+event_feed_strings_text_att_event_feed_string_character_dies_battle_description_theirs	Nosso nobre inimigo caiu em batalha contra nós!	1
+event_feed_strings_text_att_event_feed_string_diplomacy_faction_encountered_description	Estabelecemos contacto com esta facção e podemos agora estabelecer relações ou, se acharmos adequado, fazer guerra com eles.	1
+event_feed_strings_text_att_event_feed_string_plague_force_from_region_description_theirs	Esta força adoeceu ao atravessar o nosso território infestado de peste.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_avar_khaganate_title	[ph] Título formado por Avar Khaganate	1
+event_feed_strings_text_att_event_feed_string_scripted_event_trade_building_title	Mercado do Rei desbloqueado	1
+event_feed_strings_text_att_event_feed_string_military_army_disbanded_description	Este exército foi retirado do serviço ativo. Pode ser restabelecido posteriormente se acharmos que sua reputação é digna.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_ally_mobilisation_vs_force_description	Recebemos a notícia: nosso aliado pretende atacar esta força inimiga na próxima oportunidade disponível.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_ashen_skies_secondary_detail	"""Durante este ano, ocorreu um terrível presságio. Pois o sol emitia sua luz sem brilho e parecia muito com o sol em eclipse, pois os raios que emitia não eram claros."" - Procópio\n\nTempos sombrios estão sobre nós; a terra secou e enegreceu, as colheitas fracassaram e os sacerdotes falam em condenação! O Senhor abandonou Seu reino?"	1
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_building_primary_detail	O Templo de Belenus já está disponível.	1
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_description_theirs	Nosso agente, com o frio cálculo da premeditação, assassinou um sujeito inimigo de acordo com seu capricho.	1
+event_feed_strings_text_att_event_feed_string_agent_action_assassinate_wound_male	A marca evitou por pouco a morte pelas mãos do nosso agente, mas não escapou ilesa.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_belisarius_confederation_title	O Império Ocidental ressurge novamente	1
+event_feed_strings_text_att_event_feed_string_military_navy_disbanded_description	Esta marinha foi retirada do serviço ativo. Poderá ser restabelecido posteriormente se considerarmos que a sua reputação é digna.	1
+event_feed_strings_text_att_event_feed_string_provinces_building_constructed_description	#(building.description)	1
+event_feed_strings_text_att_event_feed_string_character_dies_natural_description	A vida cobrou seu preço sobre nosso venerável sujeito; eles não existem mais.	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_emperor_angry_title	Belisário declara independência	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_iron_buildings_primary_detail	O ferro já está disponível.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_client_state_description	Concedemos independência ao nosso estado tributário.	1
+event_feed_strings_text_att_event_feed_string_scripted_event_religious_info_title	Impérios de Areia	1
+event_feed_strings_text_att_event_feed_string_diplomacy_secondary_detail_faction_region_province	Capital: #(faction.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_clear_skies_secondary_detail	Finalmente, o sol nasceu novamente, pintando a terra com as suas cores vivas. O povo agradece a Deus pela restauração de seus meios de subsistência. É um bom momento para estar vivo.	1
+event_feed_strings_text_att_event_feed_string_faction_civil_war_ends_description	Os separatistas foram esmagados; a guerra civil acabou.	1
+event_feed_strings_text_att_event_feed_string_conquest_siege_lifted_description	Nosso exército encerrou um ataque neste assentamento inimigo.	1
+event_feed_strings_text_att_event_feed_string_character_dies_hostile_description	Nosso fiel súdito foi assassinado com brutalidade insensível por agentes inimigos.	1
+event_feed_strings_text_att_event_feed_string_diplomacy_treaty_broken_non_aggression_pact_manipulated_description	Esta facção terminou o seu pacto de não agressão connosco, convencida da necessidade por um terceiro manipulador.	1
+event_feed_strings_text_att_event_feed_string_scripted_cha_new_pope_title	Novo Papa eleito	1
+event_feed_strings_text_att_event_feed_string_military_all_location_only_secondary_detail	Localização: #(force.region_and_province)\n	1
+event_feed_strings_text_att_event_feed_string_diplomacy_war_coordination_target_available_primary_details	Alvos disponíveis	1
+event_feed_strings_text_att_event_feed_string_scripted_event_horde_info_primary_detail	Tanukhids	1
+event_feed_strings_text_att_event_feed_string_conquest_blockade_lifted_secondary_detail	Força de bloqueio: #(blockader.general), #(blockader)\n	1
+event_feed_strings_text_att_event_feed_string_scripted_bel_marble_buildings_title	Nível de mármore 4 desbloqueado	1
+event_feed_strings_text_att_event_feed_string_military_navy_founded_description	Dia glorioso! Estabelecemos uma nova marinha.	1
+event_feed_strings_text_att_event_feed_string_character_trait_gained_description	Através das provações da vida, este homem aprendeu muito, tanto bom quanto ruim.	1
+event_feed_strings_text_att_event_feed_string_military_path_blocked_description	Nosso progresso foi obstruído; uma rota alternativa deve ser traçada.	1
+event_feed_strings_text_att_event_feed_string_faction_imperium_level_increase_secondary_detail	#(faction.fame_level_description)\n	1
