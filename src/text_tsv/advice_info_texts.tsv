@@ -1,0 +1,463 @@
+key	value	flag
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.040	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Executando:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.140	[[url:/units]]unidades de disparo:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.041	Você pode executar unidades selecionadas clicando duas vezes com o botão direito no terreno.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.141	Disparará automaticamente contra qualquer unidade inimiga ao alcance.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.042	Mantenha pressionada a barra de espaço para ver os destinos das unidades.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.142	Exibe um arco de fogo quando o cursor é colocado sobre eles.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.043	Alterne a velocidade das unidades selecionadas clicando no [[url:script_link_run_button]]botão Executar[[/url]] ou pressionando a tecla R.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.143	Geralmente são fracos no combate corpo a corpo.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.050	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Ataque:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.051	Emita uma ordem de ataque a uma unidade selecionada clicando com o botão direito em um inimigo.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.052	Clique duas vezes com o botão direito em um inimigo para ordenar que sua unidade carregue.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.053	Ordene unidades selecionadas em posições precisas clicando com o botão direito e arrastando uma formação no terreno.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.060	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Flanqueamento:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.061	Os soldados lutam melhor contra os inimigos que estão à sua frente.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.062	As unidades sofrerão mais baixas e choques de moral quando atacadas pelos flancos ou pela retaguarda.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.070	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Moral:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.071	Uma unidade será derrotada assim que sua moral for quebrada.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.072	Uma unidade em rota fugirá do campo de batalha e não responderá mais às ordens.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.073	A moral da unidade e os fatores que influenciam são exibidos na dica de ferramenta.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.074	O ícone de uma unidade piscará quando sua moral começar a vacilar.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.075	As unidades de rota podem ser montadas quando forem seguras e retornarem ao campo de batalha.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.100	[[url:/units]]Cavalaria:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.001	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Câmera do campo de batalha:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.101	Soldados móveis a cavalo, ideais para manobras rápidas.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.002	Mova a câmera usando as teclas W, A, S e D.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.102	Uma investida de cavalaria pode quebrar rapidamente o inimigo moral, especialmente quando lançada no flanco ou na retaguarda de uma unidade.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.003	Oriente a câmera mantendo pressionado o botão do meio do mouse.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.103	Vulnerável contra lançamentos ou lançamentos e em combates prolongados.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.004	Altere a altura da câmera com a roda de rolagem do mouse.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.005	Mantenha pressionada a tecla Shift para mover a câmera mais rapidamente.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.010	[[url:/units]]Unidades:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.110	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain#enc_text_manual_battle_conflict_forests]]Florestas:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.011	Os exércitos na Guerra Total são subdivididos em unidades.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.111	As unidades podem se esconder nas florestas, desde que se movam lentamente.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.012	As ordens são emitidas para unidades, não para tropas individuais.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.112	As florestas protegem as tropas contra missões que chegam.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.020	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Seleção e movimento:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.120	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Combate naval:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.021	Selecione Unidades clicando com o botão esquerdo.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.121	Os navios selecionados podem ser direcionados para atacar navios inimigos clicando com o botão direito.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.022	Selecione um grupo de unidades clicando com o botão esquerdo e arrastando uma caixa de seleção ao redor delas.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.122	Ordene que um navio selecionado desembarque suas tropas em terra clicando com o botão direito na praia.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.023	Clique com o botão direito no terreno para emitir uma ordem de movimento para as unidades selecionadas.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.123	Cartões de unidade e cartões de nave podem ser vistos na interface do usuário selecionando a [[url:script_link_force_tabs]]guia de força[[/url]] apropriado.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.024	As unidades também podem ser selecionadas clicando em seus [[url:script_link_unit_cards]]cartões de unidade[[/url]].	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.025	[[url:/manual/page/single-player/0001_enc_page_help_intro]]A Enciclopédia:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.026	Pressione a tecla F1 a qualquer momento para abrir a enciclopédia.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.027	As batalhas podem ser pausadas com a tecla P.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.028	O menu do jogo pode ser acessado com a tecla ESC.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.029	Pressione TAB para acessar o mapa tático.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.030	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain]]Terreno elevado:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.130	[[url:/manual/page/single-player/0088_enc_page_battle_play_phase_conflict_fatigue]]Fadiga:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.031	Lutar em declive oferece à infantaria uma grande vantagem.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.131	Os soldados cansam-se quando correm ou lutam e recuperam-se lentamente quando ficam parados.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.132	Soldados fatigados não conseguem se mover tão rápido ou lutar com a mesma eficácia.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.133	O nível de fadiga de uma unidade pode ser visto na dica da ferramenta.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.134	Segure CTRL enquanto arrasta uma formação com o botão direito do mouse para fazer as unidades se posicionarem.	1
+advice_info_texts_localised_text_Att.Pro.Naval.Info.001	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Armas do navio:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Naval.Info.002	Os navios podem lutar entre si atacando, abordando ou com armas de longo alcance.	1
+advice_info_texts_localised_text_Att.Pro.Naval.Info.011	Os navios lutam de três maneiras: em combate corpo a corpo, com artilharia ou em escaramuças com armas de longo alcance.	1
+advice_info_texts_localised_text_Att.Pro.Naval.Info.010	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Tipos de navios:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Naval.Info.021	Unidades terrestres lutarão em batalhas em navios de transporte.	1
+advice_info_texts_localised_text_Att.Pro.Naval.Info.020	[[url:/manual/page/single-player/0091_enc_page_battle_play_phase_conflict_sea_battles]]Navios de transporte:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Naval.Info.023	Os homens também sofrem de prazer, o que reduz seu potencial de combate.	1
+advice_info_texts_localised_text_Att.Pro.Naval.Info.022	Os navios de transporte são ineficazes em combate e só devem ser usados ​​como último recurso.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.080	[[url:/manual/page/single-player/0083_enc_page_battle_play_phase_conflict_tactics]]Pontos de captura:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.081	Os assentamentos contêm vários pontos que podem ser capturados por unidades posicionadas próximas a eles.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.082	Os pontos de captura transmitem vantagens táticas para qualquer lado que os detenha.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.083	As torres são destruídas quando seu ponto de captura é feito.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.085	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Posicionamento da unidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.086	Ordene unidades selecionadas em posições precisas clicando com o botão direito e arrastando uma formação no terreno.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.087	Segure ALT e atrai as seletivas de unidades para a esquerda para reposicioná-las com a mesma face.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.088	Use as teclas de cursor para posicionar as unidades selecionadas.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.089	Segure Shift e desenhe um caminho com o botão direito do mouse para as unidades selecionadas a seguir.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.090	[[url:/units]]Infantaria:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.091	Densas unidades de homens, armadas com armas corpo a corpo.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.092	Lento e vulnerável a ser ultrapassado e manobrado.	1
+advice_info_texts_localised_text_Att.Pro.Olbia.Info.093	Forte em ataques frontais, mas vulnerável no flanco e na retaguarda.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.071	Disparar à vontade é uma habilidade de unidade de disparo que pode ser alternada na barra de habilidades da unidade.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.176	[[url:/manual/page/single-player/0039a_enc_page_campaign_play_province_trade_finance]]Falência:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.276	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_faction_intro]]Botão de facção:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.070	[[url:/manual/page/single-player/0092_enc_page_battle_play_interface#enc_text_manual_battle_conflict_modes_fire]]Dispare à vontade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.177	Uma facção sem dinheiro não consegue pagar suas tropas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.277	A árvore genealógica e outras informações da facção podem ser acessadas a qualquer momento clicando no botão [[url:script_link_faction_button]]da facção[[/url]].	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.073	Desligue o disparar à vontade para que uma unidade conserve munição ou para evitar infligir baixas às suas próprias tropas enquanto elas enfrentam o inimigo.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.174	Caso seu tesouro caia abaixo de zero, sua facção não conseguirá pagar suas tropas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.274	À medida que uma facção ganha império, ela pode emitir mais decretos por turno.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.374	Uma facção pode entrar no modo horda no painel Facção.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.072	Quando ativas, as unidades selecionam seus próprios alvos sem serem ordenadas de outra forma.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.175	O prólogo terminará se seu tesouro cair a zero antes de Petrodava ser capturado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.275	Os editais são aplicados durante o processo final de turno.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.072	Use o botão Finalizar Turno para continuar o jogo. Outras facções terão a oportunidade de mover suas peças do exército, recrutar unidades e realizar outras ações.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.172	As unidades recrutadas necessitam de receber uma manutenção a cada turno. Recrutar muitas unidades fará com que sua facção tenha uma renda negativa.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.272	Um governador de província deve ser nomeado antes que os decretos possam ser emitidos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.372	As facções da Horda não ocupam assentamentos, mas constroem edifícios dentro de seus exércitos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.472	O tempo mais frio está a chegar e as províncias do norte e do leste começarão a fornecer menos alimentos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.173	As unidades podem ser dissolvidas na implementação do cartão de unidade. Clique em um cartão de unidade para facilitar.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.273	Os Editais são emitidos a partir da implementação de Editais.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.373	As facções da Horda podem ser reassentadas em novos territórios a qualquer momento.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.070	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_end_turn]]Turnos:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.170	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_disband]]Manutenção e renda:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.270	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_edicts]]Éditos:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.370	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Migração da Horda:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.470	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_fertility]]Fertilidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.071	O tempo no mapa da campanha avança em turnos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.171	Seu [[url:script_link_treasury]]tesouro[[/url]] e [[url:script_link_per_turn_income]]renda[[/url]] são mostrados na interface do usuário.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.271	Os editais podem ser emitidos em uma província para aumentar a ordem pública, a renda ou para fornecer outros benefícios.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.371	Algumas facções bárbaras podem se transformar numa horda quando seu território é ameaçado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.471	A fertilidade de uma província depende muito da quantidade de alimentos que nela podem ser produzidos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.178	Os exércitos não serão remunerados, sofrerão deliberações morais, serão menos eficazes na batalha e poderão revoltar-se.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.278	[[url:/manual/page/single-player/0003_enc_page_help_tut]]Limites do prólogo:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.179	Considere aumentar os impostos ou desmantelar unidades para aumentar a renda da facção.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.279	A área em que seus militares podem se movimentar é restrita durante o prólogo.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.061	Os soldados são mais eficazes no combate às descidas e os mísseis avançam ainda mais.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.166	Os edifícios são reparados a partir do painel da Província.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.266	As unidades podem ser treinadas e atualizadas para serem mais eficazes em combate à medida que sua facção desenvolve tecnologia.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.060	[[url:/manual/page/single-player/0089_enc_page_battle_play_phase_conflict_terrain]]Atacar subida:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.267	Retreine unidades ou atualize unidades clicando com o botão esquerdo em seu cartão de unidade e selecionando a opção relevante no painel Rollout.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.063	Evite atacar os homens morro acima, pois eles cansarão rapidamente.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.062	Certifique-se de ter superioridade numérica ao atacar morro acima ou tente encontrar uma rota alternativa.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.165	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction#enc_text_manual_actions_campaign_construction_repair]]Reparo de construção:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.265	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_retrain]]Retreinamento e atualização de unidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.062	Os danos causados ​​não prevêem os benefícios pretendidos até serem reparados.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.162	As estações são boas ou mais, o que afeta a produção de alimentos pode ser uma ordem pública e muito mais.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.262	Os personagens da árvore genealógica podem ser navegados, elevados a cargos, casados, assassinados e muito mais.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.362	Os tratados podem envolver negociações de guerra, tréguas, formação de alianças, acordos comerciais e muito mais.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.462	A condição das defesas do assentamento é indicada no painel Pré-batalha.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.063	Um edifício danificado pode ser reparado clicando no botão Reparar no painel Implementação de Edifício.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.163	Os exércitos apanhados em regiões nevadas no inverno sofrerão desgaste.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.263	Um personagem pode ser promovido a governador selecionando seu retrato e clicando com o botão esquerdo no governador.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.363	A Diplomacia é conduzida no painel Diplomacia.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.060	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction#enc_text_manual_actions_campaign_construction_repair]]Reparo de construção:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.160	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_date]]Temporados:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.260	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics]]Árvore genealógica:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.360	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Diplomacia:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.460	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges#enc_text_manual_army_attack_siege_escalation]]Escalonamento de cerco:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.061	As construções de um assentamento podem ser danificadas em batalhas ou por ações de agentes inimigos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.161	A passagem das estações ao longo do ano é mostrada no mapa da campanha.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.261	Sua árvore genealógica mostra membros da família governante e outros nobres proeminentes.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.361	As facções podem se envolver na diplomacia com qualquer facção com quem tenha contato.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.461	Quanto mais tempo dura o cerco, mais danos são causados ​​ao assentamento sitiado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.268	A reciclagem e a modernização das unidades custam dinheiro e podem aumentar a manutenção das unidades.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.051	A moral do exército sofrerá muito se o seu general for morto.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.056	Atualizar o edifício principal de um assentamento aumenta o tamanho do assentamento e melhora suas defesas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.456	É mais provável que um personagem desleal instigue uma guerra civil.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.050	[[url:/manual/single-player/0085_enc_page_battle_play_phase_conflict_abilities#enc_text_manual_battle_conflict_abilities_generals]]O General:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.057	Os custos e benefícios de um edifício são mostrados no painel Building Rollout.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.457	A lealdade de um nobre pode ser melhorada promovendo-o, casando-o ou adotando-o na família governante.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.054	[[url:/manual/page/single-player/0045_enc_page_campaign_play_province_construction]]Edifícios:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.354	Os agentes são recrutados no Painel Agente de recrutamento.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.454	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_loyalty]]Lealdade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.052	As unidades de rota não se reúnem sem a presença geral.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.055	Os edifícios dentro de um assentamento podem ser explorados, construídos, reparados e desmontados no painel da Província.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.355	Certos edifícios, indicados por ícones vermelhos no painel de recrutamento, devem ser construídos antes que um agente de um tipo específico possa ser recrutado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.052	Assentamentos e edifícios são gerenciados no painel Província, que aparece quando um assentamento é selecionado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.152	Várias unidades esgotadas do mesmo tipo podem ser mescladas selecionando e clicando no botão mesclar no painel de implementação.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.252	Os governadores das províncias são nomeados na tela Detalhes da Província.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.352	Os agentes são usados ​​para beneficiar assentamentos e exércitos aliados ou podem prejudicar exércitos, assentamentos ou agentes inimigos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.452	Os personagens podem ganhar características e acessórios à medida que realizam ações no mapa de campanha.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.053	O painel da Província mostra todos os assentamentos da província designada, bem como os edifícios dos assentamentos que você controla.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.353	Os agentes podem mover-se livremente pelo mapa de campanha, inclusive em território inimigo.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.453	Os nobres podem se casar e suas esposas lhes conferem uma característica adicional.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.050	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface]]Painel da Província:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.150	[[url:/manual/page/single-player/0026_enc_page_campaign_play_military_replenish]]Reabastecimento de unidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.250	[[url:/manual/page/single-player/0043_enc_page_campaign_play_province]]Governadores de província:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.350	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Agentes:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.450	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Desenvolvimento de personagem:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.051	Os assentamentos contêm edifícios que desempenham diversas funções, como o recrutamento de tropas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.151	Unidades militares esgotadas recuperarão automaticamente seus números enquanto estiverem em território controlado ou aliado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.251	Um governador de província pode ser nomeado para fornecer bônus e promulgar decretos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.351	Espiões, dignitários e campeões podem ser recrutados no mapa de campanha.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.451	Os atributos de um personagem são mostrados no painel Detalhes do Personagem.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.058	Os edifícios não são construídos imediatamente, mas levam tempo para serem concluídos.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.041	Os lanceiros são melhor combatidos por unidades equipadas com armas brancas ofensivas, como espadas e machados.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.146	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_events]]Listas:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.040	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Contra lanceiros:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.147	A lista [[url:script_link_events_list]]Eventos[[/url]] mostra notificações importantes sobre sua facção ou o mundo em geral.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.044	Clique com o botão esquerdo em uma carta de unidade para adicionar à fila de recrutamento.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.144	As intensidades relativas às forças envolvidas são indicadas na barra Balanço de Potência.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.244	Algumas armas de cerco, como os onagros, podem ser recrutadas como unidades regulares e viagens com o exército.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.444	A tentativa ocorrerá entre uma facção e qualquer população de uma religião diferente em suas províncias.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.042	Os lanceiros são fortes contra a cavalaria e sua armadura mais pesada permite resistir melhor ao disparos inimigos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.145	Você pode decidir atacar ou recuperar com base em suas prováveis ​​chances de vitória.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.245	As armas de cerco são construídas durante o processo final do turno, geralmente ao longo de vários turnos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.445	A religião de uma província pode ser convertida ao longo do tempo por agentes e edifícios religiosos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.142	Os painéis das Forças exibem forças conhecidas, reforços, comandantes e efeitos do exército.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.242	As armas de cerco são construídas durante o cerco. Eles não custam dinheiro, mas exigem tempo e mão de obra para serem construídos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.342	Selecione a opção de Resolução Automática no painel Pré-Batalha para resolver automaticamente uma batalha.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.442	As relações entre facções de diferentes religiões sofrerão prejuízos diplomáticos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.043	O painel Recrutamento mostra os tipos de unidades que este exército pode recrutar.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.143	O retrato de cada comandante pode ser selecionado para visualizar seu exército.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.243	A mão de obra disponível é determinada pelo tamanho do exército terrorista.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.443	A população de uma província pode seguir várias religiões. Isso é mostrado no painel Detalhes da Província.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.040	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit]]Recrutamento de Unidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.140	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_battle_intro]]Tela pré-batalha:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.240	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges#enc_text_manual_army_attack_siege_weapons]]Armas de cerco:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.340	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_ui_battle_auto]]Resolução automática:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.440	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Religião:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.041	Unidades adicionais podem ser recrutadas para um exército no painel Recrutamento.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.141	A tela Pré-Batalha fornece informações sobre a próxima batalha.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.241	As capitais das províncias são fortificadas e são convocadas armas de cerco para atacar.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.341	As batalhas podem ser resolvidas automaticamente para que o jogo determine automaticamente o resultado provável.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.441	Cada facção segue uma religião oficial. Isso pode ser visto e convertido no painel Facção.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.148	A lista [[url:script_link_forces_list]]Forças[[/url]] mostra rapidamente todos os exércitos, marinhas e agentes controlados pela sua facção.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.149	As listas [[url:script_link_provinces_list]]Províncias[[/url]] e [[url:script_link_factions_list]]Fações[[/url]] resumem informações sobre províncias e facções conhecidas.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.031	A cavalaria inimiga enfrenta melhores lanceiros, unidades de disparo protegidas ou é expulsa por outra cavalaria.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.030	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]Contra-cavalaria:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.037	Um exército garantido em um assentamento irá defendê-lo do ataque inimigo.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.033	As unidades de missões são particularmente vulneráveis ​​a ataques de fuga da cavalaria.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.034	Um exército pode ser selecionado clicando com o botão esquerdo nele.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.134	O número de mercenários em uma área é finito e o tipo de mercenário varia dependendo da cultura local.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.234	As capitais das províncias são fortificadas e desativadas armas de cerco, construídas durante o cerco, para serem tomadas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.334	A postura Emboscada pode ser usada para armar uma emboscada para um atacante.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.434	Uma dica na barra de equilíbrio de poder mostra o efeito da ordem política atual.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.032	Cuidado com a cavalaria inimiga, atacando unidades vulneráveis ​​ou isoladas, ou atacando unidades engajadas nos flancos ou na retaguarda.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.035	Os exércitos selecionados podem ser movidos para um local clicando com o botão direito.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.135	Os mercenários são mais baratos de recrutar, mas mais caros de manter do que as unidades normais.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.335	Os custos e benefícios de todas as posturas podem ser visualizados nas dicas dos botões na implementação de Posturas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.435	Os personagens podem ser nomeados para cargas altas depois de terem servido em cargas inferiores.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.032	Os exércitos são representados no mapa de campanha por uma peça de exército.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.132	São recrutados no painel Mercenários.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.232	Os defensores de um assentamento sitiados acabarão por morrer de fome, a menos que sejam socorridos por um exército de reforço ou abastecidos por mar.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.332	As posições de um exército selecionado podem ser navegadas na implementação de Posturas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.432	O poder de um partido político aumenta com a influência de seus personagens.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.034	As investidas de cavalaria são particularmente poderosas e podem destruir rapidamente unidades despreparadas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.033	Um exército é sempre liderado por um General.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.133	Não precisa ser treinado e junte-se imediatamente ao seu exército quando for contratado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.233	Os defensores podem sair e tentar quebrar o cerco.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.333	A postura Fortify instrui o exército a montar acampamento e aumenta o reabastecimento de unidades.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.433	É importante manter um equilíbrio de poder saudável: o fato de uma família governante ser muito frágil ou muito poderoso acarreta consequências negativas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.030	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack]]Exercícios:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.130	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit#enc_text_manual_actions_campaign_recruitment_disband]]Mercenários:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.230	[[url:/manual/page/single-player/0021_enc_page_campaign_play_military_sieges]]Guerra de cerco:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.330	[[url:/manual/page/single-player/0018_enc_page_campaign_play_military_stances]]Posturas do Exército:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.430	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics]]Política:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.530	Os principais atributos do personagem, autoridade, astúcia e zelo, melhoram o desempenho de um personagem em determinadas situações.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.031	Usado para defender territórios, tomar cidades inimigas e combater seus exércitos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.131	Pode ser contratado enquanto estiver em regiões inimigas, ao contrário dos recrutas normais.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.231	Um assentamento pode ser sitiado atacando-o com um exército.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.331	Os exércitos podem assumir diferentes posturas, cada uma com seus próprios bônus e limitações.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.431	O equilíbrio de poder entre a família governante e outros nobres é mostrado no painel da Facção.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.531	Eles também fornecem defesa contra ataques desse tipo por parte de agentes.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.038	Os assentamentos também contêm unidades de operações que defendem automaticamente a cidade contra ataques.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.021	As unidades inimigas de longo alcance são as melhores combatidas perseguindo-as com unidades rápidas como a cavalaria.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.026	Rios, montanhas e florestas densas restringem o movimento no mapa da campanha.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.126	Algumas áreas do mapa da campanha são inóspitas devido aos extremos de temperatura.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.226	À medida que a população de uma província cresce ao longo do tempo, ela ganha excedente populacional.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.020	[[url:/manual/page/single-player/0078_enc_page_battle_play_phase_conflict]]unidades de disparo de combate:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.027	Os rios podem ser atravessados ​​em pontos de passagem.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.127	Um exército que se move através de terreno congelado durante o inverno sofrerá perdas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.227	O crescimento é gerado pelos edifícios de capital dentro dos assentamentos.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.023	As torres inimigas podem ser destruídas capturando-as ou queimando-as.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.124	Os militares viajam mais rápido nas estradas do que através do país.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.424	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface]]Navegador de construção:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.524	Ações de intriga podem ser conduzidas por personagens, afetando ambientais sua posição ou lealdade.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.022	As unidades de disparo são úteis em combate corpo a corpo.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.025	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Terreno:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.125	[[url:/manual/page/single-player/0026_enc_page_campaign_play_military_replenish]]Atributo:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.225	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_growth]]Excedente populacional:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.425	O navegador de construções pode ser usado para visualizar construções disponíveis para sua facção.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.525	As ações de intriga fracassadas podem ter consequências indesejáveis.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.022	Uma facção pode tomar uma região capturando o assentamento central.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.122	Os pontos de ação são reabastecidos a cada turno.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.222	Os alimentos são gerados por fazendas e portos de pesca e consumidos por outras construções.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.322	As facções são descobertas movendo-se para dentro da linha de visão ou capturando uma região adjacente.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.422	As construções da Horda são construídas na aba Edifícios.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.522	Os personagens constroem influência na medida em que realizam ações no mapa de campanha.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.023	Uma facção é destruída quando não controla mais regiões ou exércitos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.123	Certas ações, como mudar de postura ou sair de uma praia para a água, custam pontos de ação.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.223	O fornecimento de alimentos para toda a facção [[url:script_link_food_indicator]] é exibido na interface do usuário[[/url]].	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.423	Uma horda deve parar e entrar na posição de acampamento para construir edifícios.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.523	A influência do personagem pode ser gasta promovendo-o a uma carga ou esgotada por certas ações intrigantes.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.020	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions]]Regiões e facções:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.120	[[url:/manual/page/single-player/0012_enc_page_campaign_play#enc_text_manual_campaign_action_points]]Pontos de ação:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.220	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_food]]Comida:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.320	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Descoberta da facção:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.420	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Construção da Horda:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.520	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_power]]Influência e intriga:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.021	As regiões podem ser controladas por facções, como os Visigodos e os Hunos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.121	À medida que um exército se move, ele gasta pontos de ação até não poder mais avançar.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.221	Um abastecimento alimentar positivo deve ser interrompido, caso contrário à ordem pública e o crescimento populacional será prejudicado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.321	As facções devem descobrir-se umas às outras para estabelecer relações diplomáticas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.421	Um exército da horda pode construir a infraestrutura que acompanha o exército.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.521	O poder de um partido político aumenta com a influência de seus personagens.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.128	As forças armadas também sofreram desgaste em pântanos, desertos e oceanos profundos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.228	O excedente populacional pode ser gasto na abertura de novas vagas de construção nessa província.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.129	Um exército em posição fortificada não sofre desgaste.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.229	O excedente populacional é mostrado no painel Visão Geral da Província.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.011	As unidades serão expulsas do campo de batalha quando sua moral estiver quebrada.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.116	Os objetivos ativos podem ser visualizados nos painéis Objetivos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.216	O painel Detalhes da Província mostra informações detalhadas sobre o status de uma província.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.010	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Roteamento e Rally:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.117	Os objetivos alcançados podem ser revisados ​​aqui a qualquer momento.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.217	O painel pode ser aberto selecionando um assentamento dentro de uma província e clicando no botão Detalhes.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.013	A habilidade de mobilização do geral pode ser usada para tentar estimular as unidades de rotação a se mobilizarem.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.114	As zonas de controle são mostradas colocando o cursor do mouse sobre o assentamento, exército ou marinha proprietária.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.214	As províncias podem ser isentas de impostos para proporcionar um impulso específico à ordem pública. Isso é feito no painel Detalhes da Província.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.314	Personagens elegíveis dentro de uma facção aparecerão na lista de candidatos.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.012	Às vezes, as unidades de rota se reúnem quando estão fora do perigo e começam a responder às ordens novamente.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.115	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_objectives_intro]]Objetivos:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.215	[[url:/manual/page/single-player/0043_enc_page_campaign_play_province#enc_text_manual_ui_province]]Detalhes da província:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.012	Aumente e diminua o zoom rolando a roda do mouse ou usando as teclas Z e X.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.112	Exércitos, marinhas e assentamentos exercem zonas de controle ao seu redor.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.212	A taxa de imposto em todas as províncias é definida no painel Comércio e Finanças.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.312	Novos generais podem ser recrutados à medida que sua facção cresça e acumule império.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.412	Os assentamentos são desmantelados durante esse processo e uma proporção do seu valor é devolvida ao tesouro.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.512	Uma parte das suas forças ou mesmo uma região inteira irá romper para se juntar à facção separatista.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.014	As unidades não são montadas sem um presente geral.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.113	Os exércitos e marinhas inimigas não podem passar por uma zona de controle, exceto para atacar o proprietário.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.213	Uma taxa de imposto mais elevada gera mais rendimento, mas reduz a ordem pública e as taxas de crescimento.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.313	Os generais são nomeados em assentamentos controlados.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.513	Evite guerras civis monitorando a lealdade ao caráter, a ordem pública e a disciplina militar.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.010	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Câmera:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.110	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack]]Ataque:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.210	[[url:/manual/page/single-player/0044a_enc_page_campaign_play_province_wealth]]Tributação:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.310	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Aumentando Forças:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.410	[[url:/manual/page/single-player/0036_enc_page_campaign_play_faction]]Transição da Horda:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.510	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_civil_war]]Guerra Civil:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.011	Mova a câmera com as teclas W, A, S e D ou segurando o botão do meio do mouse e arrastando.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.111	Um exército selecionado pode receber ordens para atacar um assentamento ou exército inimigo clicando com o botão direito nele.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.211	As facções aumentam a renda cobrando impostos de seus cidadãos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.311	Um exército no mapa de campanha deve ser comandado por um General.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.411	É necessário uma virada para que uma facção se transforme em uma horda.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.511	Personagens desleais podem tirar vantagem de um exército disciplinado ou de baixa ordem pública em uma região para declarar um pouco uma guerra civil.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.118	As condições de vitória também podem ser revisadas no Painel de Objetivos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.218	Informações sobre riqueza, religião, ordem pública e muito mais podem ser visualizadas aqui.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.219	Revoltas ocorrerão se a ordem pública cair para -100.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.001	[[url:/manual/page/single-player/0078a_enc_page_battle_play_phase_conflict_visibility]]Visibilidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.106	O jogo será salvo automaticamente a cada turno.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.107	Os jogos podem ser salvos e carregados manualmente no menu Jogo, acessados ​​com a tecla ESC.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.003	As unidades podem se esconder em florestas e algumas em grama alta.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.004	As províncias são divididas em regiões, cada uma contendo um assentamento.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.104	Um exército não pode se mover enquanto recruta unidades.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.204	Os factores que afectam a ordem pública numa província podem ser visualizados no painel Detalhes da Província.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.504	Os edifícios existentes podem ser melhorados para proporcionar mais benefícios.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.002	As unidades inimigas não ficam visíveis se a linha de visão estiver bloqueada por colinas ou outras características do terreno.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.105	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_actions_campaign_quick_save_load]]Salvando o jogo:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.505	Atualizar uma fazenda em Petrodava se a fome persistir.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.002	O mapa de campanha é o teatro no qual exércitos, reinos e impérios podem ser criados, pesquisados, comandados e destruídos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.202	Vários fatores podem melhorar a ordem pública, tais como a presença de forças armadas nacionais e benefícios benéficos para a população.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.302	Ganhar mais império permite que sua facção tenha mais soldados e agentes.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.402	O painel Diplomacia lista facções conhecidas e resume a posição delas em relação a você.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.502	As tropas existentes muitas vezes serão recicladas para um nível superior se as instalações estiverem presentes na província local.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.003	O território é dividido em províncias.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.103	As unidades enfileiradas podem ser canceladas clicando no cartão na fila.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.203	Outros fatores podem ser prejudiciais à ordem pública, como tensão religiosa, instabilidade política, escassez de alimentos ou exércitos invasores.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.303	Imperium e seus efeitos podem ser navegados no painel Facção.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.403	As negociações podem ser iniciadas clicando duas vezes em uma facção da lista.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.503	[[url:/buildings]]Atualizações de edifícios:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.100	[[url:/manual/page/single-player/0017_enc_page_campaign_play_military_recruit]]Recrutamento adicional:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.200	[[url:/manual/page/single-player/0044b_enc_page_campaign_play_province_public_order]]Ordem Pública:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.300	[[url:/manual/page/single-player/0037_enc_page_campaign_play_faction_politics#enc_text_politics_imperium]]Imperium:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.400	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy]]Diplomacia:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.500	[[url:/units]]Qualidade da tropa:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.001	[[url:/manual/page/single-player/0012_enc_page_campaign_play]]Mapa da campanha:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.101	As unidades disponíveis para recrutamento são determinadas pelos edifícios da província local.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.201	O nível de ordem pública numa província deve ser mantido sob controlo para evitar que degenere em revolta.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.301	À medida que sua facção conquista mais território, seu nível de império aumenta.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.401	Os diplomas diplomáticos tratados podem ser propostos a outras facções do Painel de Diplomacia.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.501	Atualizar edifícios e tecnologias de investigação para permitir o treino de tropas da melhor qualidade.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.091	As unidades serão expulsas do campo de batalha quando sua moral estiver quebrada.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.296	Os exércitos não podem ser fundidos sob um único comandante, mas permanecerão fortalecendo uns aos outros na batalha.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.090	[[url:/manual/page/single-player/0087_enc_page_battle_play_phase_conflict_morale]]Roteamento e Rally:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.297	As linhas de reforço entre os exércitos que se reforçam mutuamente são mostradas no mapa de campanha quando o cursor é colocado sobre elas.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.093	A habilidade de mobilização do geral pode ser usada para tentar estimular as unidades de rotação a se mobilizarem.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.194	O painel Detalhes mostra informações sobre o exército, general ou agente selecionado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.294	Com um controle controlado selecionado, clique com o botão direito em outro que é o próximo para trocar unidades entre eles.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.394	Filtros que mostram informações como nível de ordem pública, status diplomático, crescimento da região e muito mais podem ser ativados ou desativados.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.494	A doença pode viajar com os exércitos, criar morte e causar infelicidade.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.092	Às vezes, as unidades de rota se reúnem quando estão fora do perigo e começam a responder às ordens novamente.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.195	Um personagem também ganhará características e família ao longo do tempo, dependendo de suas ações.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.295	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_army_reinforcements]]Reforço:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.092	Apenas uma tecnologia pode ser pesquisada por vez.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.192	À medida que a classificação de um personagem aumenta, novas habilidades para esse personagem podem ser escolhidas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.292	Se a integridade de um exército cair demais, ele poderá amotinar-se e proclamar seu próprio líder.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.392	A tela de visão geral estratégica pode ser alternada clicando no botão de visão geral estratégica ou instruída a tecla TAB.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.492	A miséria pode ser amenizada por edifícios que proporcionem saneamento.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.094	As unidades não são montadas sem um presente geral.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.093	Uma pesquisa é realizada no painel de Tecnologia.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.193	Seu general aumentou a classificação após a vitória e pode receber uma nova habilidade.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.293	[[url:/manual/page/single-player/0027_enc_page_campaign_play_military_merge]]Transferência de unidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.393	A câmera pode ser panorâmica e ampliada no mapa estratégico usando o mouse.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.493	Uma doença pode surgir em províncias que sofrem de miséria.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.090	[[url:/manual/page/single-player/0039_enc_page_campaign_play_faction_technology]]Pesquisa de tecnologia:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.190	[[url:/manual/page/single-player/0047_enc_page_campaign_play_characters]]Personagens:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.290	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Integridade do Exército:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.390	[[url:/manual/page/single-player/0012_enc_page_campaign_play#enc_text_manual_hud_radar]]Visão geral estratégica:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.490	[[url:/manual/page/single-player/0044_enc_page_campaign_play_province_regions#enc_text_manual_actions_campaign_provinces_squalor]]Miséria e saneamento:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.091	A pesquisa de novas tecnologias pode trazer uma variedade de benefícios cívicos e militares.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.191	Generais e agentes ganham experiência e aumentam de posição ao longo do tempo à medida que realizam ações bem-sucedidas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.291	A integridade de um exército é afetada por fatores como batalhas vencidas e perdidas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.391	O painel Visão Geral Estratégica mostra informações úteis sobrepostas ao mapa em pergaminho.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.491	Alguns edifícios causam miséria em sua província.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.081	A formação solta é uma habilidade da unidade que pode ser alternada na barra de habilidades da unidade.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.286	À medida que um exército trava batalhas, ele ganha experiência e acumula pontos de habilidade.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.080	[[url:/manual/page/single-player/0092_enc_page_battle_play_interface#enc_text_manual_battle_conflict_modes_loose]]Formação solta:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.287	Os pontos de habilidade podem ser gastos na especialização e no desenvolvimento do exército.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.083	A formação frouxa reduz o número de baixas que uma unidade sofrerá com mísseis.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.384	Os acordos comerciais são configurados no painel Diplomacia.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.082	Quando ativos, os homens de uma unidade aumentam o espaço entre si.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.285	[[url:/manual/page/single-player/0020_enc_page_campaign_play_military]]Habilidades do Exército:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.082	Os fundos para o seu tesouro são levantados através de comércio, impostos e pilhagem.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.182	Saquear um assentamento não a captura, mas retire todos os seus valores.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.282	As revoltas causam perturbações e devem ser reprimidas com força militar.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.382	O comércio também pode trazer diferentes tipos de recursos que não podem estar disponíveis em regiões controladas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.482	O nível de experiência de uma unidade é mostrado em divisões em sua carta de unidade.	1
+advice_info_texts_localised_text_Att.Pro.Battle.Info.084	Entretanto, uma unidade em formação livre é vulnerável no combate corpo a corpo. Desligue-o se a unidade for abordada.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.083	Os valores de [[url:script_link_treasury]]tesouraria atual[[/url]] e [[url:script_link_per_turn_income]]renda por turno[[/url]] são mostrados na interface do usuário.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.183	Demolir um assentamento irá destruí-lo e ninguém será o proprietário dele.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.283	Se uma revolta sair do controle, poderá ameaçar os assentamentos próximos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.483	Unidades mais experientes têm moral mais elevada e são melhores em combate.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.080	[[url:/manual/page/single-player/0015a_enc_page_campaign_play_interface#enc_text_manual_hud_treasury]]Finanças:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.180	[[url:/manual/page/single-player/0016_enc_page_campaign_play_military_attack#enc_text_manual_campaign_battle_post]]Opções pós-batalha:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.280	[[url:/manual/page/single-player/0044b_enc_page_campaign_play_province_public_order#enc_text_manual_public_order_rebellions]]Revoltas:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.380	[[url:/manual/page/single-player/0038_enc_page_campaign_play_faction_diplomacy#enc_text_manual_hud_diplomacy_options_trade_agreement]]Comércio:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.480	[[url:/manual/page/single-player/0028_enc_page_campaign_play_military_ Experience#enc_text_manual_army_ Experience]]Experiência de Unidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.081	O recrutamento de unidades, a manutenção e a construção de edifícios esgotam o seu tesouro.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.181	Um assentamento capturado pode ser ocupado pacificamente, saqueado, saqueado ou arrasado.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.281	A população pode revoltar-se se a ordem pública numa província ficar demasiado baixa.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.381	Acordos comerciais podem ser estabelecidos entre facções para trazer dinheiro para ambos.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.481	As unidades ganham experiência quando travam batalhas.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.288	Um exército selecionado pode ser gerenciado na tela Detalhes da Força.	1
+advice_info_texts_localised_text_Att.Pro.Camp.Info.289	Seu exército tem novos pontos de habilidade disponíveis para gastar.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.020	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges#enc_text_manual_army_battle_fire]]Fogo:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.021	Edifícios podem ser incendiados usando projetos flamejantes de arqueiros e onagros.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.022	O fogo se propagará por um assentamento, danificando as defesas e ferindo os soldados.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.023	Os danos de fogo causados ​​em batalha devem ser reparados no mapa de campanha para que o assentamento funcione corretamente.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.001	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges]]Armas de cerco:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.002	Os marcadores das cartas de unidade mostram quando as unidades estão portando armas de cerco.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.003	Unidades anexadas às armas de cerco podem largar suas armas usando o botão Soltar quando selecionadas.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.004	As unidades selecionadas podem ser anexadas a uma arma de cerco clicando com o botão direito nela.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.005	As unidades que transportam armas de cerco não podem lutar eficazmente.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.010	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges]]Armas de cerco:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.011	Unidades selecionadas com armas de cerco podem ser posicionadas contra as defesas da cidade clicando com o botão direito sobre elas.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.012	Aríetes podem ser usados ​​para atacar os alvos da cidade.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.013	Escadas e torres de cerco podem ser usadas para escalar muralhas de um assentamento.	1
+advice_info_texts_localised_text_Att.Pro.Apulum.Info.014	A cartilagem pode ser usada para qualquer colapso estrutural.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.044	Se o General morrer, a moral do exército sofrerá muito e as unidades recusar-se-ão a reunir-se.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.041	O General é a unidade mais importante de um exército com muitas habilidades únicas.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.040	[[url:/manual/page/single-player/0085_enc_page_battle_play_phase_conflict_abilities#enc_text_manual_battle_conflict_abilities_generals]]O General:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.043	Habilidades de montagem e inspiração podem ser usadas para capacitar unidades aliadas específicas.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.042	fornecer um aumento de moral para unidades próximas.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.051	Condições climáticas adversárias podem ter vários efeitos nas tropas.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.050	[[url:/manual/page/single-player/0076_enc_page_battle_play_phase_delay]]Clima:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.052	A temporada no mapa de campanha é refletida no mapa de batalha.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.004	A infantaria é melhor posicionada em linha, onde cada unidade protege os flancos da unidade adjacente.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.001	[[url:/manual/page/single-player/0077_enc_page_battle_play_phase_deployment]]Implantação:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.003	Durante a implantação, as unidades podem ser colocadas em qualquer lugar dentro da zona marcada.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.002	Cada exército entra em campo antes da batalha, os defensores antes dos atacantes.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.014	Passe o cursor do mouse sobre um botão de habilidade para saber mais sobre essa habilidade específica.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.011	As unidades possuem habilidades que podem ser ativadas para ajudá-las em situações de batalha.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.010	[[url:/manual/page/single-player/0085_enc_page_battle_play_phase_conflict_abilities]]Habilidades da unidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.013	Escaramuça, disparar à vontade e tela de escudo são exemplos de habilidades de unidade.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.012	Habilidades e formações podem ser ativadas em uma unidade selecionada clicando no botão Habilidade na barra inferior.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.021	Um exército deve ter uma linha de visão para um inimigo para que esse inimigo seja visível.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.020	[[url:/manual/page/single-player/0078a_enc_page_battle_play_phase_conflict_visibility]]Visibilidade:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.022	As características do terreno, como colinas, podem bloquear a linha de visão.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.034	Os assentamentos geralmente contêm outras características defensivas, como barreiras que podem ser capturadas para benefício tático.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.031	Os assentamentos murados contêm um ponto de vitória que, se capturado, leva à vitória.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.030	[[url:/manual/page/single-player/0084_enc_page_battle_play_phase_conflict_sieges#enc_text_manual_army_battle_victory_points]]Pontos de vitória:[[/url]]	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.033	Assim que o Ponto de Vitória foi capturado, os tickets do defensor começam a contagem regressiva até zero, momento em que o atacante sai vitorioso.	1
+advice_info_texts_localised_text_Att.Pro.Petrodava.Info.032	Os pontos de vitória podem ser capturados colocando uma unidade próxima a eles enquanto não houver unidades inimigas por perto.	1

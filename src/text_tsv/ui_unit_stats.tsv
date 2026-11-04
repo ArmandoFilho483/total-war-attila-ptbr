@@ -1,0 +1,81 @@
+key	value	flag
+ui_unit_stats_onscreen_name_stat_bonus_vs_infantry	Ataque contra Infantaria	1
+ui_unit_stats_onscreen_name_stat_melee_damage_base	Dano Base Corpo a Corpo	1
+ui_unit_stats_onscreen_name_stat_charge_bonus	Bônus de Investida	1
+ui_unit_stats_tooltip_text_stat_capture_power	A velocidade com que uma unidade pode capturar diferentes locais em batalhas de assentamento.	1
+ui_unit_stats_tooltip_text_stat_charge_bonus	Isso aumenta o ataque e o dano corpo a corpo de uma unidade ao investir. Isso não representa o impacto físico da investida.	1
+ui_unit_stats_onscreen_name_stat_reloading	Cadência de Tiro	1
+ui_unit_stats_tooltip_text_stat_bonus_vs_elephants	O bônus corpo a corpo que esta unidade recebe ao lutar contra elefantes.	1
+ui_unit_stats_onscreen_name_stat_weapon_range	Alcance	1
+ui_unit_stats_tooltip_text_stat_weapon_range	Um longo alcance permite atingir inimigos à distância, mas as armas ainda são mais precisas em alcances mais curtos.	1
+ui_unit_stats_onscreen_name_stat_men_count	Contagem de Homens	1
+ui_unit_stats_tooltip_text_stat_melee_defence	Isso determina a chance de uma unidade ser atingida durante o combate corpo a corpo.||Isso funciona apenas no corpo a corpo e não oferece proteção contra projéteis!	1
+ui_unit_stats_onscreen_name_stat_bonus_vs_elephants	Ataque contra Elefantes	1
+ui_unit_stats_tooltip_text_stat_speed	A velocidade com que a unidade se move pelo campo de batalha.	1
+ui_unit_stats_tooltip_text_stat_ship_health	Vida do Navio	1
+ui_unit_stats_tooltip_text_stat_ammo	A quantidade de munição que esta unidade pode carregar para a batalha.||Uma vez esgotada, a unidade será forçada a mudar para o combate corpo a corpo para continuar lutando.||Após a batalha, a munição é totalmente reabastecida.	1
+ui_unit_stats_onscreen_name_stat_ship_health	Força do Casco	1
+ui_unit_stats_tooltip_text_stat_melee_attack	Isso determina a chance de um acerto bem-sucedido no inimigo quando a unidade está engajada em combate corpo a corpo.||Tropas endurecidas pela batalha ganharão experiência através do combate corpo a corpo, melhorando esta habilidade.	1
+ui_unit_stats_onscreen_name_stat_first_strike	Primeiro Ataque	1
+ui_unit_stats_onscreen_name_stat_ammo	Munição	1
+ui_unit_stats_tooltip_text_stat_missile_damage_base	Dano Base à Distância	1
+ui_unit_stats_tooltip_text_stat_first_strike	Determina quem ataca primeiro no início do combate.	1
+ui_unit_stats_onscreen_name_stat_missile_damage_base	Dano Base de Projéteis	1
+ui_unit_stats_onscreen_name_stat_melee_attack	Ataque Corpo a Corpo	1
+ui_unit_stats_tooltip_text_stat_shield_armour	Dano reduzido devido ao escudo.	1
+ui_unit_stats_onscreen_name_scalar_bracing	Massa da Entidade	1
+ui_unit_stats_tooltip_text_stat_weapon_damage	O dano causado pela arma de uma unidade, dividido entre base e perfurante de armadura.||Dano perfurante de armadura é sempre aplicado; dano base pode ser bloqueado pela armadura.	1
+ui_unit_stats_onscreen_name_stat_missile_block_chance	Chance de Bloqueio de Projéteis	1
+ui_unit_stats_onscreen_name_stat_missile_damage_ap	Dano Perfurante de Armadura	1
+ui_unit_stats_tooltip_text_stat_missile_block_chance	A chance percentual de que o escudo bloqueará projéteis (não artilharia). (%)	1
+ui_unit_stats_onscreen_name_stat_spotting	Avistamento	1
+ui_unit_stats_tooltip_text_stat_shield_defence	Bônus de defesa ou evasão obtido do escudo.	1
+ui_unit_stats_onscreen_name_stat_accuracy	Precisão	1
+ui_unit_stats_tooltip_text_stat_reloading	A taxa na qual esta unidade pode disparar.||Isso é melhorado com a experiência.	1
+ui_unit_stats_onscreen_name_scalar_entity_charge_speed_modifier	Velocidade de Investida	1
+ui_unit_stats_tooltip_text_stat_accuracy	A probabilidade de atingir o inimigo ao disparar.	1
+ui_unit_stats_tooltip_text_stat_health	Isso determina quantos golpes uma unidade pode suportar juntamente com a armadura e a defesa corpo a corpo.	1
+ui_unit_stats_tooltip_text_stat_spotting	De quão longe uma unidade pode avistar inimigos.	1
+ui_unit_stats_onscreen_name_stat_ship_douse_fire	Apagar Fogo	1
+ui_unit_stats_tooltip_text_stat_ship_douse_fire	Apagar Fogo	1
+ui_unit_stats_tooltip_text_stat_remaining_ammo	Adicionando munição a unidades navais.	1
+ui_unit_stats_onscreen_name_stat_bonus_vs_cavalry	Ataque contra Cavalaria	1
+ui_unit_stats_onscreen_name_scalar_entity_deceleration_modifier	Desaceleração	1
+ui_unit_stats_onscreen_name_scalar_entity_acceleration_modifier	Aceleração	1
+ui_unit_stats_tooltip_text_stat_armour	O quão resistente uma unidade é a disparos de projéteis e ataques corpo a corpo.	1
+ui_unit_stats_tooltip_text_stat_bonus_vs_cavalry	O bônus corpo a corpo que esta unidade recebe ao lutar contra cavalaria e elefantes.	1
+ui_unit_stats_tooltip_text_stat_bonus_vs_infantry	O bônus corpo a corpo que esta unidade recebe ao lutar contra infantaria.	1
+ui_unit_stats_tooltip_text_stat_melee_damage_base	Base de Dano Corpo a Corpo	1
+ui_unit_stats_tooltip_text_stat_ship_health_fire	Quanto dano de fogo o navio pode sustentar antes de pegar fogo.	1
+ui_unit_stats_onscreen_name_stat_ship_health_fire	Resistência ao Fogo	1
+ui_unit_stats_tooltip_text_stat_morale	Uma unidade com moral alta tem menos probabilidade de fugir diante do perigo. A moral é melhorada pela experiência em batalha.	1
+ui_unit_stats_tooltip_text_stat_defence	Potencial de defesa da unidade	1
+ui_unit_stats_onscreen_name_stat_defence	Defesa	1
+ui_unit_stats_tooltip_text_stat_attack	Potencial de ataque da unidade	1
+ui_unit_stats_tooltip_text_stat_missile_damage	O dano causado por um ataque de projétil, dividido entre base, perfurante de armadura e explosivo.||Dano perfurante de armadura é sempre aplicado, dano base e explosivo podem ser bloqueados pela armadura.||Dano explosivo tem uma área de efeito.	1
+ui_unit_stats_tooltip_text_stat_hiding	O quão bem esta unidade pode se esconder.	1
+ui_unit_stats_onscreen_name_stat_capture_power	Poder de Captura	1
+ui_unit_stats_onscreen_name_stat_shield_armour	Armadura do Escudo	1
+ui_unit_stats_tooltip_text_scalar_bracing	n/a	1
+ui_unit_stats_onscreen_name_stat_ship_move_speed	Velocidade	1
+ui_unit_stats_onscreen_name_stat_weapon_damage	Dano Corpo a Corpo	1
+ui_unit_stats_tooltip_text_stat_ship_move_speed	Quão rapidamente o navio é capaz de se mover.	1
+ui_unit_stats_tooltip_text_scalar_spotting_range	Uma maneira de alterar o alcance padrão no qual uma unidade pode avistar outras escondidas.	1
+ui_unit_stats_onscreen_name_scalar_spotting_range	Alcance de Avistamento	1
+ui_unit_stats_tooltip_text_stat_melee_damage_ap	Dano Corpo a Corpo PA	1
+ui_unit_stats_onscreen_name_stat_melee_damage_ap	Dano Perfurante de Armadura	1
+ui_unit_stats_onscreen_name_stat_hiding	Ocultação	1
+ui_unit_stats_onscreen_name_stat_missile_damage	Dano de Projétil	1
+ui_unit_stats_tooltip_text_stat_missile_damage_ap	Dano PA à Distância	1
+ui_unit_stats_onscreen_name_stat_attack	Ataque	1
+ui_unit_stats_onscreen_name_stat_morale	Moral	1
+ui_unit_stats_tooltip_text_stat_men_count	Número padrão de homens que uma unidade possui.	1
+ui_unit_stats_onscreen_name_stat_health	Vida	1
+ui_unit_stats_onscreen_name_stat_melee_defence	Defesa Corpo a Corpo	1
+ui_unit_stats_tooltip_text_scalar_entity_charge_speed_modifier	A velocidade adicional usada para a investida na distância final até o alvo.	1
+ui_unit_stats_onscreen_name_stat_speed	Velocidade	1
+ui_unit_stats_onscreen_name_stat_shield_defence	Defesa do Escudo	1
+ui_unit_stats_onscreen_name_stat_armour	Armadura	1
+ui_unit_stats_tooltip_text_scalar_entity_deceleration_modifier	A taxa na qual a unidade desacelera até parar.	1
+ui_unit_stats_tooltip_text_scalar_entity_acceleration_modifier	A taxa na qual a unidade acelera.	1
+ui_unit_stats_onscreen_name_stat_remaining_ammo	Munição Adicionada	1

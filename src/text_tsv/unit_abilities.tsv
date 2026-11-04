@@ -1,0 +1,153 @@
+key	value	flag
+unit_abilities_tooltip_text_steady_advance	Avanço Firme||	1
+unit_abilities_tooltip_text_steady_retreat	Firme||Melhora a habilidade da unidade de se defender ao custo de sua mobilidade.	1
+unit_abilities_tooltip_text_com_force_concentration	Concentração de Força||Mire unidades amigas para melhorar muito suas capacidades ofensivas e tornar sua moral inquebrável por um longo período. Só pode ser usado uma vez por batalha.	1
+unit_abilities_tooltip_text_att_ramming_speed	Velocidade de Abalroamento!||Aumenta a velocidade de um navio a fim de causar maior dano quando ele atinge o inimigo.	1
+unit_abilities_tooltip_text_com_taunt_group	Provocar Grupo||	1
+unit_abilities_tooltip_text_precision_shot	Tiro de Precisão||Dano de arma de projétil melhorado por um longo período. Esses valores são modificados ainda mais pela própria unidade.	1
+unit_abilities_tooltip_text_com_inspire_group	Inspirar Grupo||Seu general melhora as habilidades de combate de unidades amigas dentro de sua área de influência por um curto período.	1
+unit_abilities_tooltip_text_frenzy	Frenesi||Melhora as capacidades de ataque de uma unidade por um longo período de tempo.	1
+unit_abilities_tooltip_text_a_mp_test_15	Encurralar e Chacinar||Uma formação circular que permite a entrada de entidades, mas não a saída. Todas as entidades dentro da formação são expostas a um dano devastador em área.	1
+unit_abilities_tooltip_text_a_mp_test_14	Arena - Preparar-se||A unidade aplica uma postura preparada que nega qualquer bônus de investida e reflete um ataque inicial.	1
+unit_abilities_tooltip_text_a_mp_test_17	Arena - Levantar Escudos||A unidade conjuradora levanta seus escudos, aumentando sua chance de deflexão de projéteis.	1
+unit_abilities_tooltip_text_a_mp_test_16	Arena - Desmontar Único||Faz com que uma unidade de cavalaria desmonte de seus cavalos, tornando-se uma unidade de infantaria corpo a corpo. Esta é uma ação irreversível, pois os cavalos fugirão instantaneamente após a execução do desmonte.	1
+unit_abilities_tooltip_text_a_mp_test_11	Arena - Grito de Guerra||Coloca a unidade conjuradora em um grito de guerra cheio de adrenalina. Isso aplica um bônus de moral a unidades aliadas com uma AdE.	1
+unit_abilities_tooltip_text_a_mp_test_10	Barragem||A unidade aumenta sua cadência de tiro, retardando tipos específicos de unidades.	1
+unit_abilities_tooltip_text_a_mp_test_13	Arena - Espadas de Madeira, Roubar Corações||A unidade conjuradora está desesperada e mal equipada. Eles expõem suas emoções em uma corrida tipo berserk. Causando um alto nível de dano e ignorando qualquer dano recebido por um período de tempo	1
+unit_abilities_tooltip_text_a_mp_test_12	Arena - Segurar a Linha||A unidade conjuradora grita para os homens permanecerem na fileira. Todas as unidades aliadas em combate corpo a corpo dentro de uma AdE recebem um bônus de defesa corpo a corpo.	1
+unit_abilities_tooltip_text_form_testudo_defensive	Testudo Estática||As tropas desta unidade levantam seus escudos acima de suas cabeças em uma formação defensiva estática.	1
+unit_abilities_tooltip_text_warcry	Grito de Guerra||	1
+unit_abilities_tooltip_text_com_we_stand_and_fight	Resistir e Lutar||	1
+unit_abilities_tooltip_text_cantabrian_circle	Círculo Cantábrico||A unidade dispara enquanto cavalga em círculo.	1
+unit_abilities_tooltip_text_light_infantry_behaviour	Comportamento de Infantaria Leve||	1
+unit_abilities_tooltip_text_com_relentless	Implacável||Seu general melhora levemente as capacidades ofensivas de todas as unidades enquanto remove sua fadiga temporariamente. Só pode ser usado uma vez por batalha.	1
+unit_abilities_tooltip_text_att_gen_presence_02	Presença II||Diminui o tempo de recarga de habilidades dos aliados em uma área alvo.	1
+unit_abilities_tooltip_text_att_gen_presence_03	Presença III||Diminui o tempo de recarga de habilidades dos aliados em uma área alvo.	1
+unit_abilities_tooltip_text_att_gen_presence_01	Presença I||Diminui o tempo de recarga de habilidades dos aliados em uma área alvo.	1
+unit_abilities_tooltip_text_att_gen_presence_04	Presença IV||Diminui o tempo de recarga de habilidades dos aliados em uma área alvo.	1
+unit_abilities_tooltip_text_att_gen_presence_05	Presença V||Diminui o tempo de recarga de habilidades dos aliados em uma área alvo.	1
+unit_abilities_tooltip_text_form_pike_wall	Parede de Piques||A unidade se move para uma formação defensiva profunda e fechada.	1
+unit_abilities_tooltip_text_kill_elephants	Matar Elefantes||Os condutores de elefantes matarão suas montarias com estacas. Para ser usado apenas se eles entrarem em fúria.	1
+unit_abilities_tooltip_text_form_flying_wedge	Cunha Volante||A unidade se move para uma formação de ataque em forma de cunha volante.	1
+unit_abilities_tooltip_text_com_second_wind	Segundo Fôlego||Mire uma unidade amiga para remover qualquer fadiga que ela possa ter.	1
+unit_abilities_tooltip_text_screech	Assustar||Reduz a moral de uma unidade inimiga por um longo período de tempo.	1
+unit_abilities_tooltip_text_com_inspire_unit	Inspirar||Mire unidades amigas para melhorar suas habilidades de combate por um curto período.	1
+unit_abilities_tooltip_text_form_shield_wall	Parede de Escudos||A unidade se move para uma formação fechada e levanta escudos.	1
+unit_abilities_tooltip_text_com_war_cry_group	Grupo de Grito de Guerra||Reduz a moral das unidades inimigas dentro da área de influência do seu general por um curto período.	1
+unit_abilities_tooltip_text_com_unity	Unidade das Tribos||Seu general melhora levemente a moral de todas as unidades por um longo período. Só pode ser usado uma vez por batalha.	1
+unit_abilities_tooltip_text_att_gen_inspire_04	Inspirar IV||Mire unidades amigas para aumentar suas capacidades de ataque e habilidades de projéteis por um curto período.	1
+unit_abilities_tooltip_text_att_gen_inspire_05	Inspirar V||Mire unidades amigas para aumentar suas capacidades de ataque e habilidades de projéteis por um curto período.	1
+unit_abilities_tooltip_text_att_gen_inspire_02	Inspirar II||Mire unidades amigas para aumentar suas capacidades de ataque e habilidades de projéteis por um curto período.	1
+unit_abilities_tooltip_text_att_gen_inspire_03	Inspirar III||Mire unidades amigas para aumentar suas capacidades de ataque e habilidades de projéteis por um curto período.	1
+unit_abilities_tooltip_text_att_gen_inspire_01	Inspirar I||Mire unidades amigas para aumentar suas capacidades de ataque e habilidades de projéteis por um curto período.	1
+unit_abilities_tooltip_text_com_push	Empurrar||Mire uma unidade inimiga para reduzir sua defesa contra investidas e defesa corpo a corpo por um curto período.	1
+unit_abilities_tooltip_text_com_fast_charge	Investida Rápida||Mire unidades amigas para melhorar sua velocidade e investida por um longo período. Só pode ser usado uma vez por batalha.	1
+unit_abilities_tooltip_text_com_shock_and_awe	Enjoo||Como estes homens são marinheiros inexperientes. Presos em combate no mar, sofrem várias penalidades.	1
+unit_abilities_tooltip_text_form_pike_square	Quadrado||A unidade se move para uma formação quadrada fechada. Note que ela não pode se mover enquanto esta habilidade estiver ativa.	1
+unit_abilities_tooltip_text_fire_and_advance	Disparar e Avançar||	1
+unit_abilities_tooltip_text_com_brace	Firmar||Mire unidades amigas para melhorar sua resistência contra investidas por um curto período.	1
+unit_abilities_tooltip_text_stampede	Estouro||Investidas são mais eficazes por um longo tempo.	1
+unit_abilities_tooltip_text_com_raise_banner	Levantar Estandarte||Aumenta a área de influência do seu general e melhora a defesa do exército por um longo período.	1
+unit_abilities_tooltip_text_com_pride	Orgulho||Seu general melhora muito a eficácia da capacidade de perfuração de armadura de uma unidade próxima. Só pode ser usado uma vez por batalha.	1
+unit_abilities_tooltip_text_cavalry_counter_tactics	Contra-táticas de Cavalaria||Melhora o dano da unidade contra cavalaria por um longo tempo.	1
+unit_abilities_tooltip_text_headhunt	Inquebrável||A moral da unidade não pode ser quebrada por um longo período de tempo.	1
+unit_abilities_tooltip_text_frenzied_charge	Investida Frenética||Aumenta a eficácia da investida da unidade por um longo período.	1
+unit_abilities_tooltip_text_trample	Atropelar||Investidas são mais eficazes por um longo tempo.	1
+unit_abilities_tooltip_text_com_rally	Reagrupar||Melhora a moral de unidades amigas dentro da área de influência do seu general.	1
+unit_abilities_tooltip_text_com_battle_rhythm	Ritmo de Batalha||Mire unidades amigas para gradualmente melhorar suas habilidades de combate por um longo tempo.	1
+unit_abilities_tooltip_text_com_taunt	Provocar||	1
+unit_abilities_tooltip_text_form_diamond	Diamante||A unidade se move para uma formação de ataque em forma de diamante.	1
+unit_abilities_tooltip_text_dylans_test_2	dylan test 2	1
+unit_abilities_tooltip_text_dylans_test_1	dylan test 1	1
+unit_abilities_tooltip_text_form_hollow_square	Quadrado Vazio||	1
+unit_abilities_tooltip_text_form_testudo	Testudo Móvel||As tropas desta unidade levantam seus escudos acima de suas cabeças em uma formação defensiva.	1
+unit_abilities_tooltip_text_refill_ammo	Reabastecer Munição||Durante um conflito naval, tropas de projéteis podem reabastecer munição ao custo de mobilidade por um curto período.	1
+unit_abilities_tooltip_text_com_the_fear_group	Intimidar||Impede que uma única unidade inimiga ative suas habilidades por um longo período.	1
+unit_abilities_tooltip_text_quick_reload	Barragem||Dispara projéteis com mais frequência por um longo período de tempo.	1
+unit_abilities_tooltip_text_second_wind	Segundo Fôlego||	1
+unit_abilities_tooltip_text_com_rally_and_inspire	Reagrupar e Inspirar||Mire unidades amigas para melhorar suas habilidades de combate e moral por um curto período.	1
+unit_abilities_tooltip_text_form_wedge	Cunha||A unidade se move para uma formação de ataque em forma de cunha.	1
+unit_abilities_tooltip_text_att_gen_war_03	Grito de Guerra III||Alveja unidades inimigas e reduz sua moral por um curto período.	1
+unit_abilities_tooltip_text_att_gen_war_02	Grito de Guerra II||Alveja unidades inimigas e reduz sua moral por um curto período.	1
+unit_abilities_tooltip_text_att_gen_war_01	Grito de Guerra I||Alveja unidades inimigas e reduz sua moral por um curto período.	1
+unit_abilities_tooltip_text_att_gen_war_05	Grito de Guerra V||Alveja unidades inimigas e reduz sua moral por um curto período.	1
+unit_abilities_tooltip_text_att_gen_war_04	Grito de Guerra IV||Alveja unidades inimigas e reduz sua moral por um curto período.	1
+unit_abilities_tooltip_text_att_gen_second_02	Segundo Fôlego II||Diminui a fadiga de unidades amigas dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_att_gen_second_03	Segundo Fôlego III||Diminui a fadiga de unidades amigas dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_att_gen_second_01	Segundo Fôlego I||Diminui a fadiga de unidades amigas dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_att_gen_second_04	Segundo Fôlego IV||Diminui a fadiga de unidades amigas dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_att_gen_second_05	Segundo Fôlego V||Diminui a fadiga de unidades amigas dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_frenzied_charge_inf	Investida Frenética||Aumenta a eficácia da investida da unidade por um longo período.	1
+unit_abilities_tooltip_text_rapid_volley	Voleio Rápido||	1
+unit_abilities_tooltip_text_form_cavalry_testudo	Testudo de Cavalaria||A unidade levanta seus escudos e vira em direção ao agressor.	1
+unit_abilities_tooltip_text_a_mp_test_6	Arena - Façam Valer||A unidade conjuradora foca sua visão disparando um voleio devastador.	1
+unit_abilities_tooltip_text_a_mp_test_7	Arena - Conveterani||Aplica um bônus de moral dentro de uma AdE a qualquer unidade que tenha menos experiência que a unidade conjuradora.	1
+unit_abilities_tooltip_text_a_mp_test_4	Ira Eslava||Svarog forjou armas de ferro, para que nossos inimigos pudessem ser esmagados. Disponível para todas as unidades eslavas assim que a maravilha Santuário de Fogo de Svarog for construída. Dá bônus ao ataque e defesa corpo a corpo das unidades.	1
+unit_abilities_tooltip_text_a_mp_test_5	Furtividade do Caçador||Como o lobo, espreitamos nossos inimigos antes do golpe mortal. Dá alcance aumentado para unidades de projéteis eslavas por um curto período de tempo.	1
+unit_abilities_tooltip_text_a_mp_test_2	Espírito do Lobo||O inimigo sente nosso espírito selvagem antes que um único golpe tenha sido desferido. Disponível para todas as unidades eslavas assim que a maravilha Templo dos Lobos Flamejantes for construída. Causa penalidade de -20 de moral para todas as unidades inimigas.	1
+unit_abilities_tooltip_text_a_mp_test_3	Última Resistência||Homens nascidos da forja são mais resistentes e resolutos. Disponível para todas as unidades eslavas em uma província contendo um edifício religioso dedicado a Perun. As unidades ficam imóveis por 2 minutos, sua moral torna-se inquebrável, sua fadiga é anulada e bônus de ataque e defesa corpo a corpo são dados.	1
+unit_abilities_tooltip_text_a_mp_test_1	Cunha de Infantaria||Abra caminho para o outro lado. A unidade se move para uma formação de ataque em forma de cunha.	1
+unit_abilities_tooltip_text_a_mp_test_8	Arena - Aquila||Aplica um bônus de moral dentro de uma AdE. No entanto, se a unidade conjuradora fugir ou morrer, quaisquer unidades dentro da AdE recebem uma grande penalidade de moral.	1
+unit_abilities_tooltip_text_a_mp_test_9	Arena - Tensão||Molas de torção são esticadas demais, resultando em maior alcance e dano ao custo de N de dano à arma. O uso excessivo pode fazer com que a arma colapse.	1
+unit_abilities_tooltip_text_com_loyalty	Lealdade da 10ª||Mire unidades amigas para melhorar muito suas capacidades defensivas e tornar sua moral inquebrável por um longo período. Só pode ser usado uma vez por batalha.	1
+unit_abilities_tooltip_text_com_into_the_breach	Pela Brecha||Mire unidades amigas para melhorar sua investida por um curto período.	1
+unit_abilities_tooltip_text_killing_spree	Matança||Aumenta o dano da arma por um longo período.	1
+unit_abilities_tooltip_text_form_hoplite_phalanx	Parede de Lanças||A unidade se move para uma formação de parede fechada.	1
+unit_abilities_tooltip_text_form_shield_screen	Barreira de Escudos||A unidade levanta seus escudos em uma formação defensiva estática.	1
+unit_abilities_tooltip_text_com_presence	Presença||Seu general reduz o tempo de recarga das habilidades de unidades próximas em 60 segundos. Só pode ser usado uma vez por batalha.	1
+unit_abilities_tooltip_text_com_war_cry	Grito de Guerra||Reduz a moral de um único inimigo por um curto período.	1
+unit_abilities_tooltip_text_com_the_fear	O Medo||Impede que quaisquer unidades inimigas capturadas dentro da área de influência do seu general ativem suas habilidades por um longo período.	1
+unit_abilities_tooltip_text_use_the_whip	Usar o Chicote||Defesa e resistência à fadiga melhoradas por um curto período ao custo de esforço excessivo.	1
+unit_abilities_tooltip_text_rapid_advance	Avanço Rápido||Velocidade de movimento da unidade melhorada por um longo período.	1
+unit_abilities_tooltip_text_chant	Encorajar||Melhora a moral de uma unidade amiga por um longo período de tempo.	1
+unit_abilities_tooltip_text_douse_fire	Apagar Fogo||Sacrifica a mobilidade do seu navio por um curto período para focar esforços em apagar o incêndio.	1
+unit_abilities_tooltip_text_com_second_wind_group	Grupo de Segundo Fôlego||Seu general remove a fadiga de quaisquer unidades amigas dentro de sua área de influência.	1
+unit_abilities_tooltip_text_att_gen_fast_05	Investida Rápida V||Mire unidades amigas para melhorar sua velocidade e investida por um curto período.	1
+unit_abilities_tooltip_text_att_gen_fast_04	Investida Rápida IV||Mire unidades amigas para melhorar sua velocidade e investida por um curto período.	1
+unit_abilities_tooltip_text_att_gen_fast_03	Investida Rápida III||Mire unidades amigas para melhorar sua velocidade e investida por um curto período.	1
+unit_abilities_tooltip_text_att_gen_fast_02	Investida Rápida II||Mire unidades amigas para melhorar sua velocidade e investida por um curto período.	1
+unit_abilities_tooltip_text_att_gen_fast_01	Investida Rápida I||Mire unidades amigas para melhorar sua velocidade e investida por um curto período.	1
+unit_abilities_tooltip_text_com_rally_position	Posição de Reagrupamento||	1
+unit_abilities_tooltip_text_att_gen_fear_05	Medo V||Mire unidades inimigas para impedi-las de usar suas habilidades especiais por um curto período.	1
+unit_abilities_tooltip_text_att_gen_fear_04	Medo IV||Mire unidades inimigas para impedi-las de usar suas habilidades especiais por um curto período.	1
+unit_abilities_tooltip_text_att_gen_fear_01	Medo I||Mire unidades inimigas para impedi-las de usar suas habilidades especiais por um curto período.	1
+unit_abilities_tooltip_text_att_gen_fear_03	Medo III||Mire unidades inimigas para impedi-las de usar suas habilidades especiais por um curto período.	1
+unit_abilities_tooltip_text_att_gen_fear_02	Medo II||Mire unidades inimigas para impedi-las de usar suas habilidades especiais por um curto período.	1
+unit_abilities_tooltip_text_ferocious_warriors	Guerreiros Ferozes||Esta unidade danifica seus atacantes mesmo enquanto sofre baixas.	1
+unit_abilities_tooltip_text_com_spirit	Espírito de Luta||Seu general melhora muito as capacidades defensivas de unidades próximas enquanto as torna inquebráveis por um longo período. Só pode ser usado uma vez por batalha.	1
+unit_abilities_tooltip_text_att_gen_power_03	Força nos Remos III||Mire navios amigos para aumentar sua taxa de remada por um curto período.	1
+unit_abilities_tooltip_text_att_gen_power_02	Força nos Remos II||Mire navios amigos para aumentar sua taxa de remada por um curto período.	1
+unit_abilities_tooltip_text_att_gen_power_01	Força nos Remos I||Mire navios amigos para aumentar sua taxa de remada por um curto período.	1
+unit_abilities_tooltip_text_att_gen_power_05	Força nos Remos V||Mire navios amigos para aumentar sua taxa de remada por um curto período.	1
+unit_abilities_tooltip_text_att_gen_power_04	Força nos Remos IV||Mire navios amigos para aumentar sua taxa de remada por um curto período.	1
+unit_abilities_tooltip_text_draco	Acender Pavio||Um curto período é necessário entre arremessos para preparar o pote de nafta e o pavio.	1
+unit_abilities_tooltip_text_att_gen_rally_02	Reagrupar||Melhora a moral para unidades amigas dentro de uma área de influência lançada pelo seu general.	1
+unit_abilities_tooltip_text_att_gen_rally_03	Reagrupar||Melhora a moral para unidades amigas dentro de uma área de influência lançada pelo seu general.	1
+unit_abilities_tooltip_text_att_gen_rally_01	Reagrupar||Melhora a moral para unidades amigas dentro de uma área de influência lançada pelo seu general.	1
+unit_abilities_tooltip_text_att_gen_rally_04	Reagrupar||Melhora a moral para unidades amigas dentro de uma área de influência lançada pelo seu general.	1
+unit_abilities_tooltip_text_att_gen_rally_05	Reagrupar||Melhora a moral para unidades amigas dentro de uma área de influência lançada pelo seu general.	1
+unit_abilities_tooltip_text_hard_20	Remar Forte 20||Aumenta a velocidade por 20 remadas.	1
+unit_abilities_tooltip_text_hard_30	Remar Forte 30||Aumenta a velocidade por 30 remadas.	1
+unit_abilities_tooltip_text_hard_10	Remar Forte 10||Aumenta a velocidade por 10 remadas.	1
+unit_abilities_tooltip_text_att_gen_raise_05	Levantar Estandarte V||Aumenta as capacidades de defesa de unidades dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_att_gen_raise_04	Levantar Estandarte IV||Aumenta as capacidades de defesa de unidades dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_att_gen_raise_01	Levantar Estandarte I||Aumenta as capacidades de defesa de unidades dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_att_gen_raise_03	Levantar Estandarte III||Aumenta as capacidades de defesa de unidades dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_att_gen_raise_02	Levantar Estandarte II||Aumenta as capacidades de defesa de unidades dentro de uma área alvo por um curto período.	1
+unit_abilities_tooltip_text_focus_fire	Focar Disparo	1
+unit_abilities_tooltip_text_a_mp_test_5_test	Arena - Sede de Sangue||A velocidade de ataque das unidades conjuradoras é aumentada por um período de tempo definido.	1
+unit_abilities_tooltip_text_a_mp_test_4_test	Arena - investida_de_cavalaria_1	1
+unit_abilities_tooltip_text_a_mp_test_1_test	Arena - Marcha Rápida||	1
+unit_abilities_tooltip_text_att_gen_brace_05	Firmar V||Mire unidades amigas para melhorar sua resistência a investidas por um curto período.	1
+unit_abilities_tooltip_text_att_gen_brace_04	Firmar IV||Mire unidades amigas para melhorar sua resistência a investidas por um curto período.	1
+unit_abilities_tooltip_text_att_gen_brace_01	Firmar I||Mire unidades amigas para melhorar sua resistência a investidas por um curto período.	1
+unit_abilities_tooltip_text_att_gen_brace_03	Firmar III||Mire unidades amigas para melhorar sua resistência a investidas por um curto período.	1
+unit_abilities_tooltip_text_att_gen_brace_02	Firmar II||Mire unidades amigas para melhorar sua resistência a investidas por um curto período.	1
+unit_abilities_tooltip_text_a_mp_test_3_test	Arena - investida_de_infantaria_pesada_1	1
+unit_abilities_tooltip_text_manual_charge	Investida Manual	1
+unit_abilities_tooltip_text_a_mp_test_2_test	Arena - investida_de_infantaria_1	1
+unit_abilities_tooltip_text_att_gen_recon_01	Reconhecimento I||Melhora o alcance de avistamento de um grupo de unidades amigas por um curto período.	1
+unit_abilities_tooltip_text_att_gen_recon_03	Reconhecimento III||Melhora o alcance de avistamento de um grupo de unidades amigas por um curto período.	1
+unit_abilities_tooltip_text_att_gen_recon_02	Reconhecimento II||Melhora o alcance de avistamento de um grupo de unidades amigas por um curto período.	1
+unit_abilities_tooltip_text_att_gen_recon_05	Reconhecimento V||Melhora o alcance de avistamento de um grupo de unidades amigas por um curto período.	1
+unit_abilities_tooltip_text_att_gen_recon_04	Reconhecimento IV||Melhora o alcance de avistamento de um grupo de unidades amigas por um curto período.	1

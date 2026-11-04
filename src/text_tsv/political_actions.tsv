@@ -1,0 +1,29 @@
+key	value	flag
+political_actions_onscreen_description_borrow_family_money	[PH]	1
+political_actions_onscreen_description_embezzle_funds	Tentativa de complementar o tesouro de guerra através da desonestidade e da contabilidade criativa.	1
+political_actions_onscreen_name_borrow_family_money	[[col:yellow]]Pedir dinheiro emprestado[[/col]]	1
+political_actions_onscreen_name_adopt	[[col:yellow]]Adotar[[/col]]	1
+political_actions_onscreen_description_seek_office	Busque um cargo ministerial importante, permitindo-lhe colocar sua experiência em prática para o bem de seu povo e de si mesmo.	1
+political_actions_onscreen_description_diminish_popularity	Planeje desacreditar outro personagem, diminuindo assim sua influência.	1
+political_actions_onscreen_description_gather_support	Procure o apoio da elite, fortalecendo assim o seu controle sobre a situação política.	1
+political_actions_onscreen_name_assassinate	[[col:yellow]]Assassinar[[/col]]	1
+political_actions_onscreen_description_adopt	Proponha a adoção de um membro que não seja da família para que seus esforços futuros possam servir aos interesses de sua família.\n\nIsso aumentará a lealdade deles, mas diminuirá a de seus atuais filhos adultos.	1
+political_actions_onscreen_description_return_home	[PH]	1
+political_actions_onscreen_name_diminish_popularity	[[col:yellow]]Diminuir popularidade[[/col]]	1
+political_actions_onscreen_name_seek_office	[[col:yellow]]Promover para Office[[/col]]	1
+political_actions_onscreen_name_return_home	[PH]	1
+political_actions_onscreen_description_secure_loyalty	Tentativa de melhorar a lealdade de um personagem à nação, diminuindo sua chance de desertar.	1
+political_actions_onscreen_description_assassinate	Planeje o assassinato de um personagem, garantindo que ele não seja mais uma ameaça ou um fardo para sua família.	1
+political_actions_onscreen_description_divorce	Procure acabar com o vínculo entre você e seu cônjuge para que possam seguir caminhos separados.	1
+political_actions_onscreen_description_default	[PH]	1
+political_actions_onscreen_description_marriage	Procure se casar com um membro não familiar elegível de sua escolha.	1
+political_actions_onscreen_name_gather_support	[[col:yellow]]Reúna apoio[[/col]]	1
+political_actions_onscreen_name_become_retainer	[[col:yellow]]Torne-se Retentor[[/col]]	1
+political_actions_onscreen_name_secure_loyalty	[[col:yellow]]Lealdade segura[[/col]]	1
+political_actions_onscreen_name_divorce	[[col:yellow]]Divórcio[[/col]]	1
+political_actions_onscreen_description_seek_wife	Passe o tempo cortejando esposas em potencial na esperança de encontrar uma noiva adequada.	1
+political_actions_onscreen_name_default	[PH]	1
+political_actions_onscreen_description_become_retainer	Solicite o privilégio de acompanhar outro personagem mais experiente para que você possa ganhar experiência com suas façanhas.	1
+political_actions_onscreen_name_marriage	[[col:yellow]]Arranjar casamento[[/col]]	1
+political_actions_onscreen_name_seek_wife	[[col:yellow]]Procurar Esposa[[/col]]	1
+political_actions_onscreen_name_embezzle_funds	[[col:yellow]]Desviar fundos[[/col]]	1

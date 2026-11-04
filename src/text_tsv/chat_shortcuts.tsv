@@ -1,0 +1,13 @@
+key	value	flag
+chat_shortcuts_description_unblock	desbloqueia bate-papo e voz de jogadores específicos (/unblock player_name)	1
+chat_shortcuts_description_profile	mostra o perfil do jogador especificado (/profile player_name)	1
+chat_shortcuts_description_r	responder à última pessoa que sussurrou para você (/r mensagem)	1
+chat_shortcuts_description_pm	enviar mensagem privada para o jogador especificado (/pm mensagem player_name)	1
+chat_shortcuts_description_unmute	ativa o bate-papo e a voz de jogadores específicos para a sessão atual (/ativa o som do player_name)	1
+chat_shortcuts_description_team	conversar com jogadores do time atual (/mensagem do time)	1
+chat_shortcuts_description_help	mostra todos os comandos de atalho de chat disponíveis para a área de jogo atual (/help)	1
+chat_shortcuts_description_block	bloqueia o bate-papo e a voz de jogadores específicos permanentemente até ser desbloqueado (/block player_name)	1
+chat_shortcuts_description_mute	silencia o bate-papo e a voz de jogadores específicos para a sessão atual (/mute player_name)	1
+chat_shortcuts_description_invite	convida o jogador especificado para o jogo atual (/invite player_name)	1
+chat_shortcuts_description_all	conversar com todos os jogadores no jogo atual (/all message)	1
+chat_shortcuts_description_add	adiciona o jogador especificado como amigo (/add player_name)	1

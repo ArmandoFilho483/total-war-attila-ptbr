@@ -1,0 +1,23 @@
+key	value	flag
+campaign_politics_strings_string_fail_power	Você não tem influência suficiente.	1
+campaign_politics_strings_string_fail_money	Você não tem dinheiro suficiente.	1
+campaign_politics_strings_string_assassinate_result_target_wounded	O personagem alvo foi ferido.	1
+campaign_politics_strings_string_get_into_position_age_requirement	Este personagem deve ter pelo menos %n anos.	1
+campaign_politics_strings_string_get_into_position_rank_requirement	Este personagem deve ter classificação %n ou superior.	1
+campaign_politics_strings_string_get_into_position_age_and_rank_requirement	Este personagem deve ter pelo menos %n anos e classificação %n ou superior.	1
+campaign_politics_strings_string_divorce_desc	Force esse personagem a se divorciar de sua esposa.	1
+campaign_politics_strings_string_spread_rumours_desc	Espalhe rumores sobre esse personagem para diminuir sua seriedade.	1
+campaign_politics_strings_string_bribe_desc	Suborne esse personagem para trazê-lo para sua festa. O personagem alvo perderá a seriedade se aceitar.	1
+campaign_politics_strings_string_power_cost	Influência: %d	1
+campaign_politics_strings_string_money_cost	Custo: %d	1
+campaign_politics_strings_string_marry_desc	Organize um casamento entre este homem e um de seus parentes distantes. Este evento ganhará influência para a parte mais fraca.	1
+campaign_politics_strings_string_adopt_desc	Adote esse personagem em sua festa.	1
+campaign_politics_strings_string_assassinate_desc	Tente assassinar esse personagem.	1
+campaign_politics_strings_string_assassinate_fail_faction_leader	Você não pode assassinar o líder da sua facção.	1
+campaign_politics_strings_string_adoption_accepted_desc	Personagem adotado	1
+campaign_politics_strings_string_bribe_fail_party_leader	Os chefes dos partidos não podem ser subornados.	1
+campaign_politics_strings_string_adopt_fail_party_leader	Chefes de partido não podem ser adotados.	1
+campaign_politics_strings_string_blackmail_gravitas_loss	%n gravidades	1
+campaign_politics_strings_string_get_into_position_desc	Use sua influência para promover esse personagem a um cargo superior.	1
+campaign_politics_strings_string_assassinate_result_target_killed	O personagem alvo foi morto.	1
+campaign_politics_strings_string_assassinate_wife_desc	Tentativa de assassinar a esposa deste personagem.	1

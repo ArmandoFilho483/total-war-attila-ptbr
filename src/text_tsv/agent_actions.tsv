@@ -1,0 +1,97 @@
+key	value	flag
+agent_actions_localised_action_description_att_agent_action_spy_hinder_province_corruption	[[col:yellow]]Aumenta a corrupção na província alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_settlement_compromise_security	[[col:yellow]]Reduz os atributos de segurança da província do assentamento alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_province_discourage_populace	Desencorajar a população	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_province_corruption	Corrupção	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_army_harass_army	[[col:yellow]]Inflige baixas menores em várias unidades do exército alvo.[[/col]]	1
+agent_actions_localised_action_name_cha_agent_action_bargain_supplies	Negociação de suprimentos	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_army_assault_unit	[[col:yellow]]Inflige dano a uma unidade específica do exército alvo.[[/col]]	1
+agent_actions_localised_action_description_cha_agent_action_bargain_supplies	[[col:yellow]]Aumenta a taxa de reabastecimento de militares na região local e permite o reabastecimento em território inimigo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_spy_passive_ability_infiltrate	[[col:yellow]]Torna o agente invisível no mapa de campanha, a menos que seja descoberto por forças rivais.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_army_harass_army	Assediar o Exército	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_army_misdirect_army	[[col:yellow]]Reduz o alcance de movimento da campanha do exército alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_army_ruin_provisions	Arruinar Provisões	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_settlement_ruin_stores	[[col:yellow]]Reduz a produção de alimentos e aumenta a miséria no assentamento alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_spy_passive_ability_infiltrate	Infiltrado	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_army_misdirect_army	Desorientar o Exército	1
+agent_actions_localised_action_description_cha_agent_action_extort	[[col:yellow]]Obriga o agente alvo a se juntar à sua causa.[[/col]]	1
+agent_actions_localised_action_name_cha_agent_action_extort	Extorquir	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_army_compromise_command	Comprometer Comando	1
+agent_actions_localised_action_name_att_agent_action_champion_passive_ability_military_supply	Fornecimento Militar	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_character_assault	[[col:yellow]]Mata o personagem alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_champion_passive_ability_military_supply	[[col:yellow]]Aumenta a taxa de reabastecimento de militares na região local e permite o reabastecimento em território inimigo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_champion_assist_army_military_training	Treinamento Militar	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_army_compromise_command	[[col:yellow]]Reduz os atributos do comandante alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_champion_assist_army_military_training	[[col:yellow]]Concede experiência às unidades que servem no exército principal.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_army_ruin_provisions	[[col:yellow]]Aumenta a taxa de fadiga de todas as unidades do exército alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_character_trap	[[col:yellow]]Interrompe o agente alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_army_encourage_mutiny	Fomentar Motim	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_character_assassinate	Assassinar	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_settlement_misdirect_workforce	[[col:yellow]]Aumenta o tempo de construção no assentamento alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_settlement_exploit_corruption	Explorar a corrupção	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_army_encourage_mutiny	[[col:yellow]]Diminui a integridade do exército alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_character_trap	Armadilha	1
+agent_actions_localised_action_description_att_agent_action_dignitary_passive_ability_spread_religion	[[col:yellow]]Converter a província local para a religião do agente.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_character_assassinate	[[col:yellow]]Mata o personagem alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_settlement_compromise_security	Comprometer Segurança	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_settlement_exploit_corruption	[[col:yellow]]Adquirir uma proporção da riqueza da província-alvo perdida devido à corrupção.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_settlement_encourage_dissent	Fomentar Dissidência	1
+agent_actions_localised_action_description_cha_agent_action_sabotage_building	[[col:yellow]]Inflige grandes danos a um edifício específico no assentamento alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_champion_assist_province_call_to_arms	Chamado às Armas	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_settlement_preach_intolerance	Pregar Intolerância	1
+agent_actions_localised_action_description_cha_agent_action_sabotage_walls	[[col:yellow]]Crie uma ou mais brechas nas paredes do assentamento alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_character_betray	[[col:yellow]]Mata o personagem alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_settlement_preach_intolerance	[[col:yellow]]Aumenta a infelicidade religiosa na província do assentamento alvo.[[/col]]	1
+agent_actions_localised_action_name_cha_agent_action_sabotage_walls	Sabotar Muralhas	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_settlement_sabotage_gates	[[col:yellow]]Crie uma ou mais brechas nas paredes do assentamento alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_army_preach_doom	[[col:yellow]]Diminui a moral da batalha de todas as unidades do exército alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_province_discourage_populace	[[col:yellow]]Diminui a ordem pública na província local.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_character_deceive	Enganar	1
+agent_actions_localised_action_description_cha_agent_action_assassinate	[[col:yellow]]Mata o personagem alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_army_assault_unit	Assaltar Unidade	1
+agent_actions_localised_action_name_att_agent_action_spy_assist_army_scout_ahead	Escoteiro à frente	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_character_distract	Distrair	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_settlement_ruin_stores	Arruinar Armazéns	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_character_extort	[[col:yellow]]Obriga o agente alvo a se juntar à sua causa.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_character_deceive	[[col:yellow]]Interrompe o agente alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_character_persuade	Persuadir	1
+agent_actions_localised_action_description_att_agent_action_spy_hinder_army_gather_intelligence	[[col:yellow]]Revela informações sobre bens até então não descobertos pertencentes à facção do alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_dignitary_assist_province_inspire_populace	Inspirar a população	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_settlement_sabotage_building	Sabotar Edifício	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_settlement_raid_settlement	[[col:yellow]]Inflige danos menores a vários edifícios no assentamento alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_assist_province_inspire_populace	[[col:yellow]]Aumentar a ordem pública na província local.[[/col]]	1
+agent_actions_localised_action_description_cha_agent_action_spy_network	[[col:yellow]]Aumenta a chance de detectar agentes e exércitos inimigos ocultos na província alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_settlement_raid_settlement	Saquear Assentamento	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_character_assault	Assalto	1
+agent_actions_localised_action_description_cha_agent_action_gather_intelligence	[[col:yellow]]Aumenta a chance de detectar agentes e exércitos inimigos ocultos na província alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_settlement_sabotage_building	[[col:yellow]]Inflige grandes danos a um edifício específico no assentamento alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_spy_assist_province_investigate_corruption	Investigador Corrupção	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_character_distract	[[col:yellow]]Interrompe o agente alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_assist_army_inspire_troops	[[col:yellow]]Aumenta a integridade do exército pai.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_spy_assist_army_scout_ahead	[[col:yellow]]Aumenta o alcance de movimento da campanha do exército pai.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_character_persuade	[[col:yellow]]Obriga o agente alvo a se juntar à sua causa.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_spy_assist_province_investigate_corruption	[[col:yellow]]Reduz a corrupção na província alvo.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_army_gather_intelligence	Reunir Inteligência	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_settlement_misdirect_workforce	Desorientar a força de trabalho	1
+agent_actions_localised_action_name_att_agent_action_spy_hinder_character_extort	Extorquir	1
+agent_actions_localised_action_name_att_agent_action_dignitary_passive_ability_spread_religion	Espalhar a Religião	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_army_sabotage_army	[[col:yellow]]Reduz armadura, munição e dano de todas as unidades do exército alvo.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_province_guerrilla	[[col:yellow]]Diminui a capacidade de recrutamento na província local.[[/col]]	1
+agent_actions_localised_action_description_att_agent_action_dignitary_hinder_settlement_encourage_dissent	[[col:yellow]]Diminui a ordem pública na província do assentamento alvo.[[/col]]	1
+agent_actions_localised_action_name_cha_agent_action_sabotage_building	Sabotar Edifício	1
+agent_actions_localised_action_name_att_agent_action_dignitary_assist_army_inspire_troops	Inspire tropas	1
+agent_actions_localised_action_name_cha_agent_action_assassinate	Assassinar	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_province_guerrilla	Atividade de Guerrilha	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_army_sabotage_army	Exército de Sabotagem	1
+agent_actions_localised_action_description_att_agent_action_champion_assist_province_call_to_arms	[[col:yellow]]Aumenta a capacidade de recrutamento na província local.[[/col]]	1
+agent_actions_localised_action_name_cha_agent_action_exploit_corruption	Explorar a corrupção	1
+agent_actions_localised_action_description_att_agent_action_champion_hinder_character_intimidate	[[col:yellow]]Obriga o agente alvo a se juntar à sua causa.[[/col]]	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_character_betray	Trair	1
+agent_actions_localised_action_description_cha_agent_action_fire	[[col:yellow]]Inflige danos menores a vários edifícios no assentamento alvo.[[/col]]	1
+agent_actions_localised_action_description_cha_agent_action_exploit_corruption	[[col:yellow]]Adquirir uma proporção da riqueza da província-alvo perdida devido à corrupção.[[/col]]	1
+agent_actions_localised_action_name_cha_agent_action_gather_intelligence	Reunir Inteligência	1
+agent_actions_localised_action_name_att_agent_action_dignitary_hinder_army_preach_doom	Pregar a Desgraça	1
+agent_actions_localised_action_name_cha_agent_action_fire	Iniciar fogo	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_settlement_sabotage_gates	Sabotar Muralhas	1
+agent_actions_localised_action_name_cha_agent_action_spy_network	Rede de espionagem	1
+agent_actions_localised_action_name_att_agent_action_champion_hinder_character_intimidate	Oprimir	1

@@ -1,0 +1,537 @@
+key	value	flag
+campaign_localised_strings_string_unit_exchange_commanders_invalid	As forças não podem trocar comandantes.	1
+campaign_localised_strings_string_public_order_rebellion_next_turn	No ritmo atual, haverá uma rebelião no próximo turno!	1
+campaign_localised_strings_string_cha_faction_wales	País de Gales	1
+campaign_localised_strings_string_military_force_morale_bonus_value_politics	Política	1
+campaign_localised_strings_string_force_not_in_correct_stance_not_enough_ap	Esta força não está atualmente em posição de assentamento e não tem pontos de ação suficientes para resolver.	1
+campaign_localised_strings_string_military_force_growth_tax	Imposto	1
+campaign_localised_strings_string_politics_character_cannot_become_governor_wounded	Este personagem não pode ser designado governador enquanto estiver ferido.	1
+campaign_localised_strings_string_events_attrition_summary_location	Província:	1
+campaign_localised_strings_string_MPC_cannot_construct_not_your_turn	[[col:red]]Você não pode construir edifícios durante os turnos de outras facções.[[/col]]	1
+campaign_localised_strings_string_politics_character_regent	Regente	1
+campaign_localised_strings_string_end_turn_warning_public_order_low	Esta província tem uma ordem pública perigosamente baixa:	1
+campaign_localised_strings_string_province_fertility_factor_buildings	Facção ou edifícios	1
+campaign_localised_strings_string_military_history_battles_victory_decisive	Vitória decisiva contra:	1
+campaign_localised_strings_string_politics_assign_governor	Clique com o botão esquerdo para atribuir este cargo ao seu personagem.	1
+campaign_localised_strings_string_cha_mission_pope_attacked_1	Devolva o Papa a Roma. (Um personagem com o apoio do Papa deve estar presente na região de Roma.)	1
+campaign_localised_strings_string_recruit_assassin_tooltip	Recrutar Assassino||Hábeis na arte de matar, os assassinos podem eliminar generais e agentes hostis. Suas habilidades também podem ser aplicadas ao treinamento de unidades e ao assédio de exércitos inimigos.	1
+campaign_localised_strings_string_details_panel_skills_cannot_select	Este personagem não pode aprender esta habilidade:	1
+campaign_localised_strings_string_raise_navy_capped	Não é possível formar uma frota.||Você não tem império suficiente.	1
+campaign_localised_strings_string_raise_legacy_capped	Não é possível restabelecer o legado.||Você não tem império suficiente.	1
+campaign_localised_strings_string_end_turn_warning_not_researching	Você não está pesquisando nenhuma tecnologia no momento.	1
+campaign_localised_strings_string_military_force_growth_technologies	Tecnologias	1
+campaign_localised_strings_string_development_points_tooltip_hordes_insufficent_development_points_number_expedition	Você precisa de %n excedente populacional.||A expedição crescerá com o tempo, mas uma combinação de invasão e colonização, junto com a construção dos edifícios apropriados, ajudará a aumentar essa taxa de crescimento.	1
+campaign_localised_strings_string_province_fertility_factor_climate	Clima	1
+campaign_localised_strings_string_development_points_tooltip_hordes_growth	À medida que a horda cresce, a sua população pode ser usada para a tornar mais forte ou para gerar novas hordas.	1
+campaign_localised_strings_string_imperium_01_description	Seu poder tem pouca importância para o mundo... ainda!	1
+campaign_localised_strings_string_military_force_morale_bonus_value_foreign_territory	Território Hostil	1
+campaign_localised_strings_string_imperium_02_description	Você se estabeleceu como um poder digno.	1
+campaign_localised_strings_string_character_type_wife	Esposa	1
+campaign_localised_strings_string_imperium_03_description	A notícia de suas conquistas viajou muito.	1
+campaign_localised_strings_string_imperium_04_description	Suas realizações são ótimas.	1
+campaign_localised_strings_string_imperium_05_description	Seu poder é temido e cobiçado.	1
+campaign_localised_strings_string_imperium_06_description	O mundo treme diante de você.	1
+campaign_localised_strings_string_imperium_07_description	Seu poder é supremo.	1
+campaign_localised_strings_string_public_order_food_tooltip	Comida	1
+campaign_localised_strings_string_military_history_battles	Batalhas travadas:	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_olives_4	Para desbloquear este edifício você deve controlar todas as 4 regiões que contêm azeitonas e ter construído o edifício de recursos de azeitonas em todas elas.	1
+campaign_localised_strings_string_politics_power_support_popular_description	Domínio é uma medida de sua influência sobre sua facção; seu poder sobre o povo. É determinado pela influência total dos membros da sua família versus a dos membros que não são da família.\n\nCombinado com o controle, define o poder geral da sua família.	1
+campaign_localised_strings_string_politics_cannot_assign_age	Este personagem ainda não atingiu a maioridade e ainda não pode se tornar governador.	1
+campaign_localised_strings_string_military_force_morale_unit_transfer	Transferência de Unidade	1
+campaign_localised_strings_string_recruitment_hire_from_horde	Recrutar da Horda	1
+campaign_localised_strings_string_public_order_taxes_tooltip	Impostos altos não agradam as pessoas. Impostos baixos sim.	1
+campaign_localised_strings_string_public_order_other_tooltip	Sua resposta aos dilemas e acontecimentos afeta a forma como as pessoas veem sua liderança.	1
+campaign_localised_strings_string_province_contested	Província contestada.	1
+campaign_localised_strings_string_politics_ministerial_position_required_rank	Classificação necessária:	1
+campaign_localised_strings_string_details_panel_skills_cannot_no_skill_points	Eles não têm pontos de habilidade.	1
+campaign_localised_strings_string_unit_upgrade_multiple_units	Clique com o botão esquerdo para atualizar todas as unidades atualmente selecionadas.	1
+campaign_localised_strings_string_raise_force_reinstate_cannot_no_legacies	[[col:red]]Você não tem legados militares para restabelecer.[[/col]]	1
+campaign_localised_strings_string_politics_power_support_political_current	Controle atual:	1
+campaign_localised_strings_string_att_eos_religious_mission_build_att_rel_semitic_paganism	Converta ou construa 4 edifícios religiosos pagãos semíticos sem construir quaisquer outros edifícios religiosos.	1
+campaign_localised_strings_string_public_order_other	Outro	1
+campaign_localised_strings_string_public_order_taxes	Impostos	1
+campaign_localised_strings_string_politics_action_impossible_target_retainer_rank_too_high	[[col:red]]Os personagens só podem enfrentar lacaios de classificação inferior à deles.[[/col]]	1
+campaign_localised_strings_string_cha_faction_saxon_kingdom	Reino da Saxônia	1
+campaign_localised_strings_string_unit_details_rank	Classificação:	1
+campaign_localised_strings_string_military_history_battles_defeat_decisive	Derrota decisiva por:	1
+campaign_localised_strings_string_raise_force_navy_no_surplus	Não é possível criar uma frota.||Você não tem excedente populacional suficiente.	1
+campaign_localised_strings_string_zeal_desc	Segurança contra ações zelosas de agentes.	1
+campaign_localised_strings_string_military_force_morale_faction_leader_died	Turbulência	1
+campaign_localised_strings_string_raise_army_besieged	Não é possível formar um exército.||Este assentamento está sitiado.	1
+campaign_localised_strings_string_public_order_food	Comida	1
+campaign_localised_strings_string_politics_action_impossible_target_underage	[[col:red]]Personagens que ainda não atingiram a maioridade não podem se envolver em ações políticas.[[/col]]	1
+campaign_localised_strings_string_cannot_migrate_no_armies	O seu povo não pode migrar sem um exército.	1
+campaign_localised_strings_string_politics_character_status_scheming	Esquema	1
+campaign_localised_strings_string_politics_character_status_deceased	Morto	1
+campaign_localised_strings_string_events_attrition_summary_men_lost	Homens perdidos:	1
+campaign_localised_strings_string_military_force_growth_core	Edifícios e Alimentos	1
+campaign_localised_strings_string_public_order_deteriorating	A ordem pública está a deteriorar-se.	1
+campaign_localised_strings_string_unit_upgrade_single_unit	Clique com o botão esquerdo para atualizar a unidade atualmente selecionada com:	1
+campaign_localised_strings_string_character_mentor_of	Este personagem é um mentor de:	1
+campaign_localised_strings_string_politics_action_impossible_target_candidate	[[col:red]]Você não pode tomar medidas políticas contra candidatos.[[/col]]	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_marble_4	Para desbloquear este edifício você deve controlar todas as 4 regiões que contêm mármore e ter construído o edifício de recursos de mármore em todas elas.	1
+campaign_localised_strings_string_details_panel_ancillary_wife_empty	Este personagem não tem esposa. Seus personagens podem receber propostas de casamento de outros partidos, ou você pode arranjar casamentos para personagens de outros partidos envolvendo-se em políticas de facção.	1
+campaign_localised_strings_string_politics_character_status_wounded	Ferido	1
+campaign_localised_strings_string_public_order_breakdown_rebellion	Rebeldes à Esquerda	1
+campaign_localised_strings_string_military_history_battles_victory_phyrric	Vitória cara contra:	1
+campaign_localised_strings_string_military_force_morale_lost_battle	Batalha perdida	1
+campaign_localised_strings_string_politics_event_assassination_wife_success	Sua esposa foi assassinada com sucesso!	1
+campaign_localised_strings_string_religion_factor_province	Tradições locais	1
+campaign_localised_strings_string_end_turn_warning_siege_no_equipment	Você está sitiando um assentamento sem equipamento de assalto:	1
+campaign_localised_strings_string_other_nobles_candidates_description	Os candidatos são personagens que ainda não são membros ativos da facção.||Na ausência de outros personagens disponíveis, os candidatos podem ser chamados para assumir o comando de forças ou assumir governos.\n\n[[col:yellow]]Sua influência não afeta a política da facção e sua lealdade só mudará quando eles se tornarem ativos.[[/col]]	1
+campaign_localised_strings_string_details_panel_skills_select	Este personagem pode aprender uma habilidade adicional.\nClique com o botão esquerdo em uma habilidade para aprendê-la.	1
+campaign_localised_strings_string_politics_character_not_politician	[[col:red]]Somente estadistas podem se tornar governadores.[[/col]]	1
+campaign_localised_strings_string_info_panel_effect_summary_general	Efeitos do comandante	1
+campaign_localised_strings_string_recruitment_unavailable_incorrect_stance	Não é possível recrutar nesta posição.	1
+campaign_localised_strings_string_public_order_breakdown_rebellion_tooltip	Rebelião	1
+campaign_localised_strings_string_politics_action_possible	[[col:green]]Esta ação política será resolvida no início do próximo turno.[[/col]]	1
+campaign_localised_strings_string_politics_event_assassination_wife	Tentativa de assassinato da esposa!	1
+campaign_localised_strings_string_unit_upgrade_description	Melhora as armas ou armaduras de uma unidade.	1
+campaign_localised_strings_string_end_turn_warning_legacy_skill_to_be_picked	Esta força tem uma tradição não atribuída:	1
+campaign_localised_strings_string_growth_characters	Personagens	1
+campaign_localised_strings_string_raise_army_capped	Não é possível formar um exército.||Você não tem Império suficiente.	1
+campaign_localised_strings_string_politics_character_joined_your_family_from	Este personagem se juntou à sua família vindo da seguinte facção:	1
+campaign_localised_strings_string_cha_mission_avars_1	Saque 5 assentamentos.	1
+campaign_localised_strings_string_details_panel_character_age	Idade:	1
+campaign_localised_strings_string_politics_action_impossible	Esta ação política não pode ser realizada:	1
+campaign_localised_strings_string_recruitment_hire_mercenary	Contratar Mercenário	1
+campaign_localised_strings_string_unit_upgrade_retrain_multiple_units	Clique com o botão esquerdo para treinar novamente todas as unidades atualmente selecionadas.	1
+campaign_localised_strings_string_unit_upgrade_retrain_description	Substitui uma unidade por uma mais avançada.	1
+campaign_localised_strings_string_cannot_migrate_under_siege	Seu povo não pode migrar enquanto um de seus assentamentos estiver sitiado ou bloqueado.	1
+campaign_localised_strings_string_abandoned_region_rebel_faction_name	Desolado	1
+campaign_localised_strings_string_sea_region_control_status_replenishment_rate_mod_garrisoned	(+%d%% em portas)	1
+campaign_localised_strings_string_military_history_defeats	Derrotas:	1
+campaign_localised_strings_string_unit_upgrade_retrain_single_unit	Clique com o botão esquerdo para treinar novamente a unidade atualmente selecionada para:	1
+campaign_localised_strings_string_cha_faction_avar_khaganate	Avar Khaganato	1
+campaign_localised_strings_string_sanitation_tooltip_header	Saneamento e miséria	1
+campaign_localised_strings_string_force_not_on_land	As hordas devem estar em terra para realizar a construção. Desembarque para emitir ordens de construção.	1
+campaign_localised_strings_string_public_order_units	Unidades	1
+campaign_localised_strings_string_military_force_morale_idle	Descansando	1
+campaign_localised_strings_string_sea_region_control_status_replenishment_rate_mod	+%d%% reabastecimento naval	1
+campaign_localised_strings_string_battle_ambush_you_success	O inimigo não conseguiu detectar sua emboscada. Ataque agora e o elemento surpresa lhe dará vantagem!	1
+campaign_localised_strings_string_raise_force_army_no_surplus	Não é possível formar um exército.||Você não tem excedente populacional suficiente.	1
+campaign_localised_strings_string_politics_has_not_attained_office	Este personagem não alcançou anteriormente um cargo suficientemente elevado para receber esta posição.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_military_force	Força Militar	1
+campaign_localised_strings_string_politics_event_assassination_wife_wounded	Sua esposa ficou apenas ferida.	1
+campaign_localised_strings_string_details_panel_skills_unlocked_rank	Desbloqueado na classificação:	1
+campaign_localised_strings_string_military_force_morale_casualties	Vítimas sofridas	1
+campaign_localised_strings_string_military_history_commanders	Comandantes:	1
+campaign_localised_strings_string_events_attrition_summary_force_navy	Frota:	1
+campaign_localised_strings_string_military_force_growth_characters	Personagens	1
+campaign_localised_strings_string_public_order_celebration_next_turn	No ritmo atual, haverá uma celebração no próximo turno!	1
+campaign_localised_strings_string_religion_factor_buildings	Desenvolvimentos regionais	1
+campaign_localised_strings_string_military_history_victories	Vitórias:	1
+campaign_localised_strings_string_raise_navy_no_port	Não é possível formar uma frota.||Este povoado não tem porto.	1
+campaign_localised_strings_string_politics_cursus_next_level	Próximo nível	1
+campaign_localised_strings_string_tooltip_loyalty_description	Lealdade representa a dedicação de um personagem à facção. Se a lealdade chegar a zero, o personagem desertará, instigando assim uma guerra civil.	1
+campaign_localised_strings_string_politics_event_blackmail_success	Sua reputação foi manchada por rumores.	1
+campaign_localised_strings_string_cha_faction_english_kingdom	Reino da Inglaterra	1
+campaign_localised_strings_string_public_order_technologys	Tecnologias	1
+campaign_localised_strings_string_recruitment_levy_from_client_state	Alíquota do tributário	1
+campaign_localised_strings_string_migrate_button_selected_expedition	Todos os assentamentos do seu reino estão sendo abandonados. [Clique com o botão esquerdo para cancelar.]	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_lead_4	Para desbloquear este edifício você deve controlar todas as 3 regiões que contêm chumbo e ter construído o edifício de recursos de chumbo em todas elas.	1
+campaign_localised_strings_string_raise_army_no_funds	Não é possível formar um exército.||Você não tem fundos suficientes.	1
+campaign_localised_strings_string_cannot_migrate_already_migrating_expedition	Você já está migrando.	1
+campaign_localised_strings_string_raise_navy_no_funds	Não é possível criar uma frota.||Você não tem fundos suficientes.	1
+campaign_localised_strings_string_politics_event_blackmail	Tentativa de chantagem!	1
+campaign_localised_strings_string_politics_event_choice_invalid_insufficient_gravitas	Este personagem não tem influência suficiente para tomar este curso de ação.	1
+campaign_localised_strings_string_public_order_technologys_tooltip	Uma população instruída e avançada é feliz.	1
+campaign_localised_strings_string_development_points_tooltip_hordes	Excedente populacional||A horda precisa de pessoas para crescer e se fortalecer; o excedente populacional permite isso, bem como permite o surgimento de novas hordas. Acampar e atacar são vitais para o crescimento da horda.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_fortify_stance	Fortificado	1
+campaign_localised_strings_string_cha_faction_ireland	Irlanda	1
+campaign_localised_strings_string_politics_action_impossible_actor_not_male	[[col:red]]Apenas membros da família do sexo masculino podem realizar esta ação.[[/col]]	1
+campaign_localised_strings_string_public_order_stabilising	A ordem pública está se estabilizando.	1
+campaign_localised_strings_string_migrate_button_active_expedition	A migração causa o abandono de todos os assentamentos do seu reino e transforma seus exércitos em hordas.	1
+campaign_localised_strings_string_edicts_incoming_description	[[col:green]]Este decreto entrará em vigor no início do próximo turno.[[/col]]	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_iron_4	Para desbloquear este edifício você deve controlar todas as 5 regiões que contêm ferro e ter construído o edifício de recursos de ferro em todas elas.	1
+campaign_localised_strings_string_politics_character_not_your_faction	Você não pode agir contra personagens que não são de sua família.	1
+campaign_localised_strings_string_force_not_in_correct_stance	Hordas devem estar acampadas para realizar a construção. Emitir esta ordem colocará a horda em posição de acampamento.	1
+campaign_localised_strings_string_raise_army	Crie um exército.||Estabeleça um novo exército e nomeie um comandante para liderá-lo na batalha.	1
+campaign_localised_strings_string_politics_action_impossible_actor_married	[[col:red]]Este personagem já é casado.[[/col]]	1
+campaign_localised_strings_string_confirm_cancel_migration	Tem certeza de que deseja cancelar a migração?	1
+campaign_localised_strings_string_politics_action_make_heir_heading	[[col:yellow]]Declarar herdeiro[[/col]]	1
+campaign_localised_strings_string_public_order_celebration	No ritmo atual, haverá uma celebração em %n turno(s).	1
+campaign_localised_strings_string_public_order_devastation_tooltip	A destruição gera morte e, mais perigosamente, infelicidade.	1
+campaign_localised_strings_string_public_order_plague	Doença	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_gems_4	Para desbloquear este edifício você deve controlar todas as 3 regiões que contêm gemas e ter construído o edifício de recursos de gemas em todas elas.	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_gold_4	Para desbloquear este edifício você deve controlar ambas as regiões que contêm ouro e ter construído o edifício de recursos de ouro em todas elas.	1
+campaign_localised_strings_string_unit_upgrade_header	Atualizar	1
+campaign_localised_strings_string_politics_action_impossible_actor_already_a_retainer	[[col:red]]Este personagem já é um retentor.[[/col]]	1
+campaign_localised_strings_string_politics_event_assassination_wife_killed	Eles não conseguiram assassiná-lo, mas em vez disso conseguiram matar sua esposa!	1
+campaign_localised_strings_string_public_order_culture_differences	Diferenças religiosas	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_furs_4	Para desbloquear este edifício você deve controlar todas as 4 regiões que contêm peles e ter construído o edifício de recursos de peles em todas elas.	1
+campaign_localised_strings_string_unit_upgrade_cannot	Atualização não é possível:	1
+campaign_localised_strings_string_imperium_01_title	Insignificante	1
+campaign_localised_strings_string_imperium_02_title	Digno de nota	1
+campaign_localised_strings_string_imperium_03_title	Impressionante	1
+campaign_localised_strings_string_imperium_04_title	Inspirador	1
+campaign_localised_strings_string_imperium_05_title	Intimidante	1
+campaign_localised_strings_string_imperium_06_title	Aterrorizante	1
+campaign_localised_strings_string_imperium_07_title	Supremo	1
+campaign_localised_strings_string_politics_event_promotion_success	Promoção garantida.	1
+campaign_localised_strings_string_growth_food	Comida	1
+campaign_localised_strings_string_building_restriction_att_bld_eos_military_infantry_5_east_church	A Casa dos Hagia Makatas será desbloqueada assim que as seguintes condições forem cumpridas:\n[[col:yellow]]• Sua facção tem pelo menos 75% de cristãos orientais.[[/col]]	1
+campaign_localised_strings_string_army_morale_tooltip	Integridade || Se a situação ficar muito baixa, os homens desertarão, formando uma facção separatista e iniciando uma guerra civil!	1
+campaign_localised_strings_string_cha_faction_italian_kingdom	Reino da Itália	1
+campaign_localised_strings_string_end_turn_warning_bankrupt	Você está à beira da falência.	1
+campaign_localised_strings_string_gdp_other	Outro	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_damaged_multiple	Uma ou mais unidades não estão com força total.	1
+campaign_localised_strings_string_politics_event_promotion	Promoção!	1
+campaign_localised_strings_string_gdp_entertainment	Cultura	1
+campaign_localised_strings_string_building_restriction_att_bld_eastmig_military_infantry_4	"O Desfile da Vitória será desbloqueado assim que as seguintes condições forem cumpridas:\n[[col:yellow]]• Completar a missão ""Uma Audiência com Mavia – Intimidação""[[/col]]"	1
+campaign_localised_strings_string_building_restriction_att_bld_eastmig_military_infantry_5	"A Reunião Imperial será desbloqueada assim que as seguintes condições forem cumpridas:\n[[col:yellow]]• Completar a missão ""Uma Audiência com Mavia – Libertação""[[/col]]"	1
+campaign_localised_strings_string_sanitation_tooltip_description_good	\nO saneamento local supera a miséria. Este assentamento não corre risco de surto de doença.\n	1
+campaign_localised_strings_string_battle_ambush_you_intercept	Seu exército foi avistado pelo inimigo antes que ele pudesse lançar sua emboscada. Você tem a oportunidade de interceptá-los e enfrentá-los na batalha!	1
+campaign_localised_strings_string_cha_faction_saxon_kingdom_objective	Possui as províncias de Angria, Wilzi, Eastphalia, Obodrites e Saxônia.	1
+campaign_localised_strings_string_public_order_devastation	Devastação	1
+campaign_localised_strings_string_end_turn_warning_military_force_morale_low	Esta força tem integridade perigosamente baixa:	1
+campaign_localised_strings_string_recruitment_unavailable_blockading	Não é possível recrutar durante o bloqueio.	1
+campaign_localised_strings_string_gdp_fertility_agriculture	Agricultura [Fertilidade]	1
+campaign_localised_strings_string_public_order_plague_tooltip	Praga	1
+campaign_localised_strings_string_public_order_culture_differences_tooltip	O caldeirão de culturas e estilos pode unir as pessoas ou criar atritos.	1
+campaign_localised_strings_string_cha_faction_viking_kingdom	Reino dos Vikings	1
+campaign_localised_strings_string_edicts_description	Emita decretos provinciais para ajudar a controlar a ordem pública local, explorar a produção e muito mais.\n\nA expansão e o desenvolvimento aumentarão o império da sua facção, permitindo assim que você nomeie governadores adicionais e emita mais decretos.	1
+campaign_localised_strings_string_growth_technologies	Tecnologias	1
+campaign_localised_strings_string_military_force_morale_bonus_value_foreign_waters	Águas Hostis	1
+campaign_localised_strings_string_public_order_region	Região	1
+campaign_localised_strings_string_public_order_family_power_tooltip	A posição política da sua família afeta a forma como as pessoas o veem.	1
+campaign_localised_strings_string_raise_legacy_no_candidate	Não é possível restabelecer o legado.||Não há candidatos adequados disponíveis.	1
+campaign_localised_strings_string_sanitation_tooltip_description_bad	\nA miséria local supera o saneamento. Se não for controlado, este assentamento corre risco de contrair doenças.\n	1
+campaign_localised_strings_string_edicts_outgoing_description	[[col:red]]Este édito irá expirar no início do próximo turno.[[/col]]	1
+campaign_localised_strings_string_military_force_morale_bonus_value_horde_in_fighting	Rivalidade	1
+campaign_localised_strings_string_cannot_migrate_already_migrating	Você já está migrando.	1
+campaign_localised_strings_string_character_type_son	Filho	1
+campaign_localised_strings_string_edicts_disabled_province_incomplete	[[col:red]]Você não pode emitir editais em províncias que não tenham um governador designado.[[/col]]	1
+campaign_localised_strings_string_public_order_stable	A ordem pública é estável.	1
+campaign_localised_strings_string_sanitation_tooltip_total_sanitation	Saneamento total:	1
+campaign_localised_strings_string_growth_buildings	Edifícios	1
+campaign_localised_strings_string_events_attrition_summary_location_region	Região:	1
+campaign_localised_strings_string_public_order_revolt	Na taxa atual, os escravos se revoltarão em %n turnos.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_offices	Escritórios	1
+campaign_localised_strings_string_military_force_morale_bankruptcy	Falência	1
+campaign_localised_strings_string_gdp_poor_fertility_bonus	Bônus de fertilidade ruim	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_incorrect_stance	O exército não está na posição correta.	1
+campaign_localised_strings_string_gdp_farming	Agricultura	1
+campaign_localised_strings_string_politics_ministerial_position_expected_effects_no_selection	Selecione um personagem para atribuir ao cargo.\n\nEste cargo concede os seguintes efeitos:	1
+campaign_localised_strings_string_battle_ambush_they_success	Seu exército não conseguiu detectar uma emboscada inimiga. Eles lançaram um ataque surpresa, certamente dando-lhes vantagem!	1
+campaign_localised_strings_string_military_force_morale_bonus_value_garrison_stance	Guarnecido	1
+campaign_localised_strings_string_att_eos_religious_mission_build_att_rel_church_east	Converta ou construa 4 edifícios religiosos cristãos orientais sem construir quaisquer outros edifícios religiosos.	1
+campaign_localised_strings_string_att_eos_tanukhid_mission_1	Destrua 5 regiões controladas pelos romanos.	1
+campaign_localised_strings_string_att_eos_tanukhid_mission_3	Resolva sua facção.	1
+campaign_localised_strings_string_att_eos_tanukhid_mission_2	Liberte 3 facções.	1
+campaign_localised_strings_string_bel_expedition_western_rome	Reino de Roma	1
+campaign_localised_strings_string_politics_ministerial_position_required_age	Idade exigida:	1
+campaign_localised_strings_string_character_retainer_of_full	Este personagem é um retentor de:	1
+campaign_localised_strings_string_sanitation_tooltip_current_squalor	Miséria atual:	1
+campaign_localised_strings_string_building_restriction_att_bld_eos_military_infantry_5_zoroastrian	O Palácio de Amesha Spenta será desbloqueado assim que as seguintes condições forem cumpridas:\n[[col:yellow]]• Sua facção é pelo menos 75% zoroastriana.[[/col]]	1
+campaign_localised_strings_string_next_office	Próximo escritório:	1
+campaign_localised_strings_string_politics_ministerial_position_term	Prazo de mandato:	1
+campaign_localised_strings_string_unit_upgrade_retrain_cannot_reason_none_multiple	Não há formação adicional para estas unidades disponível nesta província.	1
+campaign_localised_strings_string_province_fertility_factor_events	Eventos	1
+campaign_localised_strings_string_public_order_family_power	Situação política	1
+campaign_localised_strings_string_military_history_foundation_founder	Fundado por:	1
+campaign_localised_strings_string_public_order_uncertainty_tooltip	Incerteza	1
+campaign_localised_strings_string_politics_action_impossible_cannot_secure_loyalty	Você não pode garantir a lealdade deste personagem.	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_wood_4	Para desbloquear este edifício você deve controlar todas as 3 regiões que contêm madeira e ter construído o edifício de recursos de madeira em todas elas.	1
+campaign_localised_strings_string_politics_event_type	Intriga:	1
+campaign_localised_strings_string_military_force_morale_bonus_value_faction	Facção	1
+campaign_localised_strings_string_gdp_mining	!NÃO USADO!	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_damaged_single	A unidade não está com força total.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_buildings	Edifícios	1
+campaign_localised_strings_string_province_fertility_factor_season	Temporada	1
+campaign_localised_strings_string_province_fertility_factor_razing	Arrasar	1
+campaign_localised_strings_string_public_order_events_tooltip	Os acontecimentos recentes moldaram a opinião pública.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_civil_war	Guerra civil	1
+campaign_localised_strings_string_unit_upgrade_retrain_cannot	A reciclagem não é possível:	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_none_multiple	Não há equipamento melhorado disponível para estas unidades nesta província.	1
+campaign_localised_strings_string_public_order_slaves	Imigrantes	1
+campaign_localised_strings_string_politics_character_already_governor	Esse personagem já é governador.	1
+campaign_localised_strings_string_unit_upgrade_retrain_header	Retreinar	1
+campaign_localised_strings_string_events_attrition_summary_force_army	Exército:	1
+campaign_localised_strings_string_raise_navy	Crie uma frota.||Estabeleça uma nova frota e nomeie um comandante para liderá-la na batalha.	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_salt_4	Para desbloquear este edifício você deve controlar todas as 3 regiões que contêm sal e ter construído o edifício de recursos de sal em todas elas.	1
+campaign_localised_strings_string_public_order_events	Eventos	1
+campaign_localised_strings_string_politics_action_impossible_actor_not_female	[[col:red]]Somente membros femininos da família podem se casar com personagens não familiares.[[/col]]	1
+campaign_localised_strings_string_cha_faction_spanish_kingdom	Reino da Espanha	1
+campaign_localised_strings_string_religion_factor_character	Personagens	1
+campaign_localised_strings_string_politics_action_impossible_retainer	Ações políticas não podem ser tomadas contra os personagens contratados como servidores.	1
+campaign_localised_strings_string_public_order_slaves_tooltip	A guerra e a turbulência deslocam as pessoas, fazendo com que fujam para províncias próximas e se juntem à população imigrante de lá.	1
+campaign_localised_strings_string_military_history_foundation	Fundação:	1
+campaign_localised_strings_string_military_force_morale_won_battle	Batalha vencida	1
+campaign_localised_strings_string_public_order_uncertainty	Incerteza (-1 por turno)	1
+campaign_localised_strings_string_tax_exempt_food_description	Esta província está isenta de impostos, por isso não contribui com alimentos.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_plague	Peste	1
+campaign_localised_strings_string_edicts_disabled_cap_reached	[[col:red]]No momento, você não pode emitir decretos adicionais.[[/col]]\nA expansão e o desenvolvimento aumentarão o império da sua facção, permitindo assim que você nomeie governadores adicionais e emita mais decretos.	1
+campaign_localised_strings_string_att_eos_religious_mission_build_att_rel_judaism	Converta ou construa 4 edifícios religiosos judaicos sem construir quaisquer outros edifícios religiosos.	1
+campaign_localised_strings_string_religion_factor_osmosis	Osmose	1
+campaign_localised_strings_string_politics_character_heir	Herdeiro	1
+campaign_localised_strings_string_end_turn_warning_unused_edicts	Você ainda pode emitir um decreto em uma das províncias governadas:	1
+campaign_localised_strings_string_growth_faction	Facção	1
+campaign_localised_strings_string_military_force_growth_events	Facção	1
+campaign_localised_strings_string_building_restriction_bel_bld_all_resources_orchards_4	Para desbloquear este edifício você deve controlar todas as 4 regiões que contêm vinho e ter construído o edifício de recursos de vinho em todas elas.	1
+campaign_localised_strings_string_end_turn_warning_character_loyalty_low	Este homem tem baixa lealdade:	1
+campaign_localised_strings_string_growth_raiding	Invasão	1
+campaign_localised_strings_string_raise_army_no_valid_location	Não é possível formar um exército.||Não há localização válida.	1
+campaign_localised_strings_string_military_force_growth_stance	Posição Atual	1
+campaign_localised_strings_string_cannot_recruit_unit_source_settlement_besieged	Não é possível recrutar esta unidade||O assentamento de origem está sitiado.	1
+campaign_localised_strings_string_politics_ministerial_position_expected_effects	[[/col:green]]O personagem selecionado pode tentar garantir este escritório. Seu sucesso - ou fracasso - será determinado no início do próximo turno.[[/col]]\n\nNo cargo, eles terão os seguintes efeitos:	1
+campaign_localised_strings_string_building_restriction_att_slav_wonder_1	Esta construção será desbloqueada assim que as seguintes condições forem atendidas:\n[[col:yellow]]• Controlar um recurso de madeira.\n• Controlar um recurso de ferro.\n• Pelo menos 70% de religião oficial.[[/col]]	1
+campaign_localised_strings_string_cha_faction_cordoba_caliphate	Califado de Córdoba	1
+campaign_localised_strings_string_military_history_battles_victory_close	Vitória próxima contra:	1
+campaign_localised_strings_string_politics_event_target_family	Parte alvo:	1
+campaign_localised_strings_string_unit_details_xp	Experiência:	1
+campaign_localised_strings_string_cha_mission_carloman_succession	Capture a região da capital de Carlomano e derrote os legalistas que a controlam atualmente.	1
+campaign_localised_strings_string_military_history_years_service	Anos de serviço:	1
+campaign_localised_strings_string_politics_event_assassination_wounded	Eles não conseguiram assassiná-lo, mas conseguiram feri-lo enquanto ele escapava!	1
+campaign_localised_strings_string_bel_expedition_western_rome_separatists	Separatistas do Reino de Roma	1
+campaign_localised_strings_string_politics_character_left_your_family_for	Este personagem trocou sua família pela seguinte facção:	1
+campaign_localised_strings_string_edicts_incoming	Edital pendente:	1
+campaign_localised_strings_string_info_panel_effect_summary_force	Efeitos da força	1
+campaign_localised_strings_string_building_restriction_att_slav_wonder_military_2	Este edifício será desbloqueado assim que as seguintes condições forem atendidas:\n[[col:yellow]]• Controlar um recurso de ouro.\n• Controlar um recurso principal.\n• Conquistar 10 vitórias heróicas.\n• Pelo menos 70% de religião oficial.[[/col]]	1
+campaign_localised_strings_string_building_restriction_att_slav_wonder_military_3	Este edifício será desbloqueado assim que as seguintes condições forem atendidas:\n[[col:yellow]]• Controlar um recurso de mármore.\n• Controlar um recurso de gemas.\n• Conquistar 20 vitórias heróicas.\n• Pelo menos 80% de religião oficial.[[/col]]	1
+campaign_localised_strings_string_edicts_allowed	Você pode emitir um edital aqui.	1
+campaign_localised_strings_string_raise_legacy_no_funds	Não é possível restabelecer o legado.||Você não tem fundos suficientes.	1
+campaign_localised_strings_string_military_history_battles_victory_heroic	Vitória heróica contra:	1
+campaign_localised_strings_string_tooltip_over_landbridge	Ponte terrestre	1
+campaign_localised_strings_string_military_history_battles_defeat_close	Derrota próxima por:	1
+campaign_localised_strings_string_military_force_morale_bonus_value_raid_stance	Invasão	1
+campaign_localised_strings_string_end_turn_warning_spare_governor_slot	Você ainda pode designar um governador provincial.	1
+campaign_localised_strings_string_general_type_politician	Estadista	1
+campaign_localised_strings_string_building_restriction_att_bld_eos_military_infantry_5_semitic	A Morada dos Campeões de Sham será desbloqueada assim que as seguintes condições forem cumpridas:\n[[col:yellow]]• Sua facção é pelo menos 75% pagã semítica.[[/col]]	1
+campaign_localised_strings_string_edicts_heading	Editais Provinciais	1
+campaign_localised_strings_string_cannot_recruit_unit_army_full	Não é possível recrutar unidade||O exército está cheio.	1
+campaign_localised_strings_string_politics_event_adoption	Oferta de adoção.	1
+campaign_localised_strings_string_info_panel_effect_summary_agent	Efeitos do agente	1
+campaign_localised_strings_string_politics_action_impossible_actor_not_married	[[col:red]]É preciso ser casado antes de poder se divorciar.[[/col]]	1
+campaign_localised_strings_string_politics_action_impossible_actor_not_general	[[col:red]]Este personagem não é um general.[[/col]]	1
+campaign_localised_strings_string_cha_faction_frankish_kingdom_objective	A facção de Carloman não deve existir e você deve possuir pelo menos 30 regiões.	1
+campaign_localised_strings_string_campaign_morale_title_tooltip	Integridade	1
+campaign_localised_strings_string_politics_event_assassination_success	Eles o assassinaram com sucesso!	1
+campaign_localised_strings_string_gdp_manufacture	Indústria	1
+campaign_localised_strings_string_growth_province	Província e Região	1
+campaign_localised_strings_string_tooltip_labour_points	Pontos de crescimento:	1
+campaign_localised_strings_string_public_order_desolation	Desolação (apenas no próximo turno)	1
+campaign_localised_strings_string_details_panel_tradition_cannot_no_skill_points	Não tem pontos de tradição.	1
+campaign_localised_strings_string_politics_action_impossible_different_faction	[[col:red]]Personagens pertencentes a outras facções não podem ser alvo de ação.[[/col]]	1
+campaign_localised_strings_string_military_force_morale_bonus_value_characters	Personagens	1
+campaign_localised_strings_string_politics_event_bribe_success	Ele aceitou a oferta e jurou lealdade ao seu novo partido. Agora ele serve aos interesses deles.	1
+campaign_localised_strings_string_details_panel_ancillary_remove	Remova o membro ou objeto da família atualmente atribuído.	1
+campaign_localised_strings_string_att_eos_axum_mission_1	Controle 2 ou mais recursos Spice.	1
+campaign_localised_strings_string_att_eos_axum_mission_2	Alcance o monopólio do recurso Spice.	1
+campaign_localised_strings_string_att_eos_axum_mission_3	Controle um recurso de ouro.	1
+campaign_localised_strings_string_sea_region_control_status_recruitment_cost_mod	%d%% custo de recrutamento naval	1
+campaign_localised_strings_string_cannot_migrate_not_migratory	Você não pode migrar porque sua facção não é migratória.	1
+campaign_localised_strings_string_building_restriction_att_bld_religion_celtic_major_5	O Templo de Belenus será desbloqueado assim que as seguintes condições forem cumpridas: \n\n -Construa 5 edifícios religiosos principais \n -O paganismo celta deve ser a religião majoritária em todas as províncias que você controla.	1
+campaign_localised_strings_string_public_order_desolation_tooltip	A devastação da guerra deixa pouco motivo para alegria e as pessoas deslocadas dirigem a sua ira contra vós.	1
+campaign_localised_strings_string_military_force_morale_change_of_soil	Solo Estrangeiro	1
+campaign_localised_strings_string_politics_character_cannot_become_governor_travelling	Este personagem não pode receber posições atribuídas quando em trânsito.	1
+campaign_localised_strings_string_politics_event_bribe	Tentativa de suborno!	1
+campaign_localised_strings_string_building_restriction_att_bld_eos_military_infantry_5_judaism	A Morada dos Khayyalim será desbloqueada assim que as seguintes condições forem cumpridas:\n[[col:yellow]]• Sua facção é pelo menos 75% judia.[[/col]]	1
+campaign_localised_strings_string_politics_event_blackmail_discredited	As suas exigências foram recusadas e a sua reputação foi manchada por rumores.	1
+campaign_localised_strings_string_politics_event_acting_family	Festa instigante:	1
+campaign_localised_strings_string_politics_event_marriage_failure	Ele recusou a oferta de casamento. O equilíbrio de poder permanece inalterado.	1
+campaign_localised_strings_string_politics_event_adoption_success	Ele aceitou a oferta e jurou lealdade ao seu novo partido. Agora ele serve aos interesses deles.	1
+campaign_localised_strings_string_raise_navy_no_valid_location	Não é possível levantar uma frota.||Não há localização válida.	1
+campaign_localised_strings_string_garrison_no_units_no_building	Sem guarnição ||Você não tem nenhum edifício que forneça unidades de guarnição.	1
+campaign_localised_strings_string_politics_action_impossible_target_own_family	[[col:red]]Esta ação não pode ser direcionada a outros membros da família.[[/col]]	1
+campaign_localised_strings_string_gdp_fertility	Fertilidade	1
+campaign_localised_strings_string_politics_event_assassination	Tentativa de assassinato!	1
+campaign_localised_strings_string_public_order_revolt_next_turn	No ritmo atual, os escravos se revoltarão no próximo turno!	1
+campaign_localised_strings_string_politics_action_make_heir_description	O herdeiro assumirá o comando da facção assim que o atual líder da facção falecer. Escolha o candidato que você acha mais adequado para a tarefa, mas lembre-se de que deserdar um herdeiro terá um efeito drástico em sua lealdade.\n\nA declaração de herança entra em vigor imediatamente.	1
+campaign_localised_strings_string_cha_faction_avar_khaganate_objective	O líder da sua facção deve ter pelo menos rank 5.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_patrol_stance	Patrulhamento	1
+campaign_localised_strings_string_building_restriction_att_slav_wonder_civic_2	Este edifício será desbloqueado assim que as seguintes condições forem atendidas:\n[[col:yellow]]• Controlar um recurso de ouro.\n• Controlar um recurso de chumbo.\n• Pelo menos 4.000 de receita comercial.\n• Pelo menos 70% de religião estatal.[[/col]]	1
+campaign_localised_strings_string_building_restriction_att_slav_wonder_civic_3	Este edifício será desbloqueado assim que as seguintes condições forem atendidas:\n[[col:yellow]]• Controlar um recurso de mármore.\n• Controlar um recurso de gemas.\n• Pelo menos 8.000 de renda comercial.\n• Pelo menos 80% de religião estatal.[[/col]]	1
+campaign_localised_strings_string_public_order_technology	Tecnologias	1
+campaign_localised_strings_string_military_force_morale_bonus_value_own_waters	Águas Amigáveis	1
+campaign_localised_strings_string_tooltip_loyalty_header	Lealdade	1
+campaign_localised_strings_string_tooltip_levy_unit_recruitment_unit_mouseover	Clique com o botão esquerdo para adicionar esta unidade cobrada à fila, clique com o botão direito para obter mais informações.||Para cobrar unidades, clique com o botão esquerdo no botão Contratar.	1
+campaign_localised_strings_string_garrison_no_units_momentarily	Sem guarnição ||As unidades começarão a ser reabastecidas no próximo turno.	1
+campaign_localised_strings_string_public_order_culture_tooltip	O caldeirão de culturas e estilos pode unir as pessoas ou criar atritos.	1
+campaign_localised_strings_string_building_restriction_att_bld_barbarian_civic_market_general_5_legendary_celts	O Mercado do Rei será desbloqueado assim que as seguintes condições forem cumpridas: \n\n -Ter acesso a 9 recursos comerciais.	1
+campaign_localised_strings_string_politics_action_impossible_actor_not_politician	[[col:red]]Somente estadistas podem tentar se tornar servidores de outro personagem.[[/col]]	1
+campaign_localised_strings_string_cha_mission_vikings_1	Saque 5 assentamentos na Inglaterra. (Isso inclui as províncias de Wessex, Mércia e Nortúmbria.)	1
+campaign_localised_strings_string_unit_upgrade_retrain_cannot_reason_none_multiple_horde	Não há treinamento adicional para essas unidades disponíveis nesta horda.	1
+campaign_localised_strings_string_details_panel_tradition_select	Esta força pode adotar uma tradição adicional.\nClique com o botão esquerdo em uma tradição para adotá-la.	1
+campaign_localised_strings_string_politics_action_impossible_actor_gravitas_insufficient	[[col:red]]O personagem atuante tem influência insuficiente para esta ação.[[/col]]\n\nOs personagens ganham influência através de seus sucessos no campo como comandantes ou governadores, ou gradualmente enquanto fazem política na capital.	1
+campaign_localised_strings_string_province_shared	Província compartilhada.	1
+campaign_localised_strings_string_politics_character_status_in_transit	Viajando	1
+campaign_localised_strings_string_military_force_morale_bonus_value_settle_stance	Acampamento	1
+campaign_localised_strings_string_politics_action_gravitas_cost	Custo de influência:	1
+campaign_localised_strings_string_politics_action_impossible_actor_faction_leader_only	[[col:red]]Apenas o líder da facção pode prosseguir esta ação política.[[/col]]	1
+campaign_localised_strings_string_recruitment_unavailable_cannot_switch_stance	Não é possível recrutar. Esta força não está atualmente em posição de assentamento e não tem pontos de ação suficientes para resolver.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_tax	Imposto	1
+campaign_localised_strings_string_recruitment_levy_from_satrapy	Arrecadação do estado fantoche	1
+campaign_localised_strings_string_raise_navy_blockaded	Não é possível formar uma frota.||O porto deste assentamento está bloqueado.	1
+campaign_localised_strings_string_raise_navy_no_candidate	Não é possível criar uma frota.||Não há candidatos adequados disponíveis.	1
+campaign_localised_strings_string_raise_army_no_candidate	Não é possível formar um exército.||Não há candidatos adequados disponíveis.	1
+campaign_localised_strings_string_retrain_upgrade_header	Retreinar	1
+campaign_localised_strings_string_edicts_current	Edital atual:	1
+campaign_localised_strings_string_current_office	Atualmente ocupa o cargo mais alto:	1
+campaign_localised_strings_string_public_order_culture	Religião	1
+campaign_localised_strings_string_force_not_in_correct_stance_expedition	As expedições devem estar acampadas para construir edifícios. A emissão desta ordem colocará a expedição em posição de acampamento.	1
+campaign_localised_strings_string_politics_action_impossible_actor_post_requirement_fail	[[col:red]]Os requisitos mínimos para este cargo não foram atendidos.[[/col]]	1
+campaign_localised_strings_string_public_order_faction_tooltip	O seu povo cansa-se do estado de guerra quase constante em que é forçado a viver.	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_none_single	Não há equipamento melhorado disponível para esta unidade nesta província.	1
+campaign_localised_strings_string_public_order_raiding_tooltip	Invasão	1
+campaign_localised_strings_string_authority_desc	Segurança contra ações de agentes autoritários.	1
+campaign_localised_strings_string_military_history_battles_defeat_phyrric	Derrota valente por:	1
+campaign_localised_strings_string_tooltip_mercenary_recruitment_unit_mouseover	Clique com o botão esquerdo para adicionar esta unidade mercenária à fila, clique com o botão direito para obter mais informações.||Para contratar mercenários, clique com o botão esquerdo no botão Contratar.	1
+campaign_localised_strings_string_character_type_child	Criança	1
+campaign_localised_strings_string_politics_event_adoption_failure	Ele recusou a oferta e permanece leal ao seu próprio partido.	1
+campaign_localised_strings_string_public_order_characters_tooltip	A presença deste homem e da sua comitiva pode afetar a ordem pública.	1
+campaign_localised_strings_string_politics_event_marriage_success	O casamento foi arranjado e o equilíbrio de poder foi restabelecido.	1
+campaign_localised_strings_string_politics_ministerial_position_expected_effects_when_qualified	[[/col:red]]O personagem selecionado ainda não atende aos requisitos mínimos para este cargo.[[/col]]\n\nNo cargo, eles teriam os seguintes efeitos:	1
+campaign_localised_strings_string_public_order_resistance_to_occupation_tooltip	Diminui em um a cada turno	1
+campaign_localised_strings_string_politics_event_marriage	Oferta de casamento.	1
+campaign_localised_strings_string_politics_power_support_popular_gravitas	%você influencia	1
+campaign_localised_strings_string_public_order_characters	Personagens	1
+campaign_localised_strings_string_growth_other	Outro	1
+campaign_localised_strings_string_politics_event_assassination_failure	Eles não conseguiram assassiná-lo.	1
+campaign_localised_strings_string_public_order_resistance_to_occupation	Instabilidade (-1 por turno)	1
+campaign_localised_strings_string_growth_taxes	Impostos	1
+campaign_localised_strings_string_gdp_subsistence	Subsistência	1
+campaign_localised_strings_string_gdp_animal_husbandry	Criação de Animais	1
+campaign_localised_strings_string_public_order_faction	Cansaço de Guerra	1
+campaign_localised_strings_string_details_panel_ancillary_select	Nenhum membro da família ou objeto atribuído atualmente.\nClique em um disponível para atribuí-lo a este personagem. Entrará em vigor a partir do próximo turno.	1
+campaign_localised_strings_string_tooltip_cancel_unit_recruitment	Clique com o botão esquerdo para remover a unidade da fila de recrutamento || Clique com o botão direito para obter mais informações	1
+campaign_localised_strings_string_eos_empire_of_the_east	Império do Oriente	1
+campaign_localised_strings_string_public_order_raiding	Invasão	1
+campaign_localised_strings_string_military_force_morale_bonus_value_food	Comida	1
+campaign_localised_strings_string_other_nobles_candidates_header	Candidatos	1
+campaign_localised_strings_string_politics_action_impossible_target_self	[[col:red]]Os personagens não podem agir contra si mesmos.[[/col]]	1
+campaign_localised_strings_string_development_points_tooltip_hordes_growth_max_expedition	[[col:yellow]]O excedente populacional desta expedição está na capacidade máxima.[[/col]]	1
+campaign_localised_strings_string_military_history_foundation_location	Localização:	1
+campaign_localised_strings_string_public_order_faction_province	%PLACEHOLDER% (NÃO UTILIZADO)	1
+campaign_localised_strings_string_confirm_religious_conversion	Tem certeza de que deseja se converter para a seguinte religião:	1
+campaign_localised_strings_string_building_restriction_att_bld_all_resources_port_spice_4	O Porto de Comércio de Especiarias será desbloqueado assim que as seguintes condições forem cumpridas:\n[[col:yellow]]• Alcançar o monopólio dos recursos de especiarias.[[/col]]	1
+campaign_localised_strings_string_building_restriction_att_bld_all_resources_port_spice_3	O Porto Oriental será desbloqueado quando as seguintes condições forem cumpridas:\n[[col:yellow]]• Possuir 2 ou mais recursos de especiarias.[[/col]]	1
+campaign_localised_strings_string_att_slav_venedians_mission_1	Reassentar 5 regiões desoladas.	1
+campaign_localised_strings_string_public_order_buildings	Edifícios	1
+campaign_localised_strings_string_character_retainer_of	Retentor de:	1
+campaign_localised_strings_string_politics_event_divorce	Procure o divórcio!	1
+campaign_localised_strings_string_unit_details_mancount	Homens:	1
+campaign_localised_strings_string_politics_ministerial_position_effects	Este personagem está atualmente ocupando este cargo, concedendo assim os seguintes efeitos:	1
+campaign_localised_strings_string_growth_armies	Exércitos	1
+campaign_localised_strings_string_events_strings_character_type	Tipo de personagem:	1
+campaign_localised_strings_string_unit_upgrade_retrain_cannot_reason_none_single_horde	Não há treinamento adicional para esta unidade disponível nesta horda.	1
+campaign_localised_strings_string_military_force_morale_sacked_settlement	Despojos de Guerra	1
+campaign_localised_strings_string_public_order_resources	Recursos	1
+campaign_localised_strings_string_public_order_rebellion	No ritmo atual, haverá uma rebelião em %n turnos.	1
+campaign_localised_strings_string_campaign_ambush_success_chance	Chance de sucesso em emboscada: %d%%	1
+campaign_localised_strings_string_cannot_recruit_force_region_under_siege	Este assentamento está sitiado. Você não pode reunir forças aqui até que ela seja levantada.	1
+campaign_localised_strings_string_military_force_morale_attrition	Atrito	1
+campaign_localised_strings_string_politics_event_divorce_success	Casamento anulado.	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_foreign_territory	O exército está em território estrangeiro.	1
+campaign_localised_strings_string_public_order_buildings_tooltip	A recente destruição e desintegração das nossas infra-estruturas desagrada as pessoas – ninguém quer viver na miséria.	1
+campaign_localised_strings_string_confirm_begin_migration	Tem certeza de que deseja iniciar a migração?	1
+campaign_localised_strings_string_military_force_morale_bonus_value_technologies	Tecnologias	1
+campaign_localised_strings_string_public_order_resources_tooltip	Quando a riqueza e o luxo passam pelos portões da cidade, a população tende a não se importar de onde eles vieram.	1
+campaign_localised_strings_string_cha_faction_scotland	Escócia	1
+campaign_localised_strings_string_politics_action_impossible_target_already_has_retainer	[[col:red]]Este personagem já possui um retentor.[[/col]]	1
+campaign_localised_strings_string_button_start_migration	Comece a migração||Abandone seus assentamentos restantes e comece a migração. O seu tesouro será reembolsado e as suas forças levarão consigo os seus edifícios para reassentamento, seja recolonizando um assentamento vazio ou capturando um já existente. O excedente populacional é redistribuído entre as forças existentes.	1
+campaign_localised_strings_string_cha_faction_holy_roman_empire	Sacro Império Romano	1
+campaign_localised_strings_string_att_slav_sclaveneans_mission_2	Não perca uma batalha por 20 turnos.	1
+campaign_localised_strings_string_att_slav_sclaveneans_mission_1	Derrote os hunos em batalha 5 vezes.	1
+campaign_localised_strings_string_military_force_morale_supplies	Suprimentos	1
+campaign_localised_strings_string_siege_cannot_surrender_without_blockade	Este acordo não se renderá enquanto for sustentado por um porto. Bloqueie o assentamento para matar a população de fome.	1
+campaign_localised_strings_string_character_neutral_effect_level	Nível de efeito neutro. Nenhum efeito negativo ou positivo aplicado.	1
+campaign_localised_strings_string_raise_legacy_besieged	Não é possível restabelecer o legado.||Este assentamento está sitiado.	1
+campaign_localised_strings_string_battle_ambush_they_intercept	Seu exército avistou uma força inimiga esperando para emboscar. Implacável com a sua descoberta, o inimigo está se movendo para interceptar.	1
+campaign_localised_strings_string_military_force_morale_kings_own	Próprio do Rei	1
+campaign_localised_strings_string_politics_action_cancel	Cancele esta ação política.	1
+campaign_localised_strings_string_cha_mission_pope_help_1	Capture ou saqueie a capital lombarda.	1
+campaign_localised_strings_string_military_force_morale_concurrent_wars	Guerras Simultâneas	1
+campaign_localised_strings_string_development_points_tooltip_hordes_growth_max	[[col:yellow]]O excedente populacional desta horda está na capacidade máxima.[[/col]]	1
+campaign_localised_strings_string_building_restriction_att_bld_eos_mint	A Casa da Moeda Real será desbloqueada assim que as seguintes condições forem atendidas:\n[[col:yellow]]• Controlar um recurso de ouro.\n• Alcançar o monopólio dos recursos de especiarias.[[/col]]	1
+campaign_localised_strings_string_gdp_fertility_livestock	Criação [Fertilidade]	1
+campaign_localised_strings_string_imperium_tooltip_03	Impressionante||As notícias sobre suas conquistas viajaram muito; você é considerado com respeito e cautela.	1
+campaign_localised_strings_string_imperium_tooltip_02	Digno de nota||Você se estabeleceu como um poder digno.	1
+campaign_localised_strings_string_imperium_tooltip_01	Insignificante || Seu poder tem pouca importância para o mundo... ainda!	1
+campaign_localised_strings_string_imperium_tooltip_07	Supremo||Seu poder é supremo.	1
+campaign_localised_strings_string_imperium_tooltip_06	Aterrorizante || O mundo treme diante do seu poder.	1
+campaign_localised_strings_string_imperium_tooltip_05	Intimidante||Seu poder é temido e cobiçado por seus inimigos.	1
+campaign_localised_strings_string_imperium_tooltip_04	Inspirador||Suas realizações são ótimas; um modelo - e um desafio - para todos.	1
+campaign_localised_strings_string_building_restriction_att_bld_barbarian_civic_tavern_5_legendary_celts	O Salão dos Bardos será desbloqueado assim que as seguintes condições forem cumpridas: \n\n - Alcance 3 vitórias heróicas.	1
+campaign_localised_strings_string_religion_factor_faction_traits	Característica de Facção	1
+campaign_localised_strings_string_public_order_province	Província	1
+campaign_localised_strings_string_military_force_morale_released_captives	Sem cativos	1
+campaign_localised_strings_string_military_force_morale_bonus_value_own_territory	Território Amigável	1
+campaign_localised_strings_string_details_panel_tradition_cannot_select	Esta força não pode adotar esta tradição:	1
+campaign_localised_strings_string_gdp_land_trade	!NÃO USADO!	1
+campaign_localised_strings_string_military_force_morale_bonus_value_march_stance	Migração em massa	1
+campaign_localised_strings_string_politics_action_impossible_target_dead	[[col:red]]Este personagem está morto! Eles não podem ser alvo de ação.[[/col]]	1
+campaign_localised_strings_string_development_points_tooltip_hordes_insufficent_development_points_number	Você precisa de %n excedente populacional.||A horda crescerá com o tempo, mas uma combinação de invasão e colonização, junto com as construções apropriadas, ajudará a aumentar sua taxa.	1
+campaign_localised_strings_string_raise_legacy_no_surplus	Não é possível restabelecer o legado.||Você não tem excedente populacional suficiente.	1
+campaign_localised_strings_string_raise_legacy	Restabeleça um legado.||Reviva o nome de uma de suas forças derrotadas ou dissolvidas.||A nova força manterá todas as tradições de sua antecessora.	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_none_single_horde	Não há equipamento melhorado disponível para esta unidade nesta horda.	1
+campaign_localised_strings_string_politics_cursus_current_level	Nível atual	1
+campaign_localised_strings_string_details_panel_tradition_cannot_low_rank	Sua classificação é muito baixa.	1
+campaign_localised_strings_string_gdp_local_trade	Comércio Local	1
+campaign_localised_strings_string_raise_force_navy_cannot	Não é possível aumentar a frota	1
+campaign_localised_strings_string_cannot_recruit_agent_region_not_owned	Este assentamento não pertence a você. Você não pode recrutar um agente aqui.	1
+campaign_localised_strings_string_military_force_morale_bonus_value_faction_trait	Característica de Facção	1
+campaign_localised_strings_string_politics_event_outcome	Conseqüência	1
+campaign_localised_strings_string_cha_faction_frankish_kingdom	Reino dos Francos	1
+campaign_localised_strings_string_cha_faction_cordoba_caliphate_objective	A religião oficial do Islã é de pelo menos 75%.	1
+campaign_localised_strings_string_politics_power_support_popular_current	Domínio atual:	1
+campaign_localised_strings_string_cannot_issue_edict_to_unowned_region	[[col:red]]Você só pode emitir editais nas regiões de sua propriedade.[[/col]]	1
+campaign_localised_strings_string_politics_event_target_character	Alvo:	1
+campaign_localised_strings_string_details_panel_skills_cannot_low_rank	A classificação deles é muito baixa.	1
+campaign_localised_strings_string_cunning_desc	Segurança contra ações astutas de agentes.	1
+campaign_localised_strings_string_cannot_recruit_agent_region_under_siege	Este assentamento está sitiado. Você não pode recrutar um agente aqui até que o problema seja levantado.	1
+campaign_localised_strings_string_politics_governor_cap_reached	Você já tem o número máximo de governadores.	1
+campaign_localised_strings_string_politics_power_support_political_description	O controle é uma medida do seu domínio da política; seu poder sobre a elite. Ele flutua à medida que os membros de sua família se envolvem em intrigas políticas e à medida que outros eventos de campanha se desenrolam.\n\nCombinado com domínio, ele define o poder geral de sua família.	1
+campaign_localised_strings_string_unit_upgrade_retrain_cannot_reason_none_single	Não há formação adicional para esta unidade disponível nesta província.	1
+campaign_localised_strings_string_edicts_cancel	Cancelar decreto\nO decreto atual deixará de ter efeito no início do próximo turno.	1
+campaign_localised_strings_string_bel_western_roman_separatists	Separatistas Romanos Ocidentais	1
+campaign_localised_strings_string_raise_legacy_blockaded	Não é possível restabelecer o legado.||O porto deste assentamento está sendo bloqueado.	1
+campaign_localised_strings_string_garrison_no_units_siege	Sem guarnição ||A guarnição não pode reabastecer enquanto a cidade estiver sitiada.	1
+campaign_localised_strings_string_military_force_morale_decimated	Dizimado	1
+campaign_localised_strings_string_gdp_sea_trade	Comércio Marítimo	1
+campaign_localised_strings_string_public_order_improving	A ordem pública está melhorando.	1
+campaign_localised_strings_string_end_turn_warning_character_skill_to_be_picked	Este personagem tem uma habilidade não atribuída:	1
+campaign_localised_strings_string_cha_mission_asturias_1	Reassentar 2 das seguintes regiões:\nLeon, Valladoid, Salamanca	1
+campaign_localised_strings_string_sea_region_control_status_port_gdp_modifier_reduction	-%d%% riqueza proveniente do comércio marítimo (Pirataria)	1
+campaign_localised_strings_string_military_force_morale_ambitious_leader	Líder ambicioso	1
+campaign_localised_strings_string_details_panel_tradition_unlocked_rank	Desbloqueado na classificação:	1
+campaign_localised_strings_string_gdp_learning	!NÃO USADO!	1
+campaign_localised_strings_string_growth_tooltip_description_expedition	À medida que a expedição cresce, sua população pode ser usada para fortalecer ou gerar novas expedições.	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_insufficient_funds	Você não tem fundos suficientes.	1
+campaign_localised_strings_string_public_order_military_crackdown_tooltip	Quando os meios civis falharem, a ordem será mantida com a ameaça do aço.	1
+campaign_localised_strings_string_unit_upgrade_cannot_reason_none_multiple_horde	Não há equipamento melhorado disponível para essas unidades nesta horda.	1
+campaign_localised_strings_string_public_order_military_activity	Presença militar	1
+campaign_localised_strings_string_politics_character_is_faction	Este personagem faz parte da família da seguinte facção:	1
+campaign_localised_strings_string_cannot_recruit_force_region_not_owned	Este assentamento não pertence a você. Você não pode reunir forças aqui.	1
+campaign_localised_strings_string_raise_force_navy_cannot_port_required	[[col:red]]Você só pode criar frotas em assentamentos portuários.[[/col]]	1
+campaign_localised_strings_string_public_order_buildings_squalor_tooltip	Miséria	1
+campaign_localised_strings_string_public_order_banditry_tooltip	Vagabundos e rufiões perturbam o fluxo natural da sociedade, perturbando a paz e semeando infelicidade	1
+campaign_localised_strings_string_details_panel_ancillary_none	Atualmente não há membros da família ou objetos disponíveis para atribuição.	1
+campaign_localised_strings_string_public_order_conquest_tooltip	As privações da guerra e da opressão militar estão a tornar o povo rebelde.	1
+campaign_localised_strings_string_public_order_baseline_tooltip	A dificuldade da sua campanha afetará a ordem pública.	1
+campaign_localised_strings_string_cha_faction_viking_kingdom_objective	Saque pelo menos 25 assentamentos.	1
+campaign_localised_strings_string_province_fertility_factor_base	Fertilidade básica	1
+campaign_localised_strings_string_politics_character_cannot_act_wounded	Este personagem não pode realizar ações políticas, ou realizar ações sobre ele, enquanto estiver ferido.	1
+campaign_localised_strings_string_public_order_buildings_squalor	Edifícios	1
+campaign_localised_strings_string_public_order_banditry	Banditismo	1
+campaign_localised_strings_string_military_force_morale_bonus_value_guarded_navy	Acompanhamento de Transportes	1
+campaign_localised_strings_string_cha_faction_english_kingdom_objective	Possui as províncias de Wessex, Mércia e Nortúmbria.	1
+campaign_localised_strings_string_cha_faction_italian_kingdom_objective	Possui as províncias de Friuli, Lombardia, Exarcado, Benevento, Calábria, Sicília e Roma (excluindo Roma).	1
+campaign_localised_strings_string_military_force_morale_raiding	Invasão	1
+campaign_localised_strings_string_raise_legacy_no_legacy	Não é possível restabelecer o legado.||Você não tem legados militares para restabelecer.	1
+campaign_localised_strings_string_public_order_garrison	Guarnição	1
+campaign_localised_strings_string_politics_character_cannot_be_acted_or_act_travelling	Este personagem não pode agir ou receber ações enquanto estiver em trânsito.	1
+campaign_localised_strings_string_public_order_baseline	Nível de dificuldade	1
+campaign_localised_strings_string_public_order_conquest	Conquista (somente no próximo turno)	1
+campaign_localised_strings_string_cannot_recruit_unit_source_settlement_blockaded	Não é possível recrutar esta unidade||O assentamento de origem está bloqueado.	1
+campaign_localised_strings_string_character_type_daughter	Filha	1
+campaign_localised_strings_string_edicts_issued	Editais emitidos:	1
+campaign_localised_strings_string_province_owned	Província de propriedade.	1
+campaign_localised_strings_string_general_type_general	Em geral	1
+campaign_localised_strings_string_public_order_military_crackdown	Repressão militar	1
+campaign_localised_strings_string_military_history_battles_defeat_heroic	Derrota esmagadora por:	1
+campaign_localised_strings_string_details_panel_ancillary_cannot_assign	[[col:yellow]]Atualmente não há membros da família ou objetos disponíveis para atribuição.[[/col]]	1
+campaign_localised_strings_string_cha_faction_spanish_kingdom_objective	Possui as províncias de Valência, Toledo, Marca Hispanica, Marca Inferior, Marca Media, Navarra, Leão e Galiza.	1
+campaign_localised_strings_string_general_type_admiral	Almirante	1
+campaign_localised_strings_string_sanitation_tooltip_current_sanitation	Saneamento atual:	1
+campaign_localised_strings_string_public_order_military_activity_tooltip	A recente atividade militar na região deu às pessoas motivos para falar	1

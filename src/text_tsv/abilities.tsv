@@ -1,0 +1,19 @@
+key	value	flag
+abilities_on_screen_description_hinder_agent	Impedir o progresso de um agente rival ou obrigá-lo a se juntar ao seu lado.	1
+abilities_on_screen_description_command_force	 	1
+abilities_on_screen_description_assist_army	Aumente a eficácia de um exército usando talentos específicos de seu agente.	1
+abilities_on_screen_description_hinder_army	Diminua a eficácia da batalha de um exército rival ou atrapalhe o progresso do mapa de campanha.	1
+abilities_on_screen_name_hinder_agent	Manipular Agente	1
+abilities_on_screen_name_hinder_army	Perturbar Exército	1
+abilities_on_screen_name_hinder_settlement	Perturbar Assentamento	1
+abilities_on_screen_name_assist_army	Apoiar Exército	1
+abilities_on_screen_description_hinder_settlement	Interromper os assuntos do dia-a-dia dentro de um assentamento rival através de atos de sabotagem ou interferência.	1
+abilities_on_screen_name_hinder_province	Perturbar Província	1
+abilities_on_screen_name_assist_province	Apoiar Província	1
+abilities_on_screen_name_hinder_character	Assassinar	1
+abilities_on_screen_name_passive_ability	 	1
+abilities_on_screen_description_assist_province	Coloque os talentos do seu agente na prática, reforçando a eficácia provincial.	1
+abilities_on_screen_description_passive_ability	 	1
+abilities_on_screen_name_command_force	 	1
+abilities_on_screen_description_hinder_character	Alvejar um personagem rival para assassinato.	1
+abilities_on_screen_description_hinder_province	Diminua a eficácia provincial usando os talentos específicos do seu agente.	1

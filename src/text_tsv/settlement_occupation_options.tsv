@@ -1,0 +1,12 @@
+key	value	flag
+settlement_occupation_options_tooltip_occupation_decision_resettle	Reassentamento||Como uma horda migratória, agora você tem a opção de estabelecer seu exército neste assentamento e cessar a migração.	1
+settlement_occupation_options_tooltip_occupation_decision_colonise	Colonizar||Acalmar soldados.	1
+settlement_occupation_options_tooltip_occupation_decision_liberate	Libertar||Você devolve os proprietários originais desta região ao poder, ressuscitando sua facção. Todos os cativos serão libertados.||Eles ficarão imensamente gratos por isso.	1
+settlement_occupation_options_tooltip_occupation_decision_do_nothing	Não faça nada	1
+settlement_occupation_options_tooltip_occupation_decision_raze_without_occupy	Arrasar||Todos os edifícios são destruídos e o assentamento é incendiado.	1
+settlement_occupation_options_tooltip_occupation_decision_gift_to_another_faction	Recuperar||Recuperar esta região para o Império! Restaurada à sua antiga glória, Roma dominará por mais mil anos!||Você entrega o controle desta região ao Império Romano.	1
+settlement_occupation_options_tooltip_occupation_decision_vassal	Subjugar||Dependendo de sua formação cultural, a facção conquistada se tornará uma satrapia ou um estado cliente seu. Todos os cativos são escravizados.	1
+settlement_occupation_options_tooltip_occupation_decision_raze	Arrasar||Todos os edifícios destrutíveis no assentamento são destruídos e nenhum tesouro é levado. Todos os cativos são mortos.||A ordem pública é reduzida e o proprietário anterior irá odiar você.	1
+settlement_occupation_options_tooltip_occupation_decision_occupy	Ocupar || Você ocupa o assentamento pacificamente e todos os cativos são libertados.	1
+settlement_occupation_options_tooltip_occupation_decision_loot	Saquear e Ocupar||Você ganha dinheiro com saques, mas os edifícios do assentamento são danificados. Todos os cativos são escravizados.|| A ordem pública é bastante reduzida e as suas relações diplomáticas com o proprietário anterior também sofrem muito.	1
+settlement_occupation_options_tooltip_occupation_decision_sack	Saquear||Você não captura o assentamento, mas rouba tesouros e danifica edifícios. Todos os cativos são mortos.||A ordem pública é reduzida e os proprietários anteriores gostarão muito menos de você.	1
